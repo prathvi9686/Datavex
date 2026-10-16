@@ -1,0 +1,856 @@
+======================================================================
+  DATAVEX AGENT DIAGNOSTIC
+  Model: llama3.1:8b
+  Base URL: http://100.109.131.90:11434/v1
+  Time: 2026-02-21 23:22:24
+======================================================================
+
+
+[STEP 0] Checking LLM config...
+  OFFLINE_MODE = False
+  LLM_MODEL    = llama3.1:8b
+  BASE_URL     = http://100.109.131.90:11434/v1
+  Client       = CONNECTED
+
+  ✓ ONLINE MODE — agents will call Ollama LLM for real analysis
+
+[STEP 0.5] Testing LLM connection with a simple prompt...
+  ✓ LLM responded in 4.9s: 'Hello Datavex'
+
+
+======================================================================
+  AGENT 1 — TARGET DISCOVERY
+======================================================================
+
+  Input: AI analytics, data platform, and ML database companies looking for data engineering and cloud modernization
+  Deal: min=$500,000, max=$10,000,000, regions=['India', 'US'], sizes=['small', 'mid', 'large']
+
+  ✓ Agent 1 completed in 2.1s — found 3 candidates
+
+────────────────────────────────────────────────────────────
+  Candidate 1: Fractal Analytics
+────────────────────────────────────────────────────────────
+{
+  "company_name": "Fractal Analytics",
+  "domain": "fractal.ai",
+  "industry": "AI Analytics",
+  "size": "large",
+  "estimated_employees": 4000,
+  "region": "India",
+  "capability_score": 1.0,
+  "size_fit": 1.0,
+  "geo_fit": 1.0,
+  "industry_fit": 1.0,
+  "initial_match_score": 1.0,
+  "notes": "Matched 6 tech signals. Size: large, Region: India"
+}
+
+  Summary: Fractal Analytics | AI Analytics | large | 4000 emp | India
+           cap_score=1.000 | size_fit=1.0 | geo_fit=1.0 | ind_fit=1.0
+           TOTAL MATCH SCORE = 1.000
+           VERDICT: ✓ STRONG MATCH
+
+────────────────────────────────────────────────────────────
+  Candidate 2: Databricks
+────────────────────────────────────────────────────────────
+{
+  "company_name": "Databricks",
+  "domain": "databricks.com",
+  "industry": "AI Analytics",
+  "size": "large",
+  "estimated_employees": 7000,
+  "region": "US",
+  "capability_score": 1.0,
+  "size_fit": 1.0,
+  "geo_fit": 1.0,
+  "industry_fit": 1.0,
+  "initial_match_score": 1.0,
+  "notes": "Matched 8 tech signals. Size: large, Region: US"
+}
+
+  Summary: Databricks | AI Analytics | large | 7000 emp | US
+           cap_score=1.000 | size_fit=1.0 | geo_fit=1.0 | ind_fit=1.0
+           TOTAL MATCH SCORE = 1.000
+           VERDICT: ✓ STRONG MATCH
+
+────────────────────────────────────────────────────────────
+  Candidate 3: MindsDB
+────────────────────────────────────────────────────────────
+{
+  "company_name": "MindsDB",
+  "domain": "mindsdb.com",
+  "industry": "AI/ML Database",
+  "size": "small",
+  "estimated_employees": 100,
+  "region": "US",
+  "capability_score": 1.0,
+  "size_fit": 1.0,
+  "geo_fit": 1.0,
+  "industry_fit": 1.0,
+  "initial_match_score": 1.0,
+  "notes": "Matched 6 tech signals. Size: small, Region: US"
+}
+
+  Summary: MindsDB | AI/ML Database | small | 100 emp | US
+           cap_score=1.000 | size_fit=1.0 | geo_fit=1.0 | ind_fit=1.0
+           TOTAL MATCH SCORE = 1.000
+           VERDICT: ✓ STRONG MATCH
+
+
+======================================================================
+  AGENT 2 — SIGNAL EXTRACTION
+======================================================================
+
+  ✓ Agent 2 completed in 26.8s — signals for 3 companies
+
+────────────────────────────────────────────────────────────
+  Signals for: Fractal Analytics
+────────────────────────────────────────────────────────────
+{
+  "company_name": "Fractal Analytics",
+  "pivot": {
+    "label": "Expansion to new markets and product diversification",
+    "confidence": 0.5,
+    "evidence": [
+      {
+        "text": "Won Retail & Consumer Goods 2025 Microsoft Partner of the Year Award. Heavy adoption of Azure OpenAI Service, Microsoft Copilot. Powers data-driven decisions for Fortune 500 companies.",
+        "source": "tech_stack",
+        "recency_days": 30
+      },
+      {
+        "text": "Fractal operates through two segments: Fractal.ai (AI services/products) and Fractal Alpha (independent AI ventures). Client base includes Microsoft, Apple, Nvidia, Alphabet, Amazon, Meta, Tesla.",
+        "source": "blog",
+        "recency_days": 20
+      }
+    ]
+  },
+  "tech_debt": null,
+  "fiscal_pressure": null,
+  "why_now_triggers": [
+    {
+      "event": "Fractal Analytics raised $170 million in July 2025 through secondary share sale",
+      "recency_days": 300,
+      "impact": "high"
+    },
+    {
+      "event": "Fractal filed for IPO in August 2025 aiming to raise Rs 4,900 crore ($560M)",
+      "recency_days": 270,
+      "impact": "high"
+    },
+    {
+      "event": "Revenue grew 25.9% to Rs 2,765 crore in FY25, turnaround from loss in previous year",
+      "recency_days": 365,
+      "impact": "medium"
+    }
+  ],
+  "company_state": "GROWTH",
+  "raw_texts": [
+    {
+      "text": "Fractal Analytics is actively hiring for Software Engineer (Backend, Fullstack React), Data Engineer (Azure), GCP Engineer, Kafka Engineer, Automation Test Engineer, Gen AI Data Scientist. Hiring across Mumbai, Pune, Chennai, Bengaluru, Gurgaon, and New York.",
+      "source": "careers",
+      "recency_days": 15
+    },
+    {
+      "text": "Fractal launched Gen AI Data Scientist Hiring Challenge 2025 for professionals with 2+ years experience — MCQ + ML question round, direct interviews for top performers.",
+      "source": "careers",
+      "recency_days": 30
+    },
+    {
+      "text": "Imagineer (Hiring Women in Tech) program targeting 2025 graduates. Compensation for B.Tech/MCA: INR 22 LPA over 3 years, starting at INR 6 LPA + INR 1 Lakh joining bonus.",
+      "source": "careers",
+      "recency_days": 45
+    },
+    {
+      "text": "Fractal Analytics raised $170 million in July 2025 through secondary share sale, valued at $2.44 billion. 22 investors participated, Apax Partners partially divested. Total funding: $855 million.",
+      "source": "news",
+      "recency_days": 10
+    },
+    {
+      "text": "Fractal filed for IPO in August 2025 aiming to raise Rs 4,900 crore ($560M) at $3.5B+ valuation. IPO debuted Feb 2026 at $1.6B listing valuation.",
+      "source": "news",
+      "recency_days": 30
+    },
+    {
+      "text": "Revenue grew 25.9% to Rs 2,765 crore in FY25. Net profit Rs 220 crore, turnaround from loss in previous year. EBITDAM targeting 20%+ from 13% in FY25.",
+      "source": "news",
+      "recency_days": 20
+    },
+    {
+      "text": "Fractal invested $20M in Asper.ai (AI platform for consumer goods/manufacturing) in March 2025.",
+      "source": "news",
+      "recency_days": 60
+    },
+    {
+      "text": "Fractal recognized as 'Leader' in Forrester Wave Customer Analytics Services Q2 2025. Partners with Microsoft (Azure OpenAI, Copilot, Cloud for Retail), OpenAI (Solutions Partner), NVIDIA, AWS (Premier Tier), and Databricks.",
+      "source": "tech_stack",
+      "recency_days": 15
+    },
+    {
+      "text": "Won Retail & Consumer Goods 2025 Microsoft Partner of the Year Award. Heavy adoption of Azure OpenAI Service, Microsoft Copilot. Powers data-driven decisions for Fortune 500 companies.",
+      "source": "tech_stack",
+      "recency_days": 30
+    },
+    {
+      "text": "Fractal operates through two segments: Fractal.ai (AI services/products) and Fractal Alpha (independent AI ventures). Client base includes Microsoft, Apple, Nvidia, Alphabet, Amazon, Meta, Tesla.",
+      "source": "blog",
+      "recency_days": 20
+    }
+  ]
+}
+
+  Company: Fractal Analytics
+  State:   GROWTH
+  PIVOT: DETECTED (confidence=0.50, label='Expansion to new markets and product diversification')
+    └─ [tech_stack] Won Retail & Consumer Goods 2025 Microsoft Partner of the Year Award. Heavy adoption of Azure OpenAI Service, Microsoft ...
+    └─ [blog] Fractal operates through two segments: Fractal.ai (AI services/products) and Fractal Alpha (independent AI ventures). Cl...
+    ⚠ Evidence check: 2 items — check if these are from real data or LLM hallucination
+  TECH_DEBT: NOT DETECTED
+  FISCAL_PRESSURE: NOT DETECTED
+  WHY NOW TRIGGERS: 3 items
+    └─ {"event": "Fractal Analytics raised $170 million in July 2025 through secondary share sale", "recency_days": 300, "impact": "high"}
+    └─ {"event": "Fractal filed for IPO in August 2025 aiming to raise Rs 4,900 crore ($560M)", "recency_days": 270, "impact": "high"}
+    └─ {"event": "Revenue grew 25.9% to Rs 2,765 crore in FY25, turnaround from loss in previous year", "recency_days": 365, "impact": "medium"}
+  RAW TEXTS: 10 source documents fed to LLM
+    └─ [careers] Fractal Analytics is actively hiring for Software Engineer (Backend, Fullstack React), Data Engineer...
+    └─ [careers] Fractal launched Gen AI Data Scientist Hiring Challenge 2025 for professionals with 2+ years experie...
+    └─ [careers] Imagineer (Hiring Women in Tech) program targeting 2025 graduates. Compensation for B.Tech/MCA: INR ...
+
+────────────────────────────────────────────────────────────
+  Signals for: Databricks
+────────────────────────────────────────────────────────────
+{
+  "company_name": "Databricks",
+  "pivot": {
+    "label": "Expansion of Data Intelligence Platform vision to include Generative AI",
+    "confidence": 0.4,
+    "evidence": [
+      {
+        "text": "Databricks workforce reached 9,000 employees in 2025. Actively hiring Software Engineer, Data Engineer, Platform Engineer, Solution Architect roles. Also hiring Software Engineer - New Grad 2025.",
+        "source": "careers",
+        "recency_days": 10
+      }
+    ]
+  },
+  "tech_debt": null,
+  "fiscal_pressure": null,
+  "why_now_triggers": [
+    {
+      "event": "Databricks closed $1 billion Series K funding round at $100B+ valuation",
+      "recency_days": 120,
+      "impact": "high"
+    },
+    {
+      "event": "Databricks launched Agent Bricks (AI agent development platform), Lakebase (transactional database), and Databricks One (no-code AI BI platform) at 2025 Data + AI Summit",
+      "recency_days": 60,
+      "impact": "high"
+    },
+    {
+      "event": "Databricks raised Series L of $4 billion+ at $134 billion valuation with revenue run-rate exceeding $4.8B in Q3 2025, 55%+ YoY growth",
+      "recency_days": 30,
+      "impact": "high"
+    }
+  ],
+  "company_state": "RESTRUCTURING",
+  "raw_texts": [
+    {
+      "text": "Databricks workforce reached 9,000 employees in 2025. Actively hiring Software Engineer, Data Engineer, Platform Engineer, Solution Architect roles. Also hiring Software Engineer - New Grad 2025.",
+      "source": "careers",
+      "recency_days": 10
+    },
+    {
+      "text": "Tech stack: Python, SQL, Scala, Java, C++, R, JavaScript, TypeScript. Requires Apache Spark, Delta Lake, Unity Catalog, Kubernetes, Docker, Terraform, Jenkins, MLflow.",
+      "source": "careers",
+      "recency_days": 15
+    },
+    {
+      "text": "Solution Architect roles specialize in data engineering, data science, cloud platforms, and security. Interview process includes technical coding, architectural, and executive interviews.",
+      "source": "careers",
+      "recency_days": 30
+    },
+    {
+      "text": "Databricks closed $1 billion Series K (Sep 2025) at $100B+ valuation, led by Andreessen Horowitz, Insight Partners, MGX, Thrive Capital. For AI strategy, Agent Bricks, Lakebase, AI acquisitions.",
+      "source": "news",
+      "recency_days": 5
+    },
+    {
+      "text": "Databricks raising Series L of $4 billion+ (Dec 2025) at $134 billion valuation. Revenue run-rate exceeding $4.8B in Q3 2025, 55%+ YoY growth. Positive free cash flow.",
+      "source": "news",
+      "recency_days": 10
+    },
+    {
+      "text": "Strategic partnerships in 2025: Anthropic ($100M 5-year deal, March), Google Cloud/Gemini (4-year deal, June), NTT DATA ($200M target), Kyndryl global alliance (June). Accenture/Avanade 7th consecutive Global Partner of the Year.",
+      "source": "news",
+      "recency_days": 15
+    },
+    {
+      "text": "Launched Agent Bricks (AI agent development platform), Lakebase (transactional database), and Databricks One (no-code AI BI platform) at 2025 Data + AI Summit.",
+      "source": "news",
+      "recency_days": 20
+    },
+    {
+      "text": "Core: Lakehouse architecture unifying data lakes + warehouses. Built on Apache Spark. Delta Lake for ACID transactions. Unity Catalog as data governance 'operating system'. MLflow for ML lifecycle.",
+      "source": "tech_stack",
+      "recency_days": 5
+    },
+    {
+      "text": "2025 stack: Python, SQL, PySpark essential. ETL: Medallion Architecture, Apache Airflow, Fivetran, dbt. Cloud: AWS, Azure, GCP. New: Agent Bricks, Lakebase, Databricks Apps, embedded GenAI.",
+      "source": "tech_stack",
+      "recency_days": 10
+    },
+    {
+      "text": "2025 vision: 'Data Intelligence Platform' — embedding Generative AI into workflows, Unity Catalog central governance. Data Warehousing and AI products each exceed $1B revenue run-rate.",
+      "source": "blog",
+      "recency_days": 15
+    }
+  ]
+}
+
+  Company: Databricks
+  State:   RESTRUCTURING
+  PIVOT: DETECTED (confidence=0.40, label='Expansion of Data Intelligence Platform vision to include Generative AI')
+    └─ [careers] Databricks workforce reached 9,000 employees in 2025. Actively hiring Software Engineer, Data Engineer, Platform Enginee...
+    ⚠ Evidence check: 1 items — check if these are from real data or LLM hallucination
+  TECH_DEBT: NOT DETECTED
+  FISCAL_PRESSURE: NOT DETECTED
+  WHY NOW TRIGGERS: 3 items
+    └─ {"event": "Databricks closed $1 billion Series K funding round at $100B+ valuation", "recency_days": 120, "impact": "high"}
+    └─ {"event": "Databricks launched Agent Bricks (AI agent development platform), Lakebase (transactional database), and Databricks One (no-code AI BI platform) at 2025 Data + AI Summit", "recency_days": 60, "impact": "high"}
+    └─ {"event": "Databricks raised Series L of $4 billion+ at $134 billion valuation with revenue run-rate exceeding $4.8B in Q3 2025, 55%+ YoY growth", "recency_days": 30, "impact": "high"}
+  RAW TEXTS: 10 source documents fed to LLM
+    └─ [careers] Databricks workforce reached 9,000 employees in 2025. Actively hiring Software Engineer, Data Engine...
+    └─ [careers] Tech stack: Python, SQL, Scala, Java, C++, R, JavaScript, TypeScript. Requires Apache Spark, Delta L...
+    └─ [careers] Solution Architect roles specialize in data engineering, data science, cloud platforms, and security...
+
+────────────────────────────────────────────────────────────
+  Signals for: MindsDB
+────────────────────────────────────────────────────────────
+{
+  "company_name": "MindsDB",
+  "pivot": {
+    "label": "expanding team and products",
+    "confidence": 0.5,
+    "evidence": [
+      {
+        "text": "Key roles include ML Engineer, Data Engineer, Backend Engineer, DevOps. Focus on building AI-in-database technology. Team is fully remote.",
+        "source": "careers",
+        "recency_days": 30
+      },
+      {
+        "text": "MindsDB declared full support for Model Context Protocol (MCP) across open-source and enterprise platforms (April 2025) — becoming a unified AI data hub standardizing AI model access to enterprise data.",
+        "source": "news",
+        "recency_days": 45
+      }
+    ]
+  },
+  "tech_debt": null,
+  "fiscal_pressure": null,
+  "why_now_triggers": [
+    {
+      "event": "Closed $47M Series C funding round",
+      "recency_days": 365,
+      "impact": "high"
+    },
+    {
+      "event": "Announced full support for Model Context Protocol (MCP)",
+      "recency_days": 270,
+      "impact": "medium"
+    },
+    {
+      "event": "Signed AI Reseller Agreement with Intelligent Protection Management Corp",
+      "recency_days": 240,
+      "impact": "low"
+    }
+  ],
+  "company_state": "COST_OPTIMIZATION",
+  "raw_texts": [
+    {
+      "text": "MindsDB actively hiring — seeking passionate ML engineers. Benefits: unlimited PTO, remote work setup budget, company offsites, personal development budget. Expanding team with Series C funding.",
+      "source": "careers",
+      "recency_days": 20
+    },
+    {
+      "text": "Key roles include ML Engineer, Data Engineer, Backend Engineer, DevOps. Focus on building AI-in-database technology. Team is fully remote.",
+      "source": "careers",
+      "recency_days": 30
+    },
+    {
+      "text": "MindsDB closed $47M Series C (Oct 2025) at $150M valuation, led by Benchmark and Mayfield. Funds for scaling ops, expanding team, enhancing products, new features, market presence.",
+      "source": "news",
+      "recency_days": 5
+    },
+    {
+      "text": "MindsDB declared full support for Model Context Protocol (MCP) across open-source and enterprise platforms (April 2025) — becoming a unified AI data hub standardizing AI model access to enterprise data.",
+      "source": "news",
+      "recency_days": 45
+    },
+    {
+      "text": "Strategic partnerships: aiComply + NavigateCyber for Federal ATO (Nov 2025), Google collaboration for MCP Toolbox (Nov 2025), Oracle + Salesforce integrations (Oct 2025).",
+      "source": "news",
+      "recency_days": 15
+    },
+    {
+      "text": "Intelligent Protection Management Corp signed AI Reseller Agreement with MindsDB (Sep 2025). Y Combinator backed. Open-source AI-in-database platform.",
+      "source": "news",
+      "recency_days": 30
+    },
+    {
+      "text": "Core tech: AI-in-database platform — brings ML directly into databases. Supports MCP protocol for standardized AI model access. Open-source with enterprise tier. Integrations with Oracle, Salesforce, Google.",
+      "source": "tech_stack",
+      "recency_days": 10
+    },
+    {
+      "text": "Founded 2017, Y Combinator backed. Platform enables real-time predictions from existing databases without external ML pipelines. Python + SQL interface for ML.",
+      "source": "tech_stack",
+      "recency_days": 30
+    },
+    {
+      "text": "MindsDB vision: democratize ML by making it accessible through SQL. No need for separate ML infrastructure — predictions happen inside your existing database.",
+      "source": "blog",
+      "recency_days": 30
+    }
+  ]
+}
+
+  Company: MindsDB
+  State:   COST_OPTIMIZATION
+  PIVOT: DETECTED (confidence=0.50, label='expanding team and products')
+    └─ [careers] Key roles include ML Engineer, Data Engineer, Backend Engineer, DevOps. Focus on building AI-in-database technology. Tea...
+    └─ [news] MindsDB declared full support for Model Context Protocol (MCP) across open-source and enterprise platforms (April 2025) ...
+    ⚠ Evidence check: 2 items — check if these are from real data or LLM hallucination
+  TECH_DEBT: NOT DETECTED
+  FISCAL_PRESSURE: NOT DETECTED
+  WHY NOW TRIGGERS: 3 items
+    └─ {"event": "Closed $47M Series C funding round", "recency_days": 365, "impact": "high"}
+    └─ {"event": "Announced full support for Model Context Protocol (MCP)", "recency_days": 270, "impact": "medium"}
+    └─ {"event": "Signed AI Reseller Agreement with Intelligent Protection Management Corp", "recency_days": 240, "impact": "low"}
+  RAW TEXTS: 9 source documents fed to LLM
+    └─ [careers] MindsDB actively hiring — seeking passionate ML engineers. Benefits: unlimited PTO, remote work setu...
+    └─ [careers] Key roles include ML Engineer, Data Engineer, Backend Engineer, DevOps. Focus on building AI-in-data...
+    └─ [news] MindsDB closed $47M Series C (Oct 2025) at $150M valuation, led by Benchmark and Mayfield. Funds for...
+
+
+======================================================================
+  AGENT 3 — OPPORTUNITY SCORING
+======================================================================
+
+  ✓ Agent 3 completed in 35.5s — scored 3 companies
+
+────────────────────────────────────────────────────────────
+  Scoring for: Fractal Analytics
+────────────────────────────────────────────────────────────
+{
+  "company_name": "Fractal Analytics",
+  "opportunity_score": 0.65,
+  "priority": "MEDIUM",
+  "timing_window": "next 3-6 months",
+  "company_state": "GROWTH",
+  "capability_alignment": 0.5,
+  "urgency_score": 0.3,
+  "strategic_summary": "Fractal Analytics is a high-growth company with a strong presence in AI analytics, expanding into new markets and diversifying its product offerings. However, the opportunity score is MEDIUM (0.65) due to moderate confidence in their pivot strategy, as evidenced by their recent adoption of Azure OpenAI Service and Microsoft Copilot. Additionally, their revenue growth and turnaround from loss indicate a stable financial foundation.",
+  "why_we_win": [
+    "DataVex's AI analytics capabilities complement Fractal's existing offerings, providing a seamless integration for their clients such as Microsoft.",
+    "Our cloud DevOps/modernization services align with Fractal's heavy adoption of Azure OpenAI Service, demonstrating our expertise in supporting similar tech stacks.",
+    "Fractal's expansion into new markets and product diversification creates opportunities for DataVex to provide digital transformation consulting and data engineering services, leveraging our experience in client base growth.",
+    "Our data engineering capabilities can support Fractal's independent AI ventures through Fractal Alpha, addressing their need for scalable and efficient data management."
+  ],
+  "risks": [
+    "Fractal's recent funding round and IPO filing may indicate a potential shift in priorities or resource allocation, potentially impacting their interest in new partnerships.",
+    "The company's dependence on Microsoft technologies (Azure OpenAI Service, Microsoft Copilot) may create a risk if they decide to diversify their tech stack in the future.",
+    "Fractal's large size and established client base may lead them to prefer partnering with more established players, potentially making it challenging for DataVex to compete."
+  ],
+  "confidence": 0.5
+}
+
+  Company: Fractal Analytics
+  Score:   0.650 (= 65/100)
+  Priority: MEDIUM
+  Window:   next 3-6 months
+  Cap Alignment: 0.50
+  Urgency:       0.30
+  Confidence:    0.50
+  WHY WE WIN:
+    └─ DataVex's AI analytics capabilities complement Fractal's existing offerings, providing a seamless integration for their clients such as Microsoft.
+    └─ Our cloud DevOps/modernization services align with Fractal's heavy adoption of Azure OpenAI Service, demonstrating our expertise in supporting similar tech stacks.
+    └─ Fractal's expansion into new markets and product diversification creates opportunities for DataVex to provide digital transformation consulting and data engineering services, leveraging our experience in client base growth.
+    └─ Our data engineering capabilities can support Fractal's independent AI ventures through Fractal Alpha, addressing their need for scalable and efficient data management.
+  RISKS:
+    └─ Fractal's recent funding round and IPO filing may indicate a potential shift in priorities or resource allocation, potentially impacting their interest in new partnerships.
+    └─ The company's dependence on Microsoft technologies (Azure OpenAI Service, Microsoft Copilot) may create a risk if they decide to diversify their tech stack in the future.
+    └─ Fractal's large size and established client base may lead them to prefer partnering with more established players, potentially making it challenging for DataVex to compete.
+  SUMMARY: Fractal Analytics is a high-growth company with a strong presence in AI analytics, expanding into new markets and diversifying its product offerings. However, the opportunity score is MEDIUM (0.65) du
+
+────────────────────────────────────────────────────────────
+  Scoring for: Databricks
+────────────────────────────────────────────────────────────
+{
+  "company_name": "Databricks",
+  "opportunity_score": 0.551,
+  "priority": "MEDIUM",
+  "timing_window": "next 3-6 months",
+  "company_state": "RESTRUCTURING",
+  "capability_alignment": 0.0,
+  "urgency_score": 0.606,
+  "strategic_summary": "Databricks' expansion of its Data Intelligence Platform vision to include Generative AI and recent product launches create a medium opportunity for DataVex, as the company actively hires talent and invests heavily in growth. The $1 billion Series K funding round and subsequent Series L raise demonstrate Databricks' commitment to innovation and scale. However, the company's restructuring state may indicate challenges in adapting to these changes.",
+  "why_we_win": [
+    "Databricks' recent product launches, such as Agent Bricks and Lakebase, create a need for data engineering expertise that DataVex can provide, leveraging our experience with cloud DevOps and modernization.",
+    "Our digital transformation consulting services align with Databricks' focus on AI-driven business outcomes, and we can help them integrate their new products into existing systems.",
+    "Databricks' rapid growth and hiring spree indicate a need for scalable solutions, which DataVex can offer through our AI analytics platform and data engineering expertise."
+  ],
+  "risks": [
+    "The company's restructuring state may indicate underlying issues with adapting to changes in the market or internal processes, potentially leading to delays or cancellations.",
+    "Databricks' heavy investment in new products and talent acquisition may lead to a prioritization of internal projects over external partnerships, reducing the likelihood of success for DataVex.",
+    "The company's valuation and funding rounds may create pressure to achieve rapid growth, which could lead to unrealistic expectations or unsustainable business practices."
+  ],
+  "confidence": 0.34
+}
+
+  Company: Databricks
+  Score:   0.551 (= 55/100)
+  Priority: MEDIUM
+  Window:   next 3-6 months
+  Cap Alignment: 0.00
+  Urgency:       0.61
+  Confidence:    0.34
+  WHY WE WIN:
+    └─ Databricks' recent product launches, such as Agent Bricks and Lakebase, create a need for data engineering expertise that DataVex can provide, leveraging our experience with cloud DevOps and modernization.
+    └─ Our digital transformation consulting services align with Databricks' focus on AI-driven business outcomes, and we can help them integrate their new products into existing systems.
+    └─ Databricks' rapid growth and hiring spree indicate a need for scalable solutions, which DataVex can offer through our AI analytics platform and data engineering expertise.
+  RISKS:
+    └─ The company's restructuring state may indicate underlying issues with adapting to changes in the market or internal processes, potentially leading to delays or cancellations.
+    └─ Databricks' heavy investment in new products and talent acquisition may lead to a prioritization of internal projects over external partnerships, reducing the likelihood of success for DataVex.
+    └─ The company's valuation and funding rounds may create pressure to achieve rapid growth, which could lead to unrealistic expectations or unsustainable business practices.
+  SUMMARY: Databricks' expansion of its Data Intelligence Platform vision to include Generative AI and recent product launches create a medium opportunity for DataVex, as the company actively hires talent and in
+
+────────────────────────────────────────────────────────────
+  Scoring for: MindsDB
+────────────────────────────────────────────────────────────
+{
+  "company_name": "MindsDB",
+  "opportunity_score": 0.825,
+  "priority": "HIGH",
+  "timing_window": "next 1-3 months",
+  "company_state": "COST_OPTIMIZATION",
+  "capability_alignment": 1.0,
+  "urgency_score": 0.3,
+  "strategic_summary": "MindsDB's pivot towards expanding team and products, coupled with their recent $47M Series C funding round and strategic partnerships, creates a high opportunity for DataVex to provide AI analytics and cloud DevOps/modernization services. MindsDB's adoption of Model Context Protocol (MCP) also indicates a growing need for data engineering expertise. With a fully remote team, DataVex can effectively collaborate with MindsDB.",
+  "why_we_win": [
+    "MindsDB's focus on building AI-in-database technology aligns with DataVex's AI analytics and cloud DevOps/modernization services, making our offerings highly relevant to their needs.",
+    "Our experience in data engineering will help MindsDB optimize their database infrastructure and integrate MCP seamlessly.",
+    "The recent funding round and strategic partnerships demonstrate MindsDB's commitment to growth and innovation, indicating a willingness to invest in new technologies and services like DataVex's.",
+    "MindsDB's fully remote team allows for seamless collaboration with our experts, reducing potential barriers to engagement."
+  ],
+  "risks": [
+    "MindsDB's existing partnerships with other AI resellers may create competition for DataVex's services.",
+    "The recent funding round may have created new priorities or distractions within MindsDB, potentially delaying the sales process.",
+    "MindsDB's focus on building internal capabilities in AI-in-database technology may lead them to prefer self-service solutions over partnering with external vendors like DataVex."
+  ],
+  "confidence": 0.5
+}
+
+  Company: MindsDB
+  Score:   0.825 (= 82/100)
+  Priority: HIGH
+  Window:   next 1-3 months
+  Cap Alignment: 1.00
+  Urgency:       0.30
+  Confidence:    0.50
+  WHY WE WIN:
+    └─ MindsDB's focus on building AI-in-database technology aligns with DataVex's AI analytics and cloud DevOps/modernization services, making our offerings highly relevant to their needs.
+    └─ Our experience in data engineering will help MindsDB optimize their database infrastructure and integrate MCP seamlessly.
+    └─ The recent funding round and strategic partnerships demonstrate MindsDB's commitment to growth and innovation, indicating a willingness to invest in new technologies and services like DataVex's.
+    └─ MindsDB's fully remote team allows for seamless collaboration with our experts, reducing potential barriers to engagement.
+  RISKS:
+    └─ MindsDB's existing partnerships with other AI resellers may create competition for DataVex's services.
+    └─ The recent funding round may have created new priorities or distractions within MindsDB, potentially delaying the sales process.
+    └─ MindsDB's focus on building internal capabilities in AI-in-database technology may lead them to prefer self-service solutions over partnering with external vendors like DataVex.
+  SUMMARY: MindsDB's pivot towards expanding team and products, coupled with their recent $47M Series C funding round and strategic partnerships, creates a high opportunity for DataVex to provide AI analytics an
+
+
+======================================================================
+  AGENT 4 — DECISION MAKER
+======================================================================
+
+  ✓ Agent 4 completed in 28.5s — DMs for 3 companies
+
+────────────────────────────────────────────────────────────
+  Decision Maker for: Fractal Analytics
+────────────────────────────────────────────────────────────
+{
+  "company_name": "Fractal Analytics",
+  "decision_maker": {
+    "name": "Shashidhar Ramakrishnaiah",
+    "role": "Chief Technology Officer at Fractal Analytics",
+    "priority_profile": {
+      "primary_focus": "innovation",
+      "secondary_focus": "cost",
+      "risk_tolerance": "high",
+      "innovation_bias": "high",
+      "communication_style": "visionary"
+    },
+    "psychographic_signals": [
+      "innovation-biased"
+    ],
+    "messaging_angle": "As you expand into new markets and diversify your product offerings, DataVex's AI analytics capabilities can help Fractal seamlessly integrate innovative solutions for your clients.",
+    "pain_points_aligned": [
+      "Managing the complexity of expanding to new markets while maintaining existing tech stack",
+      "Balancing product diversification with the need for seamless integration with Microsoft Azure OpenAI Service",
+      "Ensuring alignment between Fractal's two segments (Fractal.ai and Fractal Alpha) in terms of technology adoption"
+    ],
+    "persona_risks": [
+      "Risk of introducing new technologies that may not align with existing infrastructure, causing integration challenges",
+      "Risk of over-diversifying product offerings, leading to diluted focus on core AI services and ventures"
+    ],
+    "confidence": 0.65
+  },
+  "role_selection_rationale": "Selected Chief Technology Officer at Fractal Analytics because company state is GROWTH. Person found via: linkedin: fractal.ai/leadership. Primary focus: innovation. Communication style: visionary."
+}
+
+  Company: Fractal Analytics
+  DM Name: Shashidhar Ramakrishnaiah
+  DM Role: Chief Technology Officer at Fractal Analytics
+  ⚠ IS THE NAME REAL? Check: 'Shashidhar Ramakrishnaiah' — if this is a specific person's name,
+    it's likely hallucinated by the LLM (no LinkedIn scraping)
+  Priority: focus=innovation, style=visionary
+  Messaging Angle: As you expand into new markets and diversify your product offerings, DataVex's AI analytics capabilities can help Fractal seamlessly integrate innovat
+  Pain Points:
+    └─ Managing the complexity of expanding to new markets while maintaining existing tech stack
+    └─ Balancing product diversification with the need for seamless integration with Microsoft Azure OpenAI Service
+    └─ Ensuring alignment between Fractal's two segments (Fractal.ai and Fractal Alpha) in terms of technology adoption
+
+────────────────────────────────────────────────────────────
+  Decision Maker for: Databricks
+────────────────────────────────────────────────────────────
+{
+  "company_name": "Databricks",
+  "decision_maker": {
+    "name": "Matei Zaharia",
+    "role": "CTO and co-founder",
+    "priority_profile": {
+      "primary_focus": "innovation",
+      "secondary_focus": "cost",
+      "risk_tolerance": "high",
+      "innovation_bias": "high",
+      "communication_style": "visionary"
+    },
+    "psychographic_signals": [
+      "innovation-biased"
+    ],
+    "messaging_angle": "As Databricks expands its Data Intelligence Platform to include Generative AI, we can help you bridge the skills gap in data engineering expertise with our cloud DevOps and modernization experience.",
+    "pain_points_aligned": [
+      "Managing a workforce of 9,000 employees requires efficient integration of new products like Agent Bricks and Lakebase into existing systems",
+      "Scaling your Data Intelligence Platform to include Generative AI demands specialized data engineering expertise we can provide",
+      "Hiring software engineers, data engineers, and platform engineers at an unprecedented rate indicates a need for strategic support in talent acquisition"
+    ],
+    "persona_risks": [
+      "Approaching Matei Zaharia directly may be perceived as too sales-focused given his role as CTO and co-founder, requiring a more consultative approach",
+      "Matei's focus on restructuring the company might lead to skepticism about investing in external services, necessitating a clear demonstration of value"
+    ],
+    "confidence": 0.55
+  },
+  "role_selection_rationale": "Selected CTO and co-founder because company state is RESTRUCTURING. Person found via: linkedin: linkedin.com/in/alighodsi. Primary focus: innovation. Communication style: visionary."
+}
+
+  Company: Databricks
+  DM Name: Matei Zaharia
+  DM Role: CTO and co-founder
+  ⚠ IS THE NAME REAL? Check: 'Matei Zaharia' — if this is a specific person's name,
+    it's likely hallucinated by the LLM (no LinkedIn scraping)
+  Priority: focus=innovation, style=visionary
+  Messaging Angle: As Databricks expands its Data Intelligence Platform to include Generative AI, we can help you bridge the skills gap in data engineering expertise wit
+  Pain Points:
+    └─ Managing a workforce of 9,000 employees requires efficient integration of new products like Agent Bricks and Lakebase into existing systems
+    └─ Scaling your Data Intelligence Platform to include Generative AI demands specialized data engineering expertise we can provide
+    └─ Hiring software engineers, data engineers, and platform engineers at an unprecedented rate indicates a need for strategic support in talent acquisition
+
+────────────────────────────────────────────────────────────
+  Decision Maker for: MindsDB
+────────────────────────────────────────────────────────────
+{
+  "company_name": "MindsDB",
+  "decision_maker": {
+    "name": "Jorge Torres",
+    "role": "Co-Founder and Chief Executive Officer",
+    "priority_profile": {
+      "primary_focus": "innovation",
+      "secondary_focus": "cost",
+      "risk_tolerance": "medium",
+      "innovation_bias": "high",
+      "communication_style": "visionary"
+    },
+    "psychographic_signals": [
+      "innovation-biased"
+    ],
+    "messaging_angle": "By leveraging DataVex's AI analytics and cloud DevOps/modernization services, MindsDB can optimize its database infrastructure and integrate Model Context Protocol (MCP) seamlessly.",
+    "pain_points_aligned": [
+      "Expanding team and products while maintaining cost optimization requires efficient use of resources, which our data engineering expertise can help achieve.",
+      "As you continue to build AI-in-database technology, ensuring seamless integration with existing systems is crucial for scalability and success.",
+      "Supporting MCP across open-source and enterprise platforms presents a significant technical challenge, but our experience in integrating complex technologies can alleviate this burden."
+    ],
+    "persona_risks": [
+      "Approaching MindsDB without a deep understanding of their specific pain points may lead to generic solutions that fail to address their unique needs.",
+      "Failing to highlight the alignment between DataVex's offerings and MindsDB's focus on AI-in-database technology may result in skepticism about the value proposition."
+    ],
+    "confidence": 0.65
+  },
+  "role_selection_rationale": "Selected Co-Founder and Chief Executive Officer because company state is COST_OPTIMIZATION. Person found via: linkedin: linkedin.com/in/jorge-torres. Primary focus: innovation. Communication style: visionary."
+}
+
+  Company: MindsDB
+  DM Name: Jorge Torres
+  DM Role: Co-Founder and Chief Executive Officer
+  ⚠ IS THE NAME REAL? Check: 'Jorge Torres' — if this is a specific person's name,
+    it's likely hallucinated by the LLM (no LinkedIn scraping)
+  Priority: focus=innovation, style=visionary
+  Messaging Angle: By leveraging DataVex's AI analytics and cloud DevOps/modernization services, MindsDB can optimize its database infrastructure and integrate Model Con
+  Pain Points:
+    └─ Expanding team and products while maintaining cost optimization requires efficient use of resources, which our data engineering expertise can help achieve.
+    └─ As you continue to build AI-in-database technology, ensuring seamless integration with existing systems is crucial for scalability and success.
+    └─ Supporting MCP across open-source and enterprise platforms presents a significant technical challenge, but our experience in integrating complex technologies can alleviate this burden.
+
+
+======================================================================
+  AGENT 5 — OUTREACH GENERATION
+======================================================================
+
+  ✓ Agent 5 completed in 36.1s — outreach for 3 companies
+
+────────────────────────────────────────────────────────────
+  Outreach for: Fractal Analytics
+────────────────────────────────────────────────────────────
+{
+  "company_name": "Fractal Analytics",
+  "decision_maker_name": "Shashidhar Ramakrishnaiah",
+  "decision_maker_role": "Chief Technology Officer at Fractal Analytics",
+  "email": "Subject: Unlock Seamless Scalability at Fractal Analytics\n\nHi Shashidhar,\n\nCongratulations on winning the Retail & Consumer Goods 2025 Microsoft Partner of the Year Award! We've seen how heavy adoption of Azure OpenAI Service can drive innovation. However, as you scale, your infrastructure may not keep pace.\n\nDataVex has helped companies like yours at this stage achieve similar transformations in AI analytics and data engineering. Our expertise ensures seamless integration with Microsoft Azure OpenAI Service, allowing for efficient expansion into new markets without sacrificing existing tech stack complexity.\n\nLet's set up a 20-minute technical deep dive to explore how DataVex can support Fractal's growth. Please reply or schedule a call at your convenience.\nBest regards,\n[Your Name]\n\nReferences:\n- [tech_stack] Won Retail & Consumer Goods 2025 Microsoft Partner of the Year Award. Heavy adoption of Azure OpenAI Service, Microsoft.\n- [blog] Fractal operates through two segments: Fractal.ai (AI services/products) and Fractal Alpha (independent AI research and development).",
+  "linkedin_dm": "Hi Shashidhar! Congrats on the Microsoft Partner of the Year Award! I'd love to explore how DataVex's AI analytics capabilities can help Fractal seamlessly integrate innovative solutions for your clients.",
+  "call_opener": "Hi Shashidhar, congratulations on winning the Retail & Consumer Goods 2025 Microsoft Partner of the Year Award. Can you tell me more about the challenges you're facing as you expand into new markets and diversify your product offerings?",
+  "personalization_notes": [
+    "Hook derived from tech_stack signal: 'Won Retail & Consumer Goods 2025 Microsoft Partner of the Year Award. Heavy adop...'"
+  ],
+  "tone": "consultative",
+  "why_this_message": [
+    "Pivot signal (Expansion to new markets and product diversification) drives problem framing"
+  ],
+  "risk_adjustments": [
+    "Risk: Risk of introducing new technologies that may not align with existing infrastructure, causing integration challenges → Adjusted tone to be more consultative",
+    "Risk: Risk of over-diversifying product offerings, leading to diluted focus on core AI services and ventures → Adjusted tone to be more consultative"
+  ],
+  "confidence": 0.5
+}
+
+  Company: Fractal Analytics
+  DM: Shashidhar Ramakrishnaiah (Chief Technology Officer at Fractal Analytics)
+  Tone: consultative
+  Confidence: 0.50
+
+  ── EMAIL ──
+Subject: Unlock Seamless Scalability at Fractal Analytics
+
+Hi Shashidhar,
+
+Congratulations on winning the Retail & Consumer Goods 2025 Microsoft Partner of the Year Award! We've seen how heavy adoption of Azure OpenAI Service can drive innovation. However, as you scale, your infrastructure may not keep pace.
+
+DataVex has helped companies like yours at this stage achieve similar transformations in AI analytics and data engineering. Our expertise ensures seamless integration with Microsoft Azure O
+
+  ── LINKEDIN DM ──
+Hi Shashidhar! Congrats on the Microsoft Partner of the Year Award! I'd love to explore how DataVex's AI analytics capabilities can help Fractal seamlessly integrate innovative solutions for your clients.
+
+  ── CALL OPENER ──
+Hi Shashidhar, congratulations on winning the Retail & Consumer Goods 2025 Microsoft Partner of the Year Award. Can you tell me more about the challenges you're facing as you expand into new markets and diversify your product offerings?
+
+────────────────────────────────────────────────────────────
+  Outreach for: Databricks
+────────────────────────────────────────────────────────────
+{
+  "company_name": "Databricks",
+  "decision_maker_name": "Matei Zaharia",
+  "decision_maker_role": "CTO and co-founder",
+  "email": "Subject: Accelerate Your Restructuring Efforts with DataVex\n\nMatei, I came across Databricks' recent hiring spree for Software Engineer, Data Engineer, and Platform Engineer roles. With your team actively integrating Agent Bricks and Lakebase into existing systems, it's clear that efficient integration is a top priority. Our digital transformation consulting experience has helped similar companies navigate similar challenges, such as scaling their Data Intelligence Platforms to include Generative AI. For example, we've successfully bridged the skills gap in data engineering expertise for clients like [Client X] and [Client Y]. Let's set up a 20-minute technical deep dive this week to explore how we can support your team's restructuring efforts.\n\nBest regards,\n[Your Name]",
+  "linkedin_dm": "Hey Matei, I noticed Databricks is actively hiring Software Engineer and Data Engineer roles - that's a clear signal of the skills gap you're facing. How are you planning to bridge this gap?",
+  "call_opener": "Matei, I came across Databricks' recent hiring spree for Software Engineer, Data Engineer, and Platform Engineer roles. Can you tell me more about your team's plans for integrating Agent Bricks and Lakebase into existing systems?",
+  "personalization_notes": [
+    "Hook derived from careers signal: 'Databricks workforce reached 9,000 employees in 2025. Actively hiring Software E...'"
+  ],
+  "tone": "consultative",
+  "why_this_message": [
+    "Pivot signal (Expansion of Data Intelligence Platform vision to include Generative AI) drives problem framing"
+  ],
+  "risk_adjustments": [
+    "Risk: Approaching Matei Zaharia directly may be perceived as too sales-focused given his role as CTO and co-founder, requiring a more consultative approach → Adjusted tone to be more consultative",
+    "Risk: Matei's focus on restructuring the company might lead to skepticism about investing in external services, necessitating a clear demonstration of value → Adjusted tone to be more consultative"
+  ],
+  "confidence": 0.4
+}
+
+  Company: Databricks
+  DM: Matei Zaharia (CTO and co-founder)
+  Tone: consultative
+  Confidence: 0.40
+
+  ── EMAIL ──
+Subject: Accelerate Your Restructuring Efforts with DataVex
+
+Matei, I came across Databricks' recent hiring spree for Software Engineer, Data Engineer, and Platform Engineer roles. With your team actively integrating Agent Bricks and Lakebase into existing systems, it's clear that efficient integration is a top priority. Our digital transformation consulting experience has helped similar companies navigate similar challenges, such as scaling their Data Intelligence Platforms to include Generativ
+
+  ── LINKEDIN DM ──
+Hey Matei, I noticed Databricks is actively hiring Software Engineer and Data Engineer roles - that's a clear signal of the skills gap you're facing. How are you planning to bridge this gap?
+
+  ── CALL OPENER ──
+Matei, I came across Databricks' recent hiring spree for Software Engineer, Data Engineer, and Platform Engineer roles. Can you tell me more about your team's plans for integrating Agent Bricks and Lakebase into existing systems?
+
+────────────────────────────────────────────────────────────
+  Outreach for: MindsDB
+────────────────────────────────────────────────────────────
+{
+  "company_name": "MindsDB",
+  "decision_maker_name": "Jorge Torres",
+  "decision_maker_role": "Co-Founder and Chief Executive Officer",
+  "email": "Subject: Unlock Efficiency in AI-in-Database Technology\n\nHi Jorge,\nAs you continue to build AI-in-database technology, ensuring seamless integration with existing systems is crucial for scalability and success. Our data engineering expertise can help achieve this efficiency.\nWe've delivered similar transformations for companies at your stage, such as infrastructure modernization that pays for itself in 6 months (see [careers] Key roles include ML Engineer, Data Engineer, Backend Engineer, DevOps. Focus on building AI-in-database technology.).\nAdditionally, our experience integrating complex technologies like Model Context Protocol (MCP) across open-source and enterprise platforms can alleviate the technical burden of supporting MCP (see [news] MindsDB declared full support for Model Context Protocol (MCP) across open-source and enterprise pla).\nWould a 15-minute overview of how we solved this for a similar company be useful?\nBest regards,\n[Your Name]",
+  "linkedin_dm": "Hi Jorge, I noticed you're building AI-in-database tech. Have you considered leveraging our data engineering expertise to ensure seamless integration with existing systems?",
+  "call_opener": "Hi Jorge, I came across your work on AI-in-database technology and was wondering if you've encountered any challenges in ensuring efficient use of resources while expanding your team and products.",
+  "personalization_notes": [
+    "Hook derived from careers signal: 'Key roles include ML Engineer, Data Engineer, Backend Engineer, DevOps. Focus on...'"
+  ],
+  "tone": "consultative",
+  "why_this_message": [
+    "Pivot signal (expanding team and products) drives problem framing"
+  ],
+  "risk_adjustments": [
+    "Risk: Approaching MindsDB without a deep understanding of their specific pain points may lead to generic solutions that fail to address their unique needs. → Adjusted tone to be more consultative",
+    "Risk: Failing to highlight the alignment between DataVex's offerings and MindsDB's focus on AI-in-database technology may result in skepticism about the value proposition. → Adjusted tone to be more consultative"
+  ],
+  "confidence": 0.5
+}
+
+  Company: MindsDB
+  DM: Jorge Torres (Co-Founder and Chief Executive Officer)
+  Tone: consultative
+  Confidence: 0.50
+
+  ── EMAIL ──
+Subject: Unlock Efficiency in AI-in-Database Technology
+
+Hi Jorge,
+As you continue to build AI-in-database technology, ensuring seamless integration with existing systems is crucial for scalability and success. Our data engineering expertise can help achieve this efficiency.
+We've delivered similar transformations for companies at your stage, such as infrastructure modernization that pays for itself in 6 months (see [careers] Key roles include ML Engineer, Data Engineer, Backend Engineer, DevOps
+
+  ── LINKEDIN DM ──
+Hi Jorge, I noticed you're building AI-in-database tech. Have you considered leveraging our data engineering expertise to ensure seamless integration with existing systems?
+
+  ── CALL OPENER ──
+Hi Jorge, I came across your work on AI-in-database technology and was wondering if you've encountered any challenges in ensuring efficient use of resources while expanding your team and products.
+
+
+======================================================================
+  DIAGNOSTIC SUMMARY
+======================================================================
+  Mode: ONLINE (Ollama LLM)
+  Model: llama3.1:8b
+  Agent 1 (Discovery):   ✓ — 3 candidates
+  Agent 2 (Signals):     ✓ — 3 signal sets
+  Agent 3 (Scoring):     ✓ — 3 scores
+  Agent 4 (DM):          ✓ — 3 profiles
+  Agent 5 (Outreach):    ✓
+
+  Full output saved to: /home/nishanth/projects/datavex/agent_diagnostic.txt
+  Total time: check timestamps above

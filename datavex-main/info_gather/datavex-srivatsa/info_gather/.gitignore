@@ -1,0 +1,12 @@
+t# Python
+__pycache__/
+*.pyc
+
+# env + secrets
+.env
+
+# databases
+*.db
+
+# node
+node_modules/ouch .gitignore

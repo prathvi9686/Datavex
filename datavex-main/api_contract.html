@@ -1,0 +1,572 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>DataVex AI — API Contract</title>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap');
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Inter', sans-serif;
+            color: #181612;
+            padding: 56px 64px;
+            font-size: 13px;
+            line-height: 1.6;
+            max-width: 900px;
+            margin: 0 auto;
+        }
+
+        .cover {
+            text-align: center;
+            margin-bottom: 48px;
+            padding-bottom: 32px;
+            border-bottom: 2px solid #1A6B47;
+        }
+
+        .cover .dot {
+            color: #1A6B47;
+            font-size: 14px;
+            letter-spacing: 4px;
+            text-transform: uppercase;
+            margin-bottom: 8px;
+        }
+
+        .cover h1 {
+            font-size: 36px;
+            font-weight: 700;
+            margin: 4px 0;
+        }
+
+        .cover .sub {
+            font-size: 14px;
+            color: #9B9489;
+            margin-top: 8px;
+        }
+
+        h2 {
+            font-size: 20px;
+            color: #1A6B47;
+            margin: 40px 0 16px;
+            padding-bottom: 8px;
+            border-bottom: 1px solid #e8e4de;
+            font-weight: 600;
+        }
+
+        h3 {
+            font-size: 15px;
+            margin: 28px 0 10px;
+            font-weight: 600;
+            color: #181612;
+            font-family: 'JetBrains Mono', monospace;
+        }
+
+        p {
+            margin: 8px 0;
+        }
+
+        hr {
+            border: none;
+            border-top: 1px solid #e8e4de;
+            margin: 36px 0;
+        }
+
+        pre {
+            background: #f8f7f5;
+            padding: 16px 20px;
+            border-radius: 8px;
+            font-family: 'JetBrains Mono', monospace;
+            font-size: 11.5px;
+            overflow-x: auto;
+            border: 1px solid #e8e4de;
+            margin: 12px 0;
+            white-space: pre-wrap;
+            word-break: break-word;
+            line-height: 1.5;
+        }
+
+        code {
+            font-family: 'JetBrains Mono', monospace;
+            font-size: 12px;
+            background: #f0eeea;
+            padding: 2px 6px;
+            border-radius: 4px;
+            color: #C2601F;
+        }
+
+        pre code {
+            background: none;
+            padding: 0;
+            color: inherit;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 12px 0;
+        }
+
+        th {
+            text-align: left;
+            padding: 10px 14px;
+            border-bottom: 2px solid #1A6B47;
+            font-size: 12px;
+            font-weight: 600;
+            color: #1A6B47;
+        }
+
+        td {
+            padding: 8px 14px;
+            border-bottom: 1px solid #e8e4de;
+            font-size: 12px;
+        }
+
+        tr:hover td {
+            background: #f9f7f4;
+        }
+
+        blockquote {
+            border-left: 3px solid #1A6B47;
+            padding: 10px 16px;
+            margin: 12px 0;
+            color: #555;
+            background: #f9f7f4;
+            border-radius: 0 8px 8px 0;
+            font-size: 12.5px;
+        }
+
+        .badge {
+            display: inline-block;
+            padding: 3px 10px;
+            border-radius: 12px;
+            font-size: 11px;
+            font-weight: 600;
+            font-family: 'JetBrains Mono', monospace;
+        }
+
+        .badge-get {
+            background: #F0F7F3;
+            color: #1A6B47;
+            border: 1px solid #1A6B47;
+        }
+
+        .badge-post {
+            background: #FFF5EE;
+            color: #C2601F;
+            border: 1px solid #C2601F;
+        }
+
+        .footer {
+            margin-top: 56px;
+            padding-top: 16px;
+            border-top: 1px solid #e8e4de;
+            text-align: center;
+            font-size: 10px;
+            color: #9B9489;
+            letter-spacing: 2px;
+            text-transform: uppercase;
+        }
+
+        @media print {
+            body {
+                padding: 36px 48px;
+            }
+
+            .cover {
+                page-break-after: avoid;
+            }
+
+            h2 {
+                page-break-after: avoid;
+            }
+
+            pre {
+                page-break-inside: avoid;
+            }
+        }
+    </style>
+</head>
+
+<body>
+
+    <div class="cover">
+        <div class="dot">● DataVex AI</div>
+        <h1>API Contract</h1>
+        <div class="sub">REST API Specification · Base URL: https://api.datavex.ai/v1 · v2.4.1</div>
+    </div>
+
+    <!-- AUTH -->
+    <h2>Authentication</h2>
+    <h3><span class="badge badge-post">POST</span> /auth/login</h3>
+    <p>Authenticate a user and receive a JWT token.</p>
+    <p><strong>Request</strong></p>
+    <pre><code>{
+  "username": "string",
+  "password": "string"
+}</code></pre>
+    <p><strong>Response <code>200</code></strong></p>
+    <pre><code>{
+  "token": "string (JWT)",
+  "expires_at": "2026-02-22T00:00:00Z",
+  "user": {
+    "id": "uuid",
+    "username": "string",
+    "role": "admin | analyst | viewer"
+  }
+}</code></pre>
+    <p><strong>Response <code>401</code></strong></p>
+    <pre><code>{ "error": "Invalid credentials" }</code></pre>
+    <blockquote>All subsequent endpoints require <code>Authorization: Bearer &lt;token&gt;</code> header.</blockquote>
+
+    <hr>
+
+    <!-- COMPANIES LIST -->
+    <h2>Companies (Lead Board)</h2>
+    <h3><span class="badge badge-get">GET</span> /companies</h3>
+    <p>List all tracked target companies with summary data for the Lead Board.</p>
+    <p><strong>Query Params</strong></p>
+    <table>
+        <thead>
+            <tr>
+                <th>Param</th>
+                <th>Type</th>
+                <th>Default</th>
+                <th>Description</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td><code>sort_by</code></td>
+                <td>string</td>
+                <td><code>score</code></td>
+                <td><code>score</code>, <code>name</code>, <code>confidence</code>, <code>updated_at</code></td>
+            </tr>
+            <tr>
+                <td><code>order</code></td>
+                <td>string</td>
+                <td><code>desc</code></td>
+                <td><code>asc</code> or <code>desc</code></td>
+            </tr>
+            <tr>
+                <td><code>confidence</code></td>
+                <td>string</td>
+                <td>—</td>
+                <td>Filter: <code>HIGH</code>, <code>MEDIUM</code>, <code>LOW</code></td>
+            </tr>
+            <tr>
+                <td><code>min_score</code></td>
+                <td>int</td>
+                <td>—</td>
+                <td>Minimum opportunity score</td>
+            </tr>
+            <tr>
+                <td><code>limit</code></td>
+                <td>int</td>
+                <td><code>50</code></td>
+                <td>Max results</td>
+            </tr>
+            <tr>
+                <td><code>offset</code></td>
+                <td>int</td>
+                <td><code>0</code></td>
+                <td>Pagination offset</td>
+            </tr>
+        </tbody>
+    </table>
+    <p><strong>Response <code>200</code></strong></p>
+    <pre><code>{
+  "data": [
+    {
+      "id": "meridian",
+      "name": "Meridian Systems",
+      "descriptor": "Enterprise SaaS · 2,400 employees · Series D · $180M ARR",
+      "score": 87,
+      "confidence": "HIGH",
+      "coverage": 73,
+      "receptivity": "HIGH — ACT WITHIN 90 DAYS",
+      "pain_tags": ["HIGH PAIN", "HIGH PAIN", "MED PAIN"],
+      "decision_maker": {
+        "name": "Marcus Rivera",
+        "role": "VP Engineering · Reports to interim CTO"
+      },
+      "strongest_match": {
+        "score": 75,
+        "capability": "Real-Time Pipeline Repair",
+        "pain": "Connector failures causing 4hr delays"
+      },
+      "updated_at": "2026-02-21T09:14:11Z"
+    }
+  ],
+  "total": 3,
+  "limit": 50,
+  "offset": 0
+}</code></pre>
+
+    <hr>
+
+    <!-- COMPANY DETAIL -->
+    <h3><span class="badge badge-get">GET</span> /companies/:id</h3>
+    <p>Full intelligence report for a single company. Returns financials, hiring signals, score breakdown, timeline
+        events, pain clusters, decision maker profile, outreach drafts, capability matches, and reasoning trace.</p>
+    <p><strong>Response <code>200</code></strong> — Full schema (abbreviated):</p>
+    <pre><code>{
+  "id": "meridian",
+  "name": "Meridian Systems",
+  "score": 87,
+  "confidence": "HIGH",
+  "coverage": 73,
+  "receptivity": "HIGH — ACT WITHIN 90 DAYS",
+
+  "financials": {
+    "quarters": ["Q1 24", "Q2 24", ...],
+    "margin": [18.2, 17.4, ...],
+    "revenue": [38.2, 40.1, ...]
+  },
+
+  "hiring": [
+    { "category": "Engineering", "count": 24, "type": "positive" }
+  ],
+
+  "score_breakdown": [
+    { "label": "Tech Signals", "value": 32, "max": 35 }
+  ],
+
+  "timeline": [
+    { "date": "2025.11", "type": "positive",
+      "label": "CEO keynote...", "source": "SAASTR ANNUAL" }
+  ],
+
+  "pain_clusters": [
+    { "title": "Data Pipeline Failures",
+      "evidence": [{ "source": "GH", "text": "22 issues..." }] }
+  ],
+
+  "decision_maker": {
+    "name": "Marcus Rivera",
+    "role": "VP Engineering",
+    "topics": ["Platform Migration", ...],
+    "messaging": {
+      "angle": "Your infra migration is exposed...",
+      "vocab": ["deployment velocity", ...],
+      "tone": "Direct"
+    }
+  },
+
+  "outreach": {
+    "email": "string", "linkedin": "string",
+    "opener": "string", "footnote": "GENERATED FROM: ..."
+  },
+
+  "capability_match": [
+    { "pain": "Connector failures...", "source": "GITHUB ISSUES",
+      "severity": "HIGH", "capability": "Real-Time Pipeline Repair" }
+  ],
+
+  "strongest_match": {
+    "score": 75, "capability": "Real-Time Pipeline Repair",
+    "pain": "Connector failures...", "gap": "Vector Search"
+  },
+
+  "trace": [
+    { "time": "2026.02.21 09:14:02", "agent": "RESEARCH_AGENT",
+      "action": "fetched Q2–Q4 earnings transcripts" }
+  ]
+}</code></pre>
+
+    <hr>
+
+    <!-- CAPABILITIES -->
+    <h2>Capabilities</h2>
+    <h3><span class="badge badge-get">GET</span> /capabilities</h3>
+    <p>List DataVex platform capabilities.</p>
+    <pre><code>{
+  "data": [
+    { "id": "pipeline-repair", "name": "Real-Time Pipeline Repair",
+      "score": 96, "description": "Automated detection and self-healing..." },
+    { "id": "legacy-migration", "name": "Legacy Stack Migration",
+      "score": 84, "description": "Structured migration from monolithic..." },
+    { "id": "schema-evolution", "name": "Schema Evolution Management",
+      "score": 88, "description": "Automatic schema drift detection..." },
+    { "id": "observability", "name": "Data Observability Layer",
+      "score": 91, "description": "End-to-end lineage tracking..." },
+    { "id": "vector-search", "name": "Vector Search Infrastructure",
+      "score": 73, "description": "Production-grade embedding pipelines..." }
+  ]
+}</code></pre>
+
+    <hr>
+
+    <!-- CAPABILITY MATCH -->
+    <h2>Capability Match</h2>
+    <h3><span class="badge badge-get">GET</span> /companies/:id/capability-match</h3>
+    <p>Match analysis mapping DataVex capabilities to a company's detected pain signals.</p>
+    <pre><code>{
+  "company_id": "meridian",
+  "strongest_match": {
+    "score": 75,
+    "capability": "Real-Time Pipeline Repair",
+    "pain": "Connector failures causing 4hr delays",
+    "gap": "Vector Search (no detected need)"
+  },
+  "matches": [
+    {
+      "capability": "Real-Time Pipeline Repair",
+      "capability_score": 96,
+      "matched_pains": [
+        { "pain": "Connector failures causing 4hr delays",
+          "source": "GITHUB ISSUES", "severity": "HIGH" }
+      ]
+    }
+  ]
+}</code></pre>
+
+    <hr>
+
+    <!-- REASONING TRACE -->
+    <h2>Reasoning Trace</h2>
+    <h3><span class="badge badge-get">GET</span> /companies/:id/trace</h3>
+    <p>Multi-agent synthesis trace log.</p>
+    <pre><code>{
+  "company_id": "meridian",
+  "verdict": "HIGH",
+  "recommended_persona": "VP Engineering",
+  "window": "60–90 days",
+  "trace": [
+    { "time": "2026.02.21 09:14:02", "agent": "RESEARCH_AGENT",
+      "action": "fetched Q2–Q4 earnings transcripts" },
+    { "time": "2026.02.21 09:14:11", "agent": "DECISION_AGENT",
+      "action": "verdict: HIGH. Window: 60–90 days." }
+  ]
+}</code></pre>
+
+    <hr>
+
+    <!-- OUTREACH -->
+    <h2>Outreach</h2>
+    <h3><span class="badge badge-post">POST</span> /companies/:id/outreach/generate</h3>
+    <p>Regenerate outreach drafts for a company.</p>
+    <p><strong>Request</strong></p>
+    <pre><code>{
+  "channels": ["email", "linkedin", "opener"],
+  "tone": "Direct",
+  "persona": "VP Engineering"
+}</code></pre>
+    <p><strong>Response <code>200</code></strong></p>
+    <pre><code>{
+  "email": "string (full email draft)",
+  "linkedin": "string (LinkedIn message)",
+  "opener": "string (cold call opener)",
+  "footnote": "GENERATED FROM: ..."
+}</code></pre>
+
+    <hr>
+
+    <!-- SCAN -->
+    <h2>Scan</h2>
+    <h3><span class="badge badge-post">POST</span> /scan</h3>
+    <p>Trigger a full intelligence scan.</p>
+    <pre><code>// Request
+{ "company_ids": ["meridian"], "sources": ["github", "g2", "linkedin", "sec_filings"], "depth": "full" }
+
+// Response 202
+{ "scan_id": "uuid", "status": "queued", "estimated_duration_seconds": 120 }</code></pre>
+
+    <h3><span class="badge badge-get">GET</span> /scan/:scan_id</h3>
+    <pre><code>{
+  "scan_id": "uuid", "status": "running", "progress": 0.65,
+  "agents_completed": ["RESEARCH_AGENT", "FINANCE_AGENT"],
+  "agents_pending": ["TECH_AGENT", "SYNTHESIS_AGENT"]
+}</code></pre>
+
+    <hr>
+
+    <!-- SYSTEM -->
+    <h2>System</h2>
+    <h3><span class="badge badge-get">GET</span> /system/status</h3>
+    <pre><code>{
+  "status": "online", "version": "2.4.1", "synth_layer": "active",
+  "agents": { "research": "online", "finance": "online", "tech": "online",
+              "conflict": "online", "synthesis": "online", "decision": "online" },
+  "last_scan": "2026-02-21T09:18:10Z"
+}</code></pre>
+
+    <hr>
+
+    <!-- ERRORS -->
+    <h2>Error Format &amp; Rate Limits</h2>
+    <p><strong>Error shape</strong></p>
+    <pre><code>{ "error": "string", "code": "string", "details": {} }</code></pre>
+    <table>
+        <thead>
+            <tr>
+                <th>HTTP</th>
+                <th>Meaning</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td><code>400</code></td>
+                <td>Bad request / validation error</td>
+            </tr>
+            <tr>
+                <td><code>401</code></td>
+                <td>Not authenticated</td>
+            </tr>
+            <tr>
+                <td><code>403</code></td>
+                <td>Insufficient permissions</td>
+            </tr>
+            <tr>
+                <td><code>404</code></td>
+                <td>Resource not found</td>
+            </tr>
+            <tr>
+                <td><code>429</code></td>
+                <td>Rate limited</td>
+            </tr>
+            <tr>
+                <td><code>500</code></td>
+                <td>Internal server error</td>
+            </tr>
+        </tbody>
+    </table>
+    <p><strong>Rate limits</strong></p>
+    <table>
+        <thead>
+            <tr>
+                <th>Endpoint</th>
+                <th>Limit</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td><code>POST /auth/login</code></td>
+                <td>10 req/min</td>
+            </tr>
+            <tr>
+                <td><code>GET /companies</code></td>
+                <td>60 req/min</td>
+            </tr>
+            <tr>
+                <td><code>POST /scan</code></td>
+                <td>5 req/min</td>
+            </tr>
+            <tr>
+                <td><code>POST /outreach/generate</code></td>
+                <td>20 req/min</td>
+            </tr>
+        </tbody>
+    </table>
+    <p>Headers: <code>X-RateLimit-Limit</code>, <code>X-RateLimit-Remaining</code>, <code>X-RateLimit-Reset</code></p>
+
+    <div class="footer">DataVex AI · Confidential · Generated 2026-02-21</div>
+
+</body>
+
+</html>

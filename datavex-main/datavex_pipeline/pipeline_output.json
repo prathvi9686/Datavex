@@ -1,0 +1,518 @@
+[
+  {
+    "company_name": "Krea.ai",
+    "candidate": {
+      "company_name": "Krea.ai",
+      "domain": "krea.ai",
+      "industry": "AI SaaS",
+      "size": "small",
+      "estimated_employees": 150,
+      "region": "India",
+      "capability_score": 1.0,
+      "size_fit": 1.0,
+      "geo_fit": 1.0,
+      "industry_fit": 1.0,
+      "initial_match_score": 1.0,
+      "notes": "Matched 6 tech signals. Size: small, Region: India"
+    },
+    "signals": {
+      "company_name": "Krea.ai",
+      "pivot": {
+        "label": "Enterprise AI expansion \u2014 Series A + AWS partnership + enterprise sales hiring",
+        "confidence": 0.5,
+        "evidence": [
+          {
+            "text": "Hiring Senior ML Engineer \u2014 build real-time inference pipelines for enterprise clients. Experience with K8s, Ray Serve, and model monitoring required.",
+            "source": "careers",
+            "recency_days": 7
+          },
+          {
+            "text": "Head of Enterprise Sales \u2014 drive 6-figure ACV deals with Fortune 500 clients. Track record in AI/ML SaaS required.",
+            "source": "careers",
+            "recency_days": 10
+          }
+        ]
+      },
+      "tech_debt": {
+        "label": "Monolith to composable inference mesh migration underway",
+        "confidence": 0.5,
+        "evidence": [
+          {
+            "text": "Platform Engineer (DevOps) \u2014 migrate monolithic training infra to cloud-native microservices on AWS EKS. Terraform + Helm experience mandatory.",
+            "source": "careers",
+            "recency_days": 14
+          },
+          {
+            "text": "GitHub org shows 8 active repos: ML inference framework, K8s operators, data pipeline tools. 340+ stars on main repo. CI/CD with GitHub Actions.",
+            "source": "tech_stack",
+            "recency_days": 5
+          }
+        ]
+      },
+      "fiscal_pressure": null,
+      "why_now_triggers": [
+        {
+          "event": "Series A closed \u2014 $12M, expanding enterprise",
+          "recency_days": 30,
+          "impact": "high"
+        },
+        {
+          "event": "AWS partnership for GPU inference",
+          "recency_days": 45,
+          "impact": "med"
+        },
+        {
+          "event": "Hiring Head of Enterprise Sales",
+          "recency_days": 10,
+          "impact": "high"
+        }
+      ],
+      "company_state": "TECH_MODERNIZATION",
+      "raw_texts": [
+        {
+          "text": "Hiring Senior ML Engineer \u2014 build real-time inference pipelines for enterprise clients. Experience with K8s, Ray Serve, and model monitoring required.",
+          "source": "careers",
+          "recency_days": 7
+        },
+        {
+          "text": "Platform Engineer (DevOps) \u2014 migrate monolithic training infra to cloud-native microservices on AWS EKS. Terraform + Helm experience mandatory.",
+          "source": "careers",
+          "recency_days": 14
+        },
+        {
+          "text": "Data Engineer \u2014 design and maintain ETL pipelines processing 50M+ events/day. Apache Beam, BigQuery, and Airflow.",
+          "source": "careers",
+          "recency_days": 21
+        },
+        {
+          "text": "Head of Enterprise Sales \u2014 drive 6-figure ACV deals with Fortune 500 clients. Track record in AI/ML SaaS required.",
+          "source": "careers",
+          "recency_days": 10
+        },
+        {
+          "text": "Krea.ai raises $12M Series A to expand enterprise AI platform into US market. CEO says 'We're targeting $5M ARR by Q4 2026.'",
+          "source": "news",
+          "recency_days": 30
+        },
+        {
+          "text": "Krea.ai partners with AWS to offer GPU-optimized inference endpoints. Enterprise customers get dedicated model hosting.",
+          "source": "news",
+          "recency_days": 45
+        },
+        {
+          "text": "GitHub org shows 8 active repos: ML inference framework, K8s operators, data pipeline tools. 340+ stars on main repo. CI/CD with GitHub Actions.",
+          "source": "tech_stack",
+          "recency_days": 5
+        },
+        {
+          "text": "CTO blog post: 'Why we moved from monolithic model serving to a composable inference mesh \u2014 4x throughput, 60% cost reduction on AWS.'",
+          "source": "blog",
+          "recency_days": 20
+        }
+      ]
+    },
+    "opportunity": {
+      "company_name": "Krea.ai",
+      "opportunity_score": 0.755,
+      "priority": "HIGH",
+      "timing_window": "next 1-3 months",
+      "company_state": "TECH_MODERNIZATION",
+      "capability_alignment": 0.5,
+      "urgency_score": 0.721,
+      "strategic_summary": "Krea.ai is expanding from product-led AI into enterprise accounts with a fresh $12M Series A. Their infrastructure migration from monolithic to composable inference and active K8s + data pipeline hiring signals strong alignment with DataVex cloud DevOps and data engineering capabilities.",
+      "why_we_win": [
+        "Direct capability match: Krea needs K8s migration + data pipeline expertise \u2014 DataVex core strength",
+        "Timing: Series A capital + enterprise sales hire = budget allocated for infrastructure partners",
+        "CTO blog confirms composable architecture goals \u2014 DataVex has delivered similar transformations",
+        "Small team (150) means vendor decisions happen fast with fewer stakeholders"
+      ],
+      "risks": [
+        "Small company may prefer hiring in-house over consulting engagement",
+        "AI-native team may have strong opinions about architecture \u2014 need to demo engineering depth",
+        "Deal size may start below $500K minimum until enterprise revenue materializes"
+      ],
+      "confidence": 0.7
+    },
+    "decision_maker": {
+      "company_name": "Krea.ai",
+      "decision_maker": {
+        "name": "Ankit Mehta",
+        "role": "CTO",
+        "priority_profile": {
+          "primary_focus": "innovation",
+          "secondary_focus": "cost",
+          "risk_tolerance": "medium",
+          "innovation_bias": "high",
+          "communication_style": "visionary"
+        },
+        "psychographic_signals": [
+          "innovation-biased"
+        ],
+        "messaging_angle": "Your inference mesh migration needs infrastructure partners who've scaled K8s + data pipelines for enterprise AI \u2014 DataVex has done this for 3 similar-stage companies.",
+        "pain_points_aligned": [
+          "K8s migration complexity",
+          "Enterprise-grade data pipeline reliability",
+          "Inference infrastructure scaling"
+        ],
+        "persona_risks": [
+          "CTO founded the company \u2014 strong ownership of architecture decisions",
+          "May prefer open-source tooling over vendor solutions"
+        ],
+        "confidence": 0.7
+      },
+      "role_selection_rationale": "Selected CTO because company state is TECH_MODERNIZATION. Primary focus: innovation. Communication style: visionary."
+    },
+    "outreach": {
+      "company_name": "Krea.ai",
+      "decision_maker_name": "Ankit Mehta",
+      "decision_maker_role": "CTO",
+      "email": "Subject: Re: Your inference mesh migration\n\nAnkit \u2014\n\nYour CTO blog on moving from monolithic model serving to composable inference was sharp \u2014 4x throughput and 60% cost reduction is exactly the kind of lift we build infrastructure for.\n\nWith 150 engineers scaling to enterprise and fresh Series A capital, the K8s migration and data pipeline build-out will define your next 12 months.\n\nWe've run this exact migration for 3 AI-native companies at your stage \u2014 shared artifact registries, sub-5-minute CI, production inference pipelines processing 50M+ events/day.\n\nWorth 20 minutes to compare architectures?\n\n\u2014 DataVex",
+      "linkedin_dm": "Ankit \u2014 loved the composable inference mesh post. With Krea scaling to enterprise, the K8s + data pipeline build matters. We've done this exact migration for 3 similar-stage AI companies. Worth comparing notes?",
+      "call_opener": "Ankit, quick question \u2014 with the enterprise push and 50M events/day pipeline target, how are you sequencing the K8s migration against the data infrastructure build-out?",
+      "personalization_notes": [
+        "Hook derived from careers signal: 'Hiring Senior ML Engineer \u2014 build real-time inference pipelines for enterprise c...'",
+        "Tech debt evidence from careers: 'Platform Engineer (DevOps) \u2014 migrate monolithic training infra to cloud-native m...'"
+      ],
+      "tone": "consultative",
+      "why_this_message": [
+        "Pivot signal (Enterprise AI expansion \u2014 Series A + AWS partnership + enterprise sales hiring) drives problem framing",
+        "Tech debt (Monolith to composable inference mesh migration underway) validates DataVex cloud_devops capability"
+      ],
+      "risk_adjustments": [
+        "Risk: CTO founded the company \u2014 strong ownership of architecture decisions \u2192 Adjusted tone to be more consultative",
+        "Risk: May prefer open-source tooling over vendor solutions \u2192 Adjusted tone to be more consultative"
+      ],
+      "confidence": 0.7
+    }
+  },
+  {
+    "company_name": "Slice",
+    "candidate": {
+      "company_name": "Slice",
+      "domain": "sliceit.com",
+      "industry": "Fintech",
+      "size": "mid",
+      "estimated_employees": 800,
+      "region": "India",
+      "capability_score": 1.0,
+      "size_fit": 1.0,
+      "geo_fit": 1.0,
+      "industry_fit": 1.0,
+      "initial_match_score": 1.0,
+      "notes": "Matched 6 tech signals. Size: mid, Region: India"
+    },
+    "signals": {
+      "company_name": "Slice",
+      "pivot": null,
+      "tech_debt": {
+        "label": "Legacy Java monolith blocking velocity \u2014 28min CI builds, strangler fig migration stalled",
+        "confidence": 0.6000000000000001,
+        "evidence": [
+          {
+            "text": "Staff Engineer \u2014 decompose monolithic payment processing engine into event-driven microservices. Java/Kotlin + Kafka experience.",
+            "source": "careers",
+            "recency_days": 14
+          },
+          {
+            "text": "Data Warehouse Architect \u2014 migrate from on-prem MySQL cluster to Snowflake. Must optimize for regulatory reporting.",
+            "source": "careers",
+            "recency_days": 21
+          },
+          {
+            "text": "GitHub shows legacy Java repos with 200+ open issues. Recent PRs reference 'strangler fig migration' pattern. CI builds averaging 28 minutes.",
+            "source": "tech_stack",
+            "recency_days": 10
+          }
+        ]
+      },
+      "fiscal_pressure": {
+        "label": "10% layoff, 30% burn reduction mandate, profitability pressure",
+        "confidence": 0.5,
+        "evidence": [
+          {
+            "text": "Slice lays off 10% of workforce amid funding winter. CEO memo: 'Focus on profitability path, reduce burn by 30%.'",
+            "source": "news",
+            "recency_days": 60
+          },
+          {
+            "text": "VP Engineering post: 'Our technical debt is our biggest blocker to profitability \u2014 every feature takes 3x longer than it should.'",
+            "source": "blog",
+            "recency_days": 35
+          }
+        ]
+      },
+      "why_now_triggers": [
+        {
+          "event": "10% layoff + cost cutting mandate",
+          "recency_days": 60,
+          "impact": "high"
+        },
+        {
+          "event": "Legacy monolith migration started",
+          "recency_days": 90,
+          "impact": "med"
+        },
+        {
+          "event": "4 P0 incidents/week driving SRE hiring",
+          "recency_days": 7,
+          "impact": "med"
+        }
+      ],
+      "company_state": "TECH_MODERNIZATION",
+      "raw_texts": [
+        {
+          "text": "Staff Engineer \u2014 decompose monolithic payment processing engine into event-driven microservices. Java/Kotlin + Kafka experience.",
+          "source": "careers",
+          "recency_days": 14
+        },
+        {
+          "text": "Data Warehouse Architect \u2014 migrate from on-prem MySQL cluster to Snowflake. Must optimize for regulatory reporting.",
+          "source": "careers",
+          "recency_days": 21
+        },
+        {
+          "text": "SRE Lead \u2014 reduce P0 incident rate by 50%. Currently averaging 4 production incidents per week.",
+          "source": "careers",
+          "recency_days": 7
+        },
+        {
+          "text": "Slice lays off 10% of workforce amid funding winter. CEO memo: 'Focus on profitability path, reduce burn by 30%.'",
+          "source": "news",
+          "recency_days": 60
+        },
+        {
+          "text": "Slice migrating core banking stack from legacy Java monolith to cloud-native architecture. Estimated 18-month timeline.",
+          "source": "news",
+          "recency_days": 90
+        },
+        {
+          "text": "GitHub shows legacy Java repos with 200+ open issues. Recent PRs reference 'strangler fig migration' pattern. CI builds averaging 28 minutes.",
+          "source": "tech_stack",
+          "recency_days": 10
+        },
+        {
+          "text": "VP Engineering post: 'Our technical debt is our biggest blocker to profitability \u2014 every feature takes 3x longer than it should.'",
+          "source": "blog",
+          "recency_days": 35
+        }
+      ]
+    },
+    "opportunity": {
+      "company_name": "Slice",
+      "opportunity_score": 0.589,
+      "priority": "MEDIUM",
+      "timing_window": "next 3-6 months",
+      "company_state": "TECH_MODERNIZATION",
+      "capability_alignment": 0.0,
+      "urgency_score": 0.755,
+      "strategic_summary": "Slice is under dual pressure: cost-cutting mandate from 10% layoffs and a stalled legacy Java monolith migration that's blocking engineering velocity. Their SRE hiring and 4 P0 incidents/week create urgency for DataVex's cloud modernization and data engineering capabilities.",
+      "why_we_win": [
+        "Legacy modernization is DataVex's sweet spot \u2014 strangler fig pattern, cloud migration tooling",
+        "Cost pressure means they need a partner who delivers ROI, not a moonshot vendor",
+        "VP Eng blog post explicitly calls tech debt 'the biggest blocker to profitability' \u2014 they know the problem"
+      ],
+      "risks": [
+        "Budget may be constrained given layoffs and burn reduction goals",
+        "Internal politics: layoffs create fear, new vendor engagement may face resistance"
+      ],
+      "confidence": 0.8
+    },
+    "decision_maker": {
+      "company_name": "Slice",
+      "decision_maker": {
+        "name": "Rajesh Krishnamurthy",
+        "role": "CTO",
+        "priority_profile": {
+          "primary_focus": "cost",
+          "secondary_focus": "speed",
+          "risk_tolerance": "medium",
+          "innovation_bias": "low",
+          "communication_style": "ROI-driven"
+        },
+        "psychographic_signals": [
+          "cost-focused, ROI-driven"
+        ],
+        "messaging_angle": "Your tech debt is costing you 3x on every feature \u2014 DataVex can cut your monolith migration timeline by 60% and get CI builds under 8 minutes.",
+        "pain_points_aligned": [
+          "Monolith decomposition blocking feature velocity",
+          "P0 incident rate eroding customer trust",
+          "Cost pressure requiring ROI-positive vendor choices"
+        ],
+        "persona_risks": [
+          "Budget-constrained after layoffs \u2014 any engagement needs clear ROI framing",
+          "May be defensive about existing architecture decisions"
+        ],
+        "confidence": 0.8
+      },
+      "role_selection_rationale": "Selected CTO because company state is TECH_MODERNIZATION. Primary focus: cost. Communication style: ROI-driven."
+    },
+    "outreach": {
+      "company_name": "Slice",
+      "decision_maker_name": "Rajesh Krishnamurthy",
+      "decision_maker_role": "CTO",
+      "email": "Subject: Monolith migration \u2014 closing the 3x velocity gap\n\nRajesh \u2014\n\n28-minute CI builds and 4 P0 incidents per week on a monolith that your VP Eng calls 'the biggest blocker to profitability.' That math doesn't improve on its own.\n\nWe've run strangler-fig decompositions at 4 fintech companies at your scale \u2014 average outcome: CI under 8 minutes, P0s down 70%, feature velocity 3x in 90 days.\n\nWith the 30% burn reduction mandate, you need a partner that delivers measurable ROI, not a 18-month consulting engagement. We scope to 90-day milestones.\n\n20 minutes to walk through the decomposition playbook?\n\n\u2014 DataVex",
+      "linkedin_dm": "Rajesh \u2014 28-minute CI builds and 4 P0 incidents/week on a monolith is rough. We helped 4 similar fintechs hit sub-8-minute builds and 70% fewer incidents in 90 days. Worth a quick look?",
+      "call_opener": "Rajesh, with the 30% burn reduction mandate and the monolith migration on an 18-month timeline \u2014 how are you prioritizing which services to decompose first?",
+      "personalization_notes": [
+        "Tech debt evidence from careers: 'Staff Engineer \u2014 decompose monolithic payment processing engine into event-drive...'",
+        "Fiscal signal from news: 'Slice lays off 10% of workforce amid funding winter. CEO memo: 'Focus on profita...'"
+      ],
+      "tone": "ROI-focused",
+      "why_this_message": [
+        "Tech debt (Legacy Java monolith blocking velocity \u2014 28min CI builds, strangler fig migration stalled) validates DataVex cloud_devops capability",
+        "Fiscal pressure (10% layoff, 30% burn reduction mandate, profitability pressure) creates urgency for ROI messaging"
+      ],
+      "risk_adjustments": [
+        "Risk: Budget-constrained after layoffs \u2014 any engagement needs clear ROI framing \u2192 Softened CTA, emphasized ROI framing",
+        "Risk: May be defensive about existing architecture decisions \u2192 Adjusted tone to be more consultative"
+      ],
+      "confidence": 0.8
+    }
+  },
+  {
+    "company_name": "Sarvam AI",
+    "candidate": {
+      "company_name": "Sarvam AI",
+      "domain": "sarvam.ai",
+      "industry": "AI Infrastructure",
+      "size": "small",
+      "estimated_employees": 80,
+      "region": "India",
+      "capability_score": 1.0,
+      "size_fit": 1.0,
+      "geo_fit": 1.0,
+      "industry_fit": 1.0,
+      "initial_match_score": 1.0,
+      "notes": "Matched 5 tech signals. Size: small, Region: India"
+    },
+    "signals": {
+      "company_name": "Sarvam AI",
+      "pivot": {
+        "label": "Government AI contract \u2014 sovereign AI stack for healthcare and agriculture",
+        "confidence": 0.4,
+        "evidence": [
+          {
+            "text": "Sarvam AI wins \u20b9200Cr government contract to build India's sovereign AI stack. Focus on healthcare and agriculture NLP.",
+            "source": "news",
+            "recency_days": 15
+          }
+        ]
+      },
+      "tech_debt": null,
+      "fiscal_pressure": null,
+      "why_now_triggers": [
+        {
+          "event": "\u20b9200Cr government AI contract won",
+          "recency_days": 15,
+          "impact": "high"
+        },
+        {
+          "event": "Sarvam-1 model launch",
+          "recency_days": 40,
+          "impact": "low"
+        }
+      ],
+      "company_state": "GROWTH",
+      "raw_texts": [
+        {
+          "text": "Research Scientist \u2014 develop multilingual LLMs for Indian languages. PhD preferred. Publishing record at top ML venues.",
+          "source": "careers",
+          "recency_days": 5
+        },
+        {
+          "text": "Infra Engineer \u2014 build GPU cluster management platform for 1000+ A100 nodes. SLURM + K8s hybrid scheduling.",
+          "source": "careers",
+          "recency_days": 12
+        },
+        {
+          "text": "Sarvam AI wins \u20b9200Cr government contract to build India's sovereign AI stack. Focus on healthcare and agriculture NLP.",
+          "source": "news",
+          "recency_days": 15
+        },
+        {
+          "text": "Sarvam AI announces Sarvam-1, a 7B parameter multilingual model trained on 22 Indian languages.",
+          "source": "news",
+          "recency_days": 40
+        },
+        {
+          "text": "Private repos \u2014 limited visibility. Public model cards on HuggingFace show active ML research. No public infra repos.",
+          "source": "tech_stack",
+          "recency_days": 10
+        },
+        {
+          "text": "CEO interview: 'We're building India's AI infrastructure layer \u2014 government-first, enterprise later. Revenue is secondary to impact right now.'",
+          "source": "blog",
+          "recency_days": 25
+        }
+      ]
+    },
+    "opportunity": {
+      "company_name": "Sarvam AI",
+      "opportunity_score": 0.731,
+      "priority": "MEDIUM",
+      "timing_window": "next 3-6 months",
+      "company_state": "GROWTH",
+      "capability_alignment": 0.5,
+      "urgency_score": 0.624,
+      "strategic_summary": "Sarvam AI has strong government backing but limited commercial urgency. Their focus is research-first with revenue as secondary. DataVex capability alignment is narrow \u2014 primarily AI analytics, not their core infrastructure need of GPU cluster management.",
+      "why_we_win": [
+        "Government contracts require compliance and data engineering capabilities DataVex offers"
+      ],
+      "risks": [
+        "Revenue is secondary to impact \u2014 unlikely to prioritize vendor partnerships",
+        "80-person team with PhD-heavy culture may not value consulting partnerships",
+        "Government procurement cycles are slow and unpredictable"
+      ],
+      "confidence": 0.4
+    },
+    "decision_maker": {
+      "company_name": "Sarvam AI",
+      "decision_maker": {
+        "name": "Vivek Raghavan",
+        "role": "Head of Data / VP Engineering",
+        "priority_profile": {
+          "primary_focus": "innovation",
+          "secondary_focus": "cost",
+          "risk_tolerance": "high",
+          "innovation_bias": "high",
+          "communication_style": "visionary"
+        },
+        "psychographic_signals": [
+          "innovation-biased"
+        ],
+        "messaging_angle": "Your government AI contracts need production-grade data pipelines and compliance infrastructure \u2014 DataVex builds the layer between research and deployment.",
+        "pain_points_aligned": [
+          "GPU cluster management at scale",
+          "Government compliance requirements",
+          "Research-to-production pipeline gaps"
+        ],
+        "persona_risks": [
+          "Research-first culture may deprioritize infrastructure tooling",
+          "Government procurement requires lengthy approval cycles"
+        ],
+        "confidence": 0.4
+      },
+      "role_selection_rationale": "Selected Head of Data / VP Engineering because company state is GROWTH. Primary focus: innovation. Communication style: visionary."
+    },
+    "outreach": {
+      "company_name": "Sarvam AI",
+      "decision_maker_name": "Vivek Raghavan",
+      "decision_maker_role": "Head of Data / VP Engineering",
+      "email": "Subject: Data infrastructure for sovereign AI\n\nVivek \u2014\n\nCongratulations on the \u20b9200Cr government AI contract. Building India's sovereign AI stack for healthcare and agriculture is ambitious \u2014 and the data engineering layer between Sarvam-1 and production deployment will make or break the timeline.\n\nWe build production-grade data pipelines and compliance infrastructure for AI teams \u2014 the layer that turns research models into reliable government-grade deployments.\n\nHappy to share how we've built similar infrastructure \u2014 no commitment, just relevant architecture patterns.\n\n\u2014 DataVex",
+      "linkedin_dm": "Vivek \u2014 congrats on the \u20b9200Cr government AI contract. The data pipeline layer between Sarvam-1 and production deployment is where we live. Happy to share relevant architecture patterns.",
+      "call_opener": "Vivek, with the government AI contract and Sarvam-1 model \u2014 what does the production deployment pipeline look like for healthcare and agriculture use cases?",
+      "personalization_notes": [
+        "Hook derived from news signal: 'Sarvam AI wins \u20b9200Cr government contract to build India's sovereign AI stack. F...'"
+      ],
+      "tone": "consultative",
+      "why_this_message": [
+        "Pivot signal (Government AI contract \u2014 sovereign AI stack for healthcare and agriculture) drives problem framing"
+      ],
+      "risk_adjustments": [
+        "Risk: Research-first culture may deprioritize infrastructure tooling \u2192 Adjusted tone to be more consultative",
+        "Risk: Government procurement requires lengthy approval cycles \u2192 Adjusted tone to be more consultative"
+      ],
+      "confidence": 0.4
+    }
+  }
+]

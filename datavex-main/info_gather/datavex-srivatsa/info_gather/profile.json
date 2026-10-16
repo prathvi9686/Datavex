@@ -1,0 +1,1070 @@
+{
+  "company_name": "Snowflake",
+  "domain": "snowflake.com",
+  "is_public": true,
+  "analyzed_at": "2026-02-21T12:22:19.701932",
+  "transcripts": [],
+  "job_postings": [
+    {
+      "company_name": "Snowflake",
+      "role_title": "Senior Data Platform Architect, Applied Field Engineering",
+      "department": "Solution Engineering",
+      "description": "Snowflake is about empowering enterprises to achieve their full potential \u2014 and people too. With a culture that\u2019s all in on impact, innovation, and collaboration, Snowflake is the sweet spot for building big, moving fast, and taking technology \u2014 and careers \u2014 to the next level. Our Solution Engineering organization is seeking a Senior Data Platform Architect, Applied Field Engineering with an emphasis on data collaboration.  This position will provide hands-on expertise and support while working with technical decision makers to design and architect Data Collaboration solutions built on the Snowflake Data Cloud. This is a strategic role that works closely with cross-functional teams, including product, engineering, and the broader field organization to ensure successful execution and customer adoption of Snowflake\u2019s Collaboration solutions. IN THIS ROLE YOU WILL GET TO: Be the technical expert in the room that positions Snowflake\u2019s Collaboration features and value to technical stakeholders at Snowflake\u2019s customers across the Americas. Partner with Snowflake account team teams and customer champions to scope and drive POCs to success and technical wins that prove the value of Snowflake\u2019s capabilities, including executive readouts and business value cases. Publish content that helps the team and company scale beyond your individual efforts, like blog posts, presentations at conferences, or technical collateral like notebooks and demos. Influence, tailor and maintain Solution Engineering Collaboration selling assets, including customer presentations, demonstrations, and customer stories. ON DAY ONE, WE WILL EXPECT YOU TO HAVE: 5+ years Data architecture experience Understanding of how companies share data today Curiosity and drive to help companies leverage the Snowflake Data Cloud Strong presentation skills to both technical and executive audiences, whether whiteboarding sessions or formal readouts and demos. Bachelor\u2019s Degree required, Masters Degree in computer science, engineering, mathematics or related fields, or equivalent experience preferred. BONUS POINTS FOR EXPERIENCE WITH THE FOLLOWING: Hands on experience with building a listing on Snowflake Marketplace and/or Direct Data Sharing 1+ years of practical Snowflake experience. Knowledge of and experience with large-scale database technology (e.g. Snowflake, Netezza, Exadata, Teradata, Greenplum, etc.) Every Snowflake employee is expected to follow the company\u2019s confidentiality and security standards for handling sensitive data. Snowflake employees must abide by the company\u2019s data security plan as an essential part of their duties. It is every employee's duty to keep customer information secure and confidential. Snowflake is growing fast, and we\u2019re scaling our team to help enable and accelerate our growth. We are looking for people who share our values, challenge ordinary thinking, and push the pace of innovation while building a future for themselves and Snowflake. How do you want to make y",
+      "location": "US-TX-Remote",
+      "keywords": {
+        "pivot": [
+          "AI",
+          "data platform",
+          "enterprise",
+          "RAG"
+        ],
+        "tech_debt": [],
+        "fiscal": []
+      },
+      "posted_date": "",
+      "source": "ashby"
+    },
+    {
+      "company_name": "Snowflake",
+      "role_title": " Senior Solution Engineer",
+      "department": "Solution Engineering",
+      "description": "Snowflake is about empowering enterprises to achieve their full potential \u2014 and people too. With a culture that\u2019s all in on impact, innovation, and collaboration, Snowflake is the sweet spot for building big, moving fast, and taking technology \u2014 and careers \u2014 to the next level. Why Snowflake? Snowflake\u306f\u30c7\u30fc\u30bf\u9769\u547d\u306e\u6700\u524d\u7dda\u306b\u7acb\u3061\u3001\u4e16\u754c\u6700\u9ad8\u306e\u30c7\u30fc\u30bf\u3068\u30a2\u30d7\u30ea\u30b1\u30fc\u30b7\u30e7\u30f3\u306e\u30d7\u30e9\u30c3\u30c8\u30d5\u30a9\u30fc\u30e0\u306e\u69cb\u7bc9\u306b\u53d6\u308a\u7d44\u3093\u3067\u3044\u307e\u3059\u3002\u79c1\u305f\u3061\u306e\u30df\u30c3\u30b7\u30e7\u30f3\u306f\u30c7\u30fc\u30bf\u30b5\u30a4\u30ed\u5316\u3092\u89e3\u6d88\u3057\u3066\u3001\u300c\u4e16\u754c\u4e2d\u306e\u30c7\u30fc\u30bf\u3092\u30e2\u30d3\u30e9\u30a4\u30ba\u3059\u308b\u3053\u3068\u300d\u3092\u76ee\u6307\u3057\u3066\u304a\u308a\u307e\u3059\u3002\u6025\u6210\u9577\u3057\u3066\u3044\u304f\u30c7\u30fc\u30bf\u306e\u672a\u6765\u3092\u79c1\u305f\u3061\u3068\u5171\u306b\u7bc9\u3044\u3066\u3044\u304d\u307e\u3057\u3087\u3046\uff01 Solution Engineering team's Mission? \u5f53\u793e\u3067\u306f\u3001\u304a\u5ba2\u69d8\u306e\u8907\u96d1\u306a\u8ab2\u984c\u3092\u89e3\u6c7a\u3057\u3001\u5927\u898f\u6a21\u306a\u6848\u4ef6\u306b\u7d4c\u9a13\u306e\u3042\u308b\u30b7\u30cb\u30a2\u30bd\u30ea\u30e5\u30fc\u30b7\u30e7\u30f3\u30a8\u30f3\u30b8\u30cb\u30a2\u3092\u52df\u96c6\u3057\u3066\u3044\u307e\u3059\u3002\u30b7\u30cb\u30a2\u30bd\u30ea\u30e5\u30fc\u30b7\u30e7\u30f3\u30a8\u30f3\u30b8\u30cb\u30a2\u306f\u30bb\u30fc\u30eb\u30b9\u30c1\u30fc\u30e0\u3084\u30c1\u30e3\u30cd\u30eb\u30d1\u30fc\u30c8\u30ca\u30fc\u3068\u5354\u696d\u3057\u3066\u3001\u304a\u5ba2\u69d8\u306e\u30cb\u30fc\u30ba\u3092\u7406\u89e3\u3057\u3001\u30bb\u30fc\u30eb\u30b9\u30b5\u30a4\u30af\u30eb\u3092\u5143\u306b\u6848\u4ef6\u652f\u63f4\u3092\u8a08\u753b\u3057\u3066\u3001\u8aac\u5f97\u529b\u306e\u3042\u308b\u4fa1\u5024\u5fd7\u5411\u306e\u30c7\u30e2\u30f3\u30b9\u30c8\u30ec\u30fc\u30b7\u30e7\u30f3\u3092\u63d0\u4f9b\u3057\u3001\u304a\u5ba2\u69d8\u306ePoC\u3092\u30b5\u30dd\u30fc\u30c8\u3057\u3001\u6848\u4ef6\u306e\u6210\u7d04\u307e\u3067\u652f\u63f4\u3057\u307e\u3059\u3002Snowflake\u306e\u30bd\u30ea\u30e5\u30fc\u30b7\u30e7\u30f3\u30a8\u30f3\u30b8\u30cb\u30a2\u3068\u3057\u3066\u3001\u300c\u30c7\u30fc\u30bf\u9818\u57df\u3092\u518d\u5b9a\u7fa9\u3059\u308b\u300d\u3068\u3044\u3046\u5f53\u793e\u306e\u60c5\u71b1\u3092\u5171\u6709\u3057\u3001\u5909\u5316\u306e\u6fc0\u3057\u3044\u74b0\u5883\u3067\u3082\u7a4d\u6975\u7684\u306b\u81ea\u3089\u95a2\u4e0e\u3057\u3066\u5b9f\u884c\u3059\u308b\u67d4\u8edf\u6027\u3068\u610f\u6b32\u3092\u304c\u6c42\u3081\u3089\u308c\u3066\u3044\u308b\u307e\u3059\u3002\u30d3\u30b8\u30cd\u30b9\u3068\u6280\u8853\u306e\u4e21\u65b9\u306b\u304a\u3044\u3066\u3001\u30a8\u30b0\u30bc\u30af\u30c6\u30a3\u30d6\u3068\u4f1a\u8a71\u3001\u6280\u8853\u7684\u306a\u65b9\u3005\u3068\u8a71\u3092\u3057\u307e\u3059\u3002 The Impact You will Make\uff1a \u898b\u8fbc\u307f\u5ba2\u3084\u304a\u5ba2\u69d8\u306e\u30a8\u30b0\u30bc\u30af\u30c6\u30a3\u30d6\u3084IT\u6280\u8853\u8005\u306bSnowflake\u306e\u30c6\u30af\u30ce\u30ed\u30b8\u30fc\u3084\u30d3\u30b8\u30e7\u30f3\u306e\u30d7\u30ec\u30bc\u30f3\u30c6\u30fc\u30b7\u30e7\u30f3\u3092\u5b9f\u65bd \u898b\u8fbc\u307f\u5ba2\u3084\u304a\u5ba2\u69d8\u306b\u5bfe\u3057\u3066\u30c7\u30e2\u3084PoC\u306a\u3069\u306e\u65b9\u6cd5\u3067\u55b6\u696d\u30b5\u30a4\u30af\u30eb\u5168\u4f53\u3092\u901a\u3057\u3066Snowflake\u30c6\u30af\u30ce\u30ed\u30b8\u30fc\u306e\u4fa1\u5024\u3092\u5b9f\u8a3c \u9032\u5316\u3057\u7d9a\u3051\u308b\u696d\u754c\u306b\u8eab\u3092\u7f6e\u304d\u3001\u7af6\u5408\u4ed6\u793e\u3084\u95a2\u9023\u3059\u308b\u6280\u8853\u3084\u30d9\u30f3\u30c0\u30fc\u3092\u7406\u89e3\u3057\u3001Snowflake\u3092\u3069\u306e\u3088\u3046\u306b\u30dd\u30b8\u30b7\u30e7\u30cb\u30f3\u30b0\u3059\u308b\u304b\u306e\u7406\u89e3 \u88fd\u54c1\u7ba1\u7406\u3001\u30a8\u30f3\u30b8\u30cb\u30a2\u30ea\u30f3\u30b0\u3001\u30de\u30fc\u30b1\u30c6\u30a3\u30f3\u30b0\u3068\u5354\u529b\u3057\u3066\u3001Snowflake\u306e\u88fd\u54c1\u6539\u5584\u3084\u30de\u30fc\u30b1\u30c6\u30a3\u30f3\u30b0\u6d3b\u52d5\u3092\u5b9f\u65bd Who You Are\uff1a 7\uff5e8\u5e74\u306e\u696d\u754c\u7d4c\u9a13\u3092\u6301\u3061\u3001\u30d7\u30ea\u30bb\u30fc\u30eb\u30b9\u74b0\u5883\u30673\u5e74\u4ee5\u4e0a\u306e\u7d4c\u9a13\u3092\u304a\u6301\u3061\u306e\u65b9 \u30db\u30ef\u30a4\u30c8\u30dc\u30fc\u30c9\u3067\u306e\u5373\u5e2d\u30d7\u30ec\u30bc\u30f3\u30c6\u30fc\u30b7\u30e7\u30f3\u3084\u30c7\u30e2\u306e\u4f7f\u7528\u306a\u3069\u3001\u6280\u8853\u8005\u3068\u30a8\u30b0\u30bc\u30af\u30c6\u30a3\u30d6\u306e\u4e21\u65b9\u3078\u306e\u30d7\u30ec\u30bc\u30f3\u30c6\u30fc\u30b7\u30e7\u30f3\u30b9\u30ad\u30eb \u5927\u898f\u6a21\u306a\u30c7\u30fc\u30bf\u30d9\u30fc\u30b9\u3001\u30c7\u30fc\u30bf\u30a6\u30a7\u30a2\u30cf\u30a6\u30b9\u6280\u8853\u3001ETL\u3001\u30a2\u30ca\u30ea\u30c6\u30a3\u30af\u30b9\u3001\u30af\u30e9\u30a6\u30c9\u30c6\u30af\u30ce\u30ed\u30b8\u30fc\u306e\u5e45\u5e83\u3044\u7d4c\u9a13 SQL\u3068SQL\u30a2\u30ca\u30ea\u30c6\u30a3\u30af\u30b9\u306e\u30cf\u30f3\u30ba\u30aa\u30f3\u77e5\u8b58 \u9867\u5ba2\u306e\u5177\u4f53\u7684\u306a\u30d3\u30b8\u30cd\u30b9\u4e0a\u306e\u8ab2\u984c\u3068Snowflake\u306e\u30bd\u30ea\u30e5\u30fc\u30b7\u30e7\u30f3\u3092\u7d50\u3073\u3064\u3051\u308b\u63d0\u6848\u30b9\u30ad\u30eb \u30b3\u30f3\u30d4\u30e5\u30fc\u30bf\u30b5\u30a4\u30a8\u30f3\u30b9\u3001\u30a8\u30f3\u30b8\u30cb\u30a2\u30ea\u30f3\u30b0\u3001\u6570\u5b66\u3001\u307e\u305f\u306f\u95a2\u9023\u5206\u91ce\u306e\u5927\u5352\u3001\u307e\u305f\u306f\u540c\u7b49\u306e\u7d4c\u9a13\u3092\u304a\u6301\u3061\u306e\u65b9 \u65e5\u672c\u8a9e\u3068\u82f1\u8a9e\u306b\u582a\u80fd\u306a\u65b9 Japan Benefits (\u4e00\u90e8) Free lunch at office 401K\uff08\u4f01\u696d\u578b\u78ba\u5b9a\u62e0\u51fa\u5e74\u91d1\uff09 RSU Phone & Gym reimbursement 3 day Summer Vacation & 5 day Year-end Holidays Paid Parental Leave Snowflake is growing fast, and we\u2019re scaling our team to help enable and accelerate our growth. We are looking for people who share our values, challenge ordinary thinking, and push the pace of innovation while building a future for themselves and Snowflake. How do you want to make your impact? For jobs located in the United States, please visit the job posting on the Snowflake Careers Site for salary and benefits information: careers.snowflake.com",
+      "location": "Tokyo, Japan",
+      "keywords": {
+        "pivot": [
+          "AI",
+          "enterprise"
+        ],
+        "tech_debt": [
+          "ETL"
+        ],
+        "fiscal": []
+      },
+      "posted_date": "",
+      "source": "ashby"
+    },
+    {
+      "company_name": "Snowflake",
+      "role_title": "Software Engineer - Platform Infrastructure Engineering",
+      "department": "Engineering",
+      "description": "Snowflake is about empowering enterprises to achieve their full potential \u2014 and people too. With a culture that\u2019s all in on impact, innovation, and collaboration, Snowflake is the sweet spot for building big, moving fast, and taking technology \u2014 and careers \u2014 to the next level. Snowflake customers run more than 3.9 billion queries and 515 million data workloads each day. To support this workload, our globally deployed infrastructure spans multiple cloud providers and manages hundreds of thousands of VMs. Join the Snowflake team to build the Data Cloud Platform at an exceptional scale. We are hiring talented Software Engineers for our Platform Infrastructure Engineering\u00a0 teams. If you are passionate about solving complex infrastructure challenges by using software engineering expertise, this opportunity may be for you. Our Platform Infrastructure Engineering Teams are focused on things like: Simplifying our large-scale infrastructure for the other development teams to use. Building services that improve the reliability of Snowflake by protecting us from the cloud providers issues. Enabling Snowflake services to operate globally across multiple cloud providers. Managing complicated infrastructure changes at the scale a few companies can match. Keeping the SLOs of our infrastructure and services at a very high bar. Defining the OS and containerization layer for all of Snowflake\u2019s services. All Platform Infrastructure Engineering Teams aim to optimize and evolve our infrastructure's reliability, availability, serviceability, performance, and cost efficiency. AS A SOFTWARE ENGINEER - PLATFORM INFRASTRUCTURE ENGINEERING AT SNOWFLAKE, YOU WILL: Will build a deep understanding of Snowflake\u2019s infrastructure and services. Demonstrate both infrastructure and software engineering expertise by contributing to the team charter to build and operate highly scalable, resilient, and performant infrastructure. Work on large and complex projects that build infrastructure, platforms, tools, and automation in the cloud. Evangelize and drive adoption of the Platform to meet business goals. Support junior team members, contribute with excellent code quality, documentation, and software development best practices. OUR IDEAL SOFTWARE ENGINEER - PLATFORM INFRASTRUCTURE ENGINEERING AT SNOWFLAKE, WILL HAVE: BS/CS, MS/CS, or equivalent. At least 2+ years experience in a platform or cloud team building spent on supporting mission-critical services and infrastructure in a SaaS environment. Strong software engineering fundamentals, coding skills, and knowledge of software development best practices. At least 1+ years in cloud computing (AWS, Azure, or GCP). Fluent in one or more languages (Golang, Java, Python, C). Proficiency in at least one of the following areas: container platforms, automation, networking, operating systems, site reliability, config management, and infrastructure as code solutions such as Pulumi and Terraform. Tremendous attention to detail and ability to bu",
+      "location": "PL-Warsaw",
+      "keywords": {
+        "pivot": [
+          "AI",
+          "SaaS",
+          "enterprise"
+        ],
+        "tech_debt": [],
+        "fiscal": [
+          "efficiency"
+        ]
+      },
+      "posted_date": "",
+      "source": "ashby"
+    },
+    {
+      "company_name": "Snowflake",
+      "role_title": " Solution Engineer",
+      "department": "Solution Engineering",
+      "description": "Snowflake is about empowering enterprises to achieve their full potential \u2014 and people too. With a culture that\u2019s all in on impact, innovation, and collaboration, Snowflake is the sweet spot for building big, moving fast, and taking technology \u2014 and careers \u2014 to the next level. Why Snowflake? Snowflake\u306f\u30c7\u30fc\u30bf\u9769\u547d\u306e\u6700\u524d\u7dda\u306b\u7acb\u3061\u3001\u4e16\u754c\u6700\u9ad8\u306e\u30c7\u30fc\u30bf\u3068\u30a2\u30d7\u30ea\u30b1\u30fc\u30b7\u30e7\u30f3\u306e\u30d7\u30e9\u30c3\u30c8\u30d5\u30a9\u30fc\u30e0\u306e\u69cb\u7bc9\u306b\u53d6\u308a\u7d44\u3093\u3067\u3044\u307e\u3059\u3002\u79c1\u305f\u3061\u306e\u30df\u30c3\u30b7\u30e7\u30f3\u306f\u30c7\u30fc\u30bf\u30b5\u30a4\u30ed\u5316\u3092\u89e3\u6d88\u3057\u3066\u3001\u300c\u4e16\u754c\u4e2d\u306e\u30c7\u30fc\u30bf\u3092\u30e2\u30d3\u30e9\u30a4\u30ba\u3059\u308b\u3053\u3068\u300d\u3092\u76ee\u6307\u3057\u3066\u304a\u308a\u307e\u3059\u3002\u6025\u6210\u9577\u3057\u3066\u3044\u304f\u30c7\u30fc\u30bf\u306e\u672a\u6765\u3092\u79c1\u305f\u3061\u3068\u5171\u306b\u7bc9\u3044\u3066\u3044\u304d\u307e\u3057\u3087\u3046\uff01 Solutions Engineering\u2019s Mission? \u5f53\u793e\u3067\u306f\u3001\u304a\u5ba2\u69d8\u306e\u8907\u96d1\u306a\u8ab2\u984c\u3092\u89e3\u6c7a\u3057\u3001\u5927\u898f\u6a21\u306a\u6848\u4ef6\u306b\u7d4c\u9a13\u306e\u3042\u308b\u30b7\u30cb\u30a2\u30bb\u30fc\u30eb\u30b9\u30a8\u30f3\u30b8\u30cb\u30a2\u3092\u52df\u96c6\u3057\u3066\u3044\u307e\u3059\u3002\u30bd\u30ea\u30e5\u30fc\u30b7\u30e7\u30f3\u30a8\u30f3\u30b8\u30cb\u30a2\u306f\u30bb\u30fc\u30eb\u30b9\u30c1\u30fc\u30e0\u3084\u30c1\u30e3\u30cd\u30eb\u30d1\u30fc\u30c8\u30ca\u30fc\u3068\u5354\u696d\u3057\u3066\u3001\u304a\u5ba2\u69d8\u306e\u30cb\u30fc\u30ba\u3092\u7406\u89e3\u3057\u3001\u30bb\u30fc\u30eb\u30b9\u30b5\u30a4\u30af\u30eb\u3092\u5143\u306b\u6848\u4ef6\u652f\u63f4\u3092\u8a08\u753b\u3057\u3066\u3001\u8aac\u5f97\u529b\u306e\u3042\u308b\u4fa1\u5024\u5fd7\u5411\u306e\u30c7\u30e2\u30f3\u30b9\u30c8\u30ec\u30fc\u30b7\u30e7\u30f3\u3092\u63d0\u4f9b\u3057\u3001\u304a\u5ba2\u69d8\u306ePoC\u3092\u30b5\u30dd\u30fc\u30c8\u3057\u3001\u6848\u4ef6\u306e\u6210\u7d04\u307e\u3067\u652f\u63f4\u3057\u307e\u3059\u3002Snowflake\u306e\u30bd\u30ea\u30e5\u30fc\u30b7\u30e7\u30f3\u30a8\u30f3\u30b8\u30cb\u30a2\u3068\u3057\u3066\u3001\u300c\u30c7\u30fc\u30bf\u9818\u57df\u3092\u518d\u5b9a\u7fa9\u3059\u308b\u300d\u3068\u3044\u3046\u5f53\u793e\u306e\u60c5\u71b1\u3092\u5171\u6709\u3057\u3001\u5909\u5316\u306e\u6fc0\u3057\u3044\u74b0\u5883\u3067\u3082\u7a4d\u6975\u7684\u306b\u81ea\u3089\u95a2\u4e0e\u3057\u3066\u5b9f\u884c\u3059\u308b\u67d4\u8edf\u6027\u3068\u610f\u6b32\u3092\u304c\u6c42\u3081\u3089\u308c\u3066\u3044\u308b\u307e\u3059\u3002\u30d3\u30b8\u30cd\u30b9\u3068\u6280\u8853\u306e\u4e21\u65b9\u306b\u304a\u3044\u3066\u3001\u30a8\u30b0\u30bc\u30af\u30c6\u30a3\u30d6\u3068\u4f1a\u8a71\u3001\u6280\u8853\u7684\u306a\u65b9\u3005\u3068\u8a71\u3092\u3057\u307e\u3059\u3002 The impact You Will Make: \u898b\u8fbc\u307f\u5ba2\u3084\u304a\u5ba2\u69d8\u306e\u30a8\u30b0\u30bc\u30af\u30c6\u30a3\u30d6\u3084IT\u6280\u8853\u8005\u306bSnowflake\u306e\u30c6\u30af\u30ce\u30ed\u30b8\u30fc\u3084\u30d3\u30b8\u30e7\u30f3\u306e\u30d7\u30ec\u30bc\u30f3\u30c6\u30fc\u30b7\u30e7\u30f3\u3092\u5b9f\u65bd \u898b\u8fbc\u307f\u5ba2\u3084\u304a\u5ba2\u69d8\u306b\u5bfe\u3057\u3066\u30c7\u30e2\u3084PoC\u306a\u3069\u306e\u65b9\u6cd5\u3067\u55b6\u696d\u30b5\u30a4\u30af\u30eb\u5168\u4f53\u3092\u901a\u3057\u3066Snowflake\u30c6\u30af\u30ce\u30ed\u30b8\u30fc\u306e\u4fa1\u5024\u3092\u5b9f\u8a3c \u9032\u5316\u3057\u7d9a\u3051\u308b\u696d\u754c\u306b\u8eab\u3092\u7f6e\u304d\u3001\u7af6\u5408\u4ed6\u793e\u3084\u95a2\u9023\u3059\u308b\u6280\u8853\u3084\u30d9\u30f3\u30c0\u30fc\u3092\u7406\u89e3\u3057\u3001Snowflake\u3092\u3069\u306e\u3088\u3046\u306b\u30dd\u30b8\u30b7\u30e7\u30cb\u30f3\u30b0\u3059\u308b\u304b\u306e\u7406\u89e3 \u88fd\u54c1\u7ba1\u7406\u3001\u30a8\u30f3\u30b8\u30cb\u30a2\u30ea\u30f3\u30b0\u3001\u30de\u30fc\u30b1\u30c6\u30a3\u30f3\u30b0\u3068\u5354\u529b\u3057\u3066\u3001Snowflake\u306e\u88fd\u54c1\u6539\u5584\u3084\u30de\u30fc\u30b1\u30c6\u30a3\u30f3\u30b0\u6d3b\u52d5\u3092\u5b9f\u65bd Who You Are\uff1a 5\uff5e6\u5e74\u4ee5\u4e0a\u306e\u696d\u754c\u7d4c\u9a13\u3092\u6301\u3061\u3001\u30ab\u30b9\u30bf\u30de\u30fc\u30d5\u30a7\u30a4\u30b7\u30f3\u30b0\u306e\u7d4c\u9a13\u30922\u5e74\u4ee5\u4e0a\u304a\u6301\u3061\u306e\u65b9 \u30db\u30ef\u30a4\u30c8\u30dc\u30fc\u30c9\u3067\u306e\u5373\u5e2d\u30d7\u30ec\u30bc\u30f3\u30c6\u30fc\u30b7\u30e7\u30f3\u3084\u30c7\u30e2\u306e\u4f7f\u7528\u306a\u3069\u3001\u6280\u8853\u8005\u3068\u30a8\u30b0\u30bc\u30af\u30c6\u30a3\u30d6\u306e\u4e21\u65b9\u3078\u306e\u30d7\u30ec\u30bc\u30f3\u30c6\u30fc\u30b7\u30e7\u30f3\u30b9\u30ad\u30eb \u5927\u898f\u6a21\u306a\u30c7\u30fc\u30bf\u30d9\u30fc\u30b9\u3001\u30c7\u30fc\u30bf\u30a6\u30a7\u30a2\u30cf\u30a6\u30b9\u6280\u8853\u3001ETL\u3001\u30a2\u30ca\u30ea\u30c6\u30a3\u30af\u30b9\u3001\u30af\u30e9\u30a6\u30c9\u30c6\u30af\u30ce\u30ed\u30b8\u30fc\u306e\u5e45\u5e83\u3044\u7d4c\u9a13 SQL\u3068SQL\u30a2\u30ca\u30ea\u30c6\u30a3\u30af\u30b9\u306e\u30cf\u30f3\u30ba\u30aa\u30f3\u77e5\u8b58 \u9867\u5ba2\u306e\u5177\u4f53\u7684\u306a\u30d3\u30b8\u30cd\u30b9\u4e0a\u306e\u8ab2\u984c\u3068Snowflake\u306e\u30bd\u30ea\u30e5\u30fc\u30b7\u30e7\u30f3\u3092\u7d50\u3073\u3064\u3051\u308b\u63d0\u6848\u30b9\u30ad\u30eb \u30b3\u30f3\u30d4\u30e5\u30fc\u30bf\u30b5\u30a4\u30a8\u30f3\u30b9\u3001\u30a8\u30f3\u30b8\u30cb\u30a2\u30ea\u30f3\u30b0\u3001\u6570\u5b66\u3001\u307e\u305f\u306f\u95a2\u9023\u5206\u91ce\u306e\u5927\u5352\u3001\u307e\u305f\u306f\u540c\u7b49\u306e\u7d4c\u9a13\u3092\u304a\u6301\u3061\u306e\u65b9 \u65e5\u672c\u8a9e\u3068\u82f1\u8a9e\u306b\u582a\u80fd\u306a\u65b9 Japan Benefits (\u4e00\u90e8) Free lunch at office 401K\uff08\u4f01\u696d\u578b\u78ba\u5b9a\u62e0\u51fa\u5e74\u91d1\uff09 RSU Phone & Gym reimbursement 3 day Summer Vacation & 5 day Year-end Holidays Paid Parental Leave Snowflake is growing fast, and we\u2019re scaling our team to help enable and accelerate our growth. We are looking for people who share our values, challenge ordinary thinking, and push the pace of innovation while building a future for themselves and Snowflake. How do you want to make your impact? For jobs located in the United States, please visit the job posting on the Snowflake Careers Site for salary and benefits information: careers.snowflake.com",
+      "location": "Tokyo, Japan",
+      "keywords": {
+        "pivot": [
+          "AI",
+          "enterprise"
+        ],
+        "tech_debt": [
+          "ETL"
+        ],
+        "fiscal": []
+      },
+      "posted_date": "",
+      "source": "ashby"
+    },
+    {
+      "company_name": "Snowflake",
+      "role_title": "Senior Solution Engineer",
+      "department": "Solution Engineering",
+      "description": "Snowflake is about empowering enterprises to achieve their full potential \u2014 and people too. With a culture that\u2019s all in on impact, innovation, and collaboration, Snowflake is the sweet spot for building big, moving fast, and taking technology \u2014 and careers \u2014 to the next level. Why Snowflake? Snowflake\u306f\u30c7\u30fc\u30bf\u9769\u547d\u306e\u6700\u524d\u7dda\u306b\u7acb\u3061\u3001\u4e16\u754c\u6700\u9ad8\u306e\u30c7\u30fc\u30bf\u3068\u30a2\u30d7\u30ea\u30b1\u30fc\u30b7\u30e7\u30f3\u306e\u30d7\u30e9\u30c3\u30c8\u30d5\u30a9\u30fc\u30e0\u306e\u69cb\u7bc9\u306b\u53d6\u308a\u7d44\u3093\u3067\u3044\u307e\u3059\u3002\u79c1\u305f\u3061\u306e\u30df\u30c3\u30b7\u30e7\u30f3\u306f\u30c7\u30fc\u30bf\u30b5\u30a4\u30ed\u5316\u3092\u89e3\u6d88\u3057\u3066\u3001\u300c\u4e16\u754c\u4e2d\u306e\u30c7\u30fc\u30bf\u3092\u30e2\u30d3\u30e9\u30a4\u30ba\u3059\u308b\u3053\u3068\u300d\u3092\u76ee\u6307\u3057\u3066\u304a\u308a\u307e\u3059\u3002\u6025\u6210\u9577\u3057\u3066\u3044\u304f\u30c7\u30fc\u30bf\u306e\u672a\u6765\u3092\u79c1\u305f\u3061\u3068\u5171\u306b\u7bc9\u3044\u3066\u3044\u304d\u307e\u3057\u3087\u3046\uff01 Solution Engineering team's Mission? \u5f53\u793e\u3067\u306f\u3001\u304a\u5ba2\u69d8\u306e\u8907\u96d1\u306a\u8ab2\u984c\u3092\u89e3\u6c7a\u3057\u3001\u5927\u898f\u6a21\u306a\u6848\u4ef6\u306b\u7d4c\u9a13\u306e\u3042\u308b\u30b7\u30cb\u30a2\u30bd\u30ea\u30e5\u30fc\u30b7\u30e7\u30f3\u30a8\u30f3\u30b8\u30cb\u30a2\u3092\u52df\u96c6\u3057\u3066\u3044\u307e\u3059\u3002\u30b7\u30cb\u30a2\u30bd\u30ea\u30e5\u30fc\u30b7\u30e7\u30f3\u30a8\u30f3\u30b8\u30cb\u30a2\u306f\u30bb\u30fc\u30eb\u30b9\u30c1\u30fc\u30e0\u3084\u30c1\u30e3\u30cd\u30eb\u30d1\u30fc\u30c8\u30ca\u30fc\u3068\u5354\u696d\u3057\u3066\u3001\u304a\u5ba2\u69d8\u306e\u30cb\u30fc\u30ba\u3092\u7406\u89e3\u3057\u3001\u30bb\u30fc\u30eb\u30b9\u30b5\u30a4\u30af\u30eb\u3092\u5143\u306b\u6848\u4ef6\u652f\u63f4\u3092\u8a08\u753b\u3057\u3066\u3001\u8aac\u5f97\u529b\u306e\u3042\u308b\u4fa1\u5024\u5fd7\u5411\u306e\u30c7\u30e2\u30f3\u30b9\u30c8\u30ec\u30fc\u30b7\u30e7\u30f3\u3092\u63d0\u4f9b\u3057\u3001\u304a\u5ba2\u69d8\u306ePoC\u3092\u30b5\u30dd\u30fc\u30c8\u3057\u3001\u6848\u4ef6\u306e\u6210\u7d04\u307e\u3067\u652f\u63f4\u3057\u307e\u3059\u3002Snowflake\u306e\u30bd\u30ea\u30e5\u30fc\u30b7\u30e7\u30f3\u30a8\u30f3\u30b8\u30cb\u30a2\u3068\u3057\u3066\u3001\u300c\u30c7\u30fc\u30bf\u9818\u57df\u3092\u518d\u5b9a\u7fa9\u3059\u308b\u300d\u3068\u3044\u3046\u5f53\u793e\u306e\u60c5\u71b1\u3092\u5171\u6709\u3057\u3001\u5909\u5316\u306e\u6fc0\u3057\u3044\u74b0\u5883\u3067\u3082\u7a4d\u6975\u7684\u306b\u81ea\u3089\u95a2\u4e0e\u3057\u3066\u5b9f\u884c\u3059\u308b\u67d4\u8edf\u6027\u3068\u610f\u6b32\u3092\u304c\u6c42\u3081\u3089\u308c\u3066\u3044\u308b\u307e\u3059\u3002\u30d3\u30b8\u30cd\u30b9\u3068\u6280\u8853\u306e\u4e21\u65b9\u306b\u304a\u3044\u3066\u3001\u30a8\u30b0\u30bc\u30af\u30c6\u30a3\u30d6\u3068\u4f1a\u8a71\u3001\u6280\u8853\u7684\u306a\u65b9\u3005\u3068\u8a71\u3092\u3057\u307e\u3059\u3002 The Impact You will Make\uff1a \u898b\u8fbc\u307f\u5ba2\u3084\u304a\u5ba2\u69d8\u306e\u30a8\u30b0\u30bc\u30af\u30c6\u30a3\u30d6\u3084IT\u6280\u8853\u8005\u306bSnowflake\u306e\u30c6\u30af\u30ce\u30ed\u30b8\u30fc\u3084\u30d3\u30b8\u30e7\u30f3\u306e\u30d7\u30ec\u30bc\u30f3\u30c6\u30fc\u30b7\u30e7\u30f3\u3092\u5b9f\u65bd \u898b\u8fbc\u307f\u5ba2\u3084\u304a\u5ba2\u69d8\u306b\u5bfe\u3057\u3066\u30c7\u30e2\u3084PoC\u306a\u3069\u306e\u65b9\u6cd5\u3067\u55b6\u696d\u30b5\u30a4\u30af\u30eb\u5168\u4f53\u3092\u901a\u3057\u3066Snowflake\u30c6\u30af\u30ce\u30ed\u30b8\u30fc\u306e\u4fa1\u5024\u3092\u5b9f\u8a3c \u9032\u5316\u3057\u7d9a\u3051\u308b\u696d\u754c\u306b\u8eab\u3092\u7f6e\u304d\u3001\u7af6\u5408\u4ed6\u793e\u3084\u95a2\u9023\u3059\u308b\u6280\u8853\u3084\u30d9\u30f3\u30c0\u30fc\u3092\u7406\u89e3\u3057\u3001Snowflake\u3092\u3069\u306e\u3088\u3046\u306b\u30dd\u30b8\u30b7\u30e7\u30cb\u30f3\u30b0\u3059\u308b\u304b\u306e\u7406\u89e3 \u88fd\u54c1\u7ba1\u7406\u3001\u30a8\u30f3\u30b8\u30cb\u30a2\u30ea\u30f3\u30b0\u3001\u30de\u30fc\u30b1\u30c6\u30a3\u30f3\u30b0\u3068\u5354\u529b\u3057\u3066\u3001Snowflake\u306e\u88fd\u54c1\u6539\u5584\u3084\u30de\u30fc\u30b1\u30c6\u30a3\u30f3\u30b0\u6d3b\u52d5\u3092\u5b9f\u65bd Who You Are\uff1a 7\uff5e8\u5e74\u306e\u696d\u754c\u7d4c\u9a13\u3092\u6301\u3061\u3001\u30d7\u30ea\u30bb\u30fc\u30eb\u30b9\u74b0\u5883\u30673\u5e74\u4ee5\u4e0a\u306e\u7d4c\u9a13\u3092\u304a\u6301\u3061\u306e\u65b9 \u30db\u30ef\u30a4\u30c8\u30dc\u30fc\u30c9\u3067\u306e\u5373\u5e2d\u30d7\u30ec\u30bc\u30f3\u30c6\u30fc\u30b7\u30e7\u30f3\u3084\u30c7\u30e2\u306e\u4f7f\u7528\u306a\u3069\u3001\u6280\u8853\u8005\u3068\u30a8\u30b0\u30bc\u30af\u30c6\u30a3\u30d6\u306e\u4e21\u65b9\u3078\u306e\u30d7\u30ec\u30bc\u30f3\u30c6\u30fc\u30b7\u30e7\u30f3\u30b9\u30ad\u30eb \u5927\u898f\u6a21\u306a\u30c7\u30fc\u30bf\u30d9\u30fc\u30b9\u3001\u30c7\u30fc\u30bf\u30a6\u30a7\u30a2\u30cf\u30a6\u30b9\u6280\u8853\u3001ETL\u3001\u30a2\u30ca\u30ea\u30c6\u30a3\u30af\u30b9\u3001\u30af\u30e9\u30a6\u30c9\u30c6\u30af\u30ce\u30ed\u30b8\u30fc\u306e\u5e45\u5e83\u3044\u7d4c\u9a13 SQL\u3068SQL\u30a2\u30ca\u30ea\u30c6\u30a3\u30af\u30b9\u306e\u30cf\u30f3\u30ba\u30aa\u30f3\u77e5\u8b58 \u9867\u5ba2\u306e\u5177\u4f53\u7684\u306a\u30d3\u30b8\u30cd\u30b9\u4e0a\u306e\u8ab2\u984c\u3068Snowflake\u306e\u30bd\u30ea\u30e5\u30fc\u30b7\u30e7\u30f3\u3092\u7d50\u3073\u3064\u3051\u308b\u63d0\u6848\u30b9\u30ad\u30eb \u30b3\u30f3\u30d4\u30e5\u30fc\u30bf\u30b5\u30a4\u30a8\u30f3\u30b9\u3001\u30a8\u30f3\u30b8\u30cb\u30a2\u30ea\u30f3\u30b0\u3001\u6570\u5b66\u3001\u307e\u305f\u306f\u95a2\u9023\u5206\u91ce\u306e\u5927\u5352\u3001\u307e\u305f\u306f\u540c\u7b49\u306e\u7d4c\u9a13\u3092\u304a\u6301\u3061\u306e\u65b9 \u65e5\u672c\u8a9e\u3068\u82f1\u8a9e\u306b\u582a\u80fd\u306a\u65b9 Japan Benefits (\u4e00\u90e8) Free lunch at office 401K\uff08\u4f01\u696d\u578b\u78ba\u5b9a\u62e0\u51fa\u5e74\u91d1\uff09 RSU Phone & Gym reimbursement 3 day Summer Vacation & 5 day Year-end Holidays Paid Parental Leave Snowflake is growing fast, and we\u2019re scaling our team to help enable and accelerate our growth. We are looking for people who share our values, challenge ordinary thinking, and push the pace of innovation while building a future for themselves and Snowflake. How do you want to make your impact? For jobs located in the United States, please visit the job posting on the Snowflake Careers Site for salary and benefits information: careers.snowflake.com",
+      "location": "JP-Osaka-MSO",
+      "keywords": {
+        "pivot": [
+          "AI",
+          "enterprise"
+        ],
+        "tech_debt": [
+          "ETL"
+        ],
+        "fiscal": []
+      },
+      "posted_date": "",
+      "source": "ashby"
+    },
+    {
+      "company_name": "Snowflake",
+      "role_title": "Solution Engineer",
+      "department": "Solution Engineering",
+      "description": "Snowflake is about empowering enterprises to achieve their full potential \u2014 and people too. With a culture that\u2019s all in on impact, innovation, and collaboration, Snowflake is the sweet spot for building big, moving fast, and taking technology \u2014 and careers \u2014 to the next level. Why Snowflake? Snowflake\u306f\u30c7\u30fc\u30bf\u9769\u547d\u306e\u6700\u524d\u7dda\u306b\u7acb\u3061\u3001\u4e16\u754c\u6700\u9ad8\u306e\u30c7\u30fc\u30bf\u3068\u30a2\u30d7\u30ea\u30b1\u30fc\u30b7\u30e7\u30f3\u306e\u30d7\u30e9\u30c3\u30c8\u30d5\u30a9\u30fc\u30e0\u306e\u69cb\u7bc9\u306b\u53d6\u308a\u7d44\u3093\u3067\u3044\u307e\u3059\u3002\u79c1\u305f\u3061\u306e\u30df\u30c3\u30b7\u30e7\u30f3\u306f\u30c7\u30fc\u30bf\u30b5\u30a4\u30ed\u5316\u3092\u89e3\u6d88\u3057\u3066\u3001\u300c\u4e16\u754c\u4e2d\u306e\u30c7\u30fc\u30bf\u3092\u30e2\u30d3\u30e9\u30a4\u30ba\u3059\u308b\u3053\u3068\u300d\u3092\u76ee\u6307\u3057\u3066\u304a\u308a\u307e\u3059\u3002\u6025\u6210\u9577\u3057\u3066\u3044\u304f\u30c7\u30fc\u30bf\u306e\u672a\u6765\u3092\u79c1\u305f\u3061\u3068\u5171\u306b\u7bc9\u3044\u3066\u3044\u304d\u307e\u3057\u3087\u3046\uff01 Solutions Engineering\u2019s Mission? \u5f53\u793e\u3067\u306f\u3001\u304a\u5ba2\u69d8\u306e\u8907\u96d1\u306a\u8ab2\u984c\u3092\u89e3\u6c7a\u3057\u3001\u5927\u898f\u6a21\u306a\u6848\u4ef6\u306b\u7d4c\u9a13\u306e\u3042\u308b\u30b7\u30cb\u30a2\u30bb\u30fc\u30eb\u30b9\u30a8\u30f3\u30b8\u30cb\u30a2\u3092\u52df\u96c6\u3057\u3066\u3044\u307e\u3059\u3002\u30bd\u30ea\u30e5\u30fc\u30b7\u30e7\u30f3\u30a8\u30f3\u30b8\u30cb\u30a2\u306f\u30bb\u30fc\u30eb\u30b9\u30c1\u30fc\u30e0\u3084\u30c1\u30e3\u30cd\u30eb\u30d1\u30fc\u30c8\u30ca\u30fc\u3068\u5354\u696d\u3057\u3066\u3001\u304a\u5ba2\u69d8\u306e\u30cb\u30fc\u30ba\u3092\u7406\u89e3\u3057\u3001\u30bb\u30fc\u30eb\u30b9\u30b5\u30a4\u30af\u30eb\u3092\u5143\u306b\u6848\u4ef6\u652f\u63f4\u3092\u8a08\u753b\u3057\u3066\u3001\u8aac\u5f97\u529b\u306e\u3042\u308b\u4fa1\u5024\u5fd7\u5411\u306e\u30c7\u30e2\u30f3\u30b9\u30c8\u30ec\u30fc\u30b7\u30e7\u30f3\u3092\u63d0\u4f9b\u3057\u3001\u304a\u5ba2\u69d8\u306ePoC\u3092\u30b5\u30dd\u30fc\u30c8\u3057\u3001\u6848\u4ef6\u306e\u6210\u7d04\u307e\u3067\u652f\u63f4\u3057\u307e\u3059\u3002Snowflake\u306e\u30bd\u30ea\u30e5\u30fc\u30b7\u30e7\u30f3\u30a8\u30f3\u30b8\u30cb\u30a2\u3068\u3057\u3066\u3001\u300c\u30c7\u30fc\u30bf\u9818\u57df\u3092\u518d\u5b9a\u7fa9\u3059\u308b\u300d\u3068\u3044\u3046\u5f53\u793e\u306e\u60c5\u71b1\u3092\u5171\u6709\u3057\u3001\u5909\u5316\u306e\u6fc0\u3057\u3044\u74b0\u5883\u3067\u3082\u7a4d\u6975\u7684\u306b\u81ea\u3089\u95a2\u4e0e\u3057\u3066\u5b9f\u884c\u3059\u308b\u67d4\u8edf\u6027\u3068\u610f\u6b32\u3092\u304c\u6c42\u3081\u3089\u308c\u3066\u3044\u308b\u307e\u3059\u3002\u30d3\u30b8\u30cd\u30b9\u3068\u6280\u8853\u306e\u4e21\u65b9\u306b\u304a\u3044\u3066\u3001\u30a8\u30b0\u30bc\u30af\u30c6\u30a3\u30d6\u3068\u4f1a\u8a71\u3001\u6280\u8853\u7684\u306a\u65b9\u3005\u3068\u8a71\u3092\u3057\u307e\u3059\u3002 The impact You Will Make: \u898b\u8fbc\u307f\u5ba2\u3084\u304a\u5ba2\u69d8\u306e\u30a8\u30b0\u30bc\u30af\u30c6\u30a3\u30d6\u3084IT\u6280\u8853\u8005\u306bSnowflake\u306e\u30c6\u30af\u30ce\u30ed\u30b8\u30fc\u3084\u30d3\u30b8\u30e7\u30f3\u306e\u30d7\u30ec\u30bc\u30f3\u30c6\u30fc\u30b7\u30e7\u30f3\u3092\u5b9f\u65bd \u898b\u8fbc\u307f\u5ba2\u3084\u304a\u5ba2\u69d8\u306b\u5bfe\u3057\u3066\u30c7\u30e2\u3084PoC\u306a\u3069\u306e\u65b9\u6cd5\u3067\u55b6\u696d\u30b5\u30a4\u30af\u30eb\u5168\u4f53\u3092\u901a\u3057\u3066Snowflake\u30c6\u30af\u30ce\u30ed\u30b8\u30fc\u306e\u4fa1\u5024\u3092\u5b9f\u8a3c \u9032\u5316\u3057\u7d9a\u3051\u308b\u696d\u754c\u306b\u8eab\u3092\u7f6e\u304d\u3001\u7af6\u5408\u4ed6\u793e\u3084\u95a2\u9023\u3059\u308b\u6280\u8853\u3084\u30d9\u30f3\u30c0\u30fc\u3092\u7406\u89e3\u3057\u3001Snowflake\u3092\u3069\u306e\u3088\u3046\u306b\u30dd\u30b8\u30b7\u30e7\u30cb\u30f3\u30b0\u3059\u308b\u304b\u306e\u7406\u89e3 \u88fd\u54c1\u7ba1\u7406\u3001\u30a8\u30f3\u30b8\u30cb\u30a2\u30ea\u30f3\u30b0\u3001\u30de\u30fc\u30b1\u30c6\u30a3\u30f3\u30b0\u3068\u5354\u529b\u3057\u3066\u3001Snowflake\u306e\u88fd\u54c1\u6539\u5584\u3084\u30de\u30fc\u30b1\u30c6\u30a3\u30f3\u30b0\u6d3b\u52d5\u3092\u5b9f\u65bd Who You Are\uff1a 5\uff5e6\u5e74\u4ee5\u4e0a\u306e\u696d\u754c\u7d4c\u9a13\u3092\u6301\u3061\u3001\u30ab\u30b9\u30bf\u30de\u30fc\u30d5\u30a7\u30a4\u30b7\u30f3\u30b0\u306e\u7d4c\u9a13\u30922\u5e74\u4ee5\u4e0a\u304a\u6301\u3061\u306e\u65b9 \u30db\u30ef\u30a4\u30c8\u30dc\u30fc\u30c9\u3067\u306e\u5373\u5e2d\u30d7\u30ec\u30bc\u30f3\u30c6\u30fc\u30b7\u30e7\u30f3\u3084\u30c7\u30e2\u306e\u4f7f\u7528\u306a\u3069\u3001\u6280\u8853\u8005\u3068\u30a8\u30b0\u30bc\u30af\u30c6\u30a3\u30d6\u306e\u4e21\u65b9\u3078\u306e\u30d7\u30ec\u30bc\u30f3\u30c6\u30fc\u30b7\u30e7\u30f3\u30b9\u30ad\u30eb \u5927\u898f\u6a21\u306a\u30c7\u30fc\u30bf\u30d9\u30fc\u30b9\u3001\u30c7\u30fc\u30bf\u30a6\u30a7\u30a2\u30cf\u30a6\u30b9\u6280\u8853\u3001ETL\u3001\u30a2\u30ca\u30ea\u30c6\u30a3\u30af\u30b9\u3001\u30af\u30e9\u30a6\u30c9\u30c6\u30af\u30ce\u30ed\u30b8\u30fc\u306e\u5e45\u5e83\u3044\u7d4c\u9a13 SQL\u3068SQL\u30a2\u30ca\u30ea\u30c6\u30a3\u30af\u30b9\u306e\u30cf\u30f3\u30ba\u30aa\u30f3\u77e5\u8b58 \u9867\u5ba2\u306e\u5177\u4f53\u7684\u306a\u30d3\u30b8\u30cd\u30b9\u4e0a\u306e\u8ab2\u984c\u3068Snowflake\u306e\u30bd\u30ea\u30e5\u30fc\u30b7\u30e7\u30f3\u3092\u7d50\u3073\u3064\u3051\u308b\u63d0\u6848\u30b9\u30ad\u30eb \u30b3\u30f3\u30d4\u30e5\u30fc\u30bf\u30b5\u30a4\u30a8\u30f3\u30b9\u3001\u30a8\u30f3\u30b8\u30cb\u30a2\u30ea\u30f3\u30b0\u3001\u6570\u5b66\u3001\u307e\u305f\u306f\u95a2\u9023\u5206\u91ce\u306e\u5927\u5352\u3001\u307e\u305f\u306f\u540c\u7b49\u306e\u7d4c\u9a13\u3092\u304a\u6301\u3061\u306e\u65b9 \u65e5\u672c\u8a9e\u3068\u82f1\u8a9e\u306b\u582a\u80fd\u306a\u65b9 Japan Benefits (\u4e00\u90e8) Free lunch at office 401K\uff08\u4f01\u696d\u578b\u78ba\u5b9a\u62e0\u51fa\u5e74\u91d1\uff09 RSU Phone & Gym reimbursement 3 day Summer Vacation & 5 day Year-end Holidays Paid Parental Leave Snowflake is growing fast, and we\u2019re scaling our team to help enable and accelerate our growth. We are looking for people who share our values, challenge ordinary thinking, and push the pace of innovation while building a future for themselves and Snowflake. How do you want to make your impact? For jobs located in the United States, please visit the job posting on the Snowflake Careers Site for salary and benefits information: careers.snowflake.com",
+      "location": "JP-Osaka-MSO",
+      "keywords": {
+        "pivot": [
+          "AI",
+          "enterprise"
+        ],
+        "tech_debt": [
+          "ETL"
+        ],
+        "fiscal": []
+      },
+      "posted_date": "",
+      "source": "ashby"
+    },
+    {
+      "company_name": "Snowflake",
+      "role_title": "Senior Solution Engineer",
+      "department": "Solution Engineering",
+      "description": "Snowflake is about empowering enterprises to achieve their full potential \u2014 and people too. With a culture that\u2019s all in on impact, innovation, and collaboration, Snowflake is the sweet spot for building big, moving fast, and taking technology \u2014 and careers \u2014 to the next level. Why Snowflake? Snowflake\u306f\u30c7\u30fc\u30bf\u9769\u547d\u306e\u6700\u524d\u7dda\u306b\u7acb\u3061\u3001\u4e16\u754c\u6700\u9ad8\u306e\u30c7\u30fc\u30bf\u3068\u30a2\u30d7\u30ea\u30b1\u30fc\u30b7\u30e7\u30f3\u306e\u30d7\u30e9\u30c3\u30c8\u30d5\u30a9\u30fc\u30e0\u306e\u69cb\u7bc9\u306b\u53d6\u308a\u7d44\u3093\u3067\u3044\u307e\u3059\u3002\u79c1\u305f\u3061\u306e\u30df\u30c3\u30b7\u30e7\u30f3\u306f\u30c7\u30fc\u30bf\u30b5\u30a4\u30ed\u5316\u3092\u89e3\u6d88\u3057\u3066\u3001\u300c\u4e16\u754c\u4e2d\u306e\u30c7\u30fc\u30bf\u3092\u30e2\u30d3\u30e9\u30a4\u30ba\u3059\u308b\u3053\u3068\u300d\u3092\u76ee\u6307\u3057\u3066\u304a\u308a\u307e\u3059\u3002\u6025\u6210\u9577\u3057\u3066\u3044\u304f\u30c7\u30fc\u30bf\u306e\u672a\u6765\u3092\u79c1\u305f\u3061\u3068\u5171\u306b\u7bc9\u3044\u3066\u3044\u304d\u307e\u3057\u3087\u3046\uff01 Solution Engineering team's Mission? \u5f53\u793e\u3067\u306f\u3001\u304a\u5ba2\u69d8\u306e\u8907\u96d1\u306a\u8ab2\u984c\u3092\u89e3\u6c7a\u3057\u3001\u5927\u898f\u6a21\u306a\u6848\u4ef6\u306b\u7d4c\u9a13\u306e\u3042\u308b\u30b7\u30cb\u30a2\u30bd\u30ea\u30e5\u30fc\u30b7\u30e7\u30f3\u30a8\u30f3\u30b8\u30cb\u30a2\u3092\u52df\u96c6\u3057\u3066\u3044\u307e\u3059\u3002\u30b7\u30cb\u30a2\u30bd\u30ea\u30e5\u30fc\u30b7\u30e7\u30f3\u30a8\u30f3\u30b8\u30cb\u30a2\u306f\u30bb\u30fc\u30eb\u30b9\u30c1\u30fc\u30e0\u3084\u30c1\u30e3\u30cd\u30eb\u30d1\u30fc\u30c8\u30ca\u30fc\u3068\u5354\u696d\u3057\u3066\u3001\u304a\u5ba2\u69d8\u306e\u30cb\u30fc\u30ba\u3092\u7406\u89e3\u3057\u3001\u30bb\u30fc\u30eb\u30b9\u30b5\u30a4\u30af\u30eb\u3092\u5143\u306b\u6848\u4ef6\u652f\u63f4\u3092\u8a08\u753b\u3057\u3066\u3001\u8aac\u5f97\u529b\u306e\u3042\u308b\u4fa1\u5024\u5fd7\u5411\u306e\u30c7\u30e2\u30f3\u30b9\u30c8\u30ec\u30fc\u30b7\u30e7\u30f3\u3092\u63d0\u4f9b\u3057\u3001\u304a\u5ba2\u69d8\u306ePoC\u3092\u30b5\u30dd\u30fc\u30c8\u3057\u3001\u6848\u4ef6\u306e\u6210\u7d04\u307e\u3067\u652f\u63f4\u3057\u307e\u3059\u3002Snowflake\u306e\u30bd\u30ea\u30e5\u30fc\u30b7\u30e7\u30f3\u30a8\u30f3\u30b8\u30cb\u30a2\u3068\u3057\u3066\u3001\u300c\u30c7\u30fc\u30bf\u9818\u57df\u3092\u518d\u5b9a\u7fa9\u3059\u308b\u300d\u3068\u3044\u3046\u5f53\u793e\u306e\u60c5\u71b1\u3092\u5171\u6709\u3057\u3001\u5909\u5316\u306e\u6fc0\u3057\u3044\u74b0\u5883\u3067\u3082\u7a4d\u6975\u7684\u306b\u81ea\u3089\u95a2\u4e0e\u3057\u3066\u5b9f\u884c\u3059\u308b\u67d4\u8edf\u6027\u3068\u610f\u6b32\u3092\u304c\u6c42\u3081\u3089\u308c\u3066\u3044\u308b\u307e\u3059\u3002\u30d3\u30b8\u30cd\u30b9\u3068\u6280\u8853\u306e\u4e21\u65b9\u306b\u304a\u3044\u3066\u3001\u30a8\u30b0\u30bc\u30af\u30c6\u30a3\u30d6\u3068\u4f1a\u8a71\u3001\u6280\u8853\u7684\u306a\u65b9\u3005\u3068\u8a71\u3092\u3057\u307e\u3059\u3002 The Impact You will Make\uff1a \u898b\u8fbc\u307f\u5ba2\u3084\u304a\u5ba2\u69d8\u306e\u30a8\u30b0\u30bc\u30af\u30c6\u30a3\u30d6\u3084IT\u6280\u8853\u8005\u306bSnowflake\u306e\u30c6\u30af\u30ce\u30ed\u30b8\u30fc\u3084\u30d3\u30b8\u30e7\u30f3\u306e\u30d7\u30ec\u30bc\u30f3\u30c6\u30fc\u30b7\u30e7\u30f3\u3092\u5b9f\u65bd \u898b\u8fbc\u307f\u5ba2\u3084\u304a\u5ba2\u69d8\u306b\u5bfe\u3057\u3066\u30c7\u30e2\u3084PoC\u306a\u3069\u306e\u65b9\u6cd5\u3067\u55b6\u696d\u30b5\u30a4\u30af\u30eb\u5168\u4f53\u3092\u901a\u3057\u3066Snowflake\u30c6\u30af\u30ce\u30ed\u30b8\u30fc\u306e\u4fa1\u5024\u3092\u5b9f\u8a3c \u9032\u5316\u3057\u7d9a\u3051\u308b\u696d\u754c\u306b\u8eab\u3092\u7f6e\u304d\u3001\u7af6\u5408\u4ed6\u793e\u3084\u95a2\u9023\u3059\u308b\u6280\u8853\u3084\u30d9\u30f3\u30c0\u30fc\u3092\u7406\u89e3\u3057\u3001Snowflake\u3092\u3069\u306e\u3088\u3046\u306b\u30dd\u30b8\u30b7\u30e7\u30cb\u30f3\u30b0\u3059\u308b\u304b\u306e\u7406\u89e3 \u88fd\u54c1\u7ba1\u7406\u3001\u30a8\u30f3\u30b8\u30cb\u30a2\u30ea\u30f3\u30b0\u3001\u30de\u30fc\u30b1\u30c6\u30a3\u30f3\u30b0\u3068\u5354\u529b\u3057\u3066\u3001Snowflake\u306e\u88fd\u54c1\u6539\u5584\u3084\u30de\u30fc\u30b1\u30c6\u30a3\u30f3\u30b0\u6d3b\u52d5\u3092\u5b9f\u65bd Who You Are\uff1a 7\uff5e8\u5e74\u306e\u696d\u754c\u7d4c\u9a13\u3092\u6301\u3061\u3001\u30d7\u30ea\u30bb\u30fc\u30eb\u30b9\u74b0\u5883\u30673\u5e74\u4ee5\u4e0a\u306e\u7d4c\u9a13\u3092\u304a\u6301\u3061\u306e\u65b9 \u30db\u30ef\u30a4\u30c8\u30dc\u30fc\u30c9\u3067\u306e\u5373\u5e2d\u30d7\u30ec\u30bc\u30f3\u30c6\u30fc\u30b7\u30e7\u30f3\u3084\u30c7\u30e2\u306e\u4f7f\u7528\u306a\u3069\u3001\u6280\u8853\u8005\u3068\u30a8\u30b0\u30bc\u30af\u30c6\u30a3\u30d6\u306e\u4e21\u65b9\u3078\u306e\u30d7\u30ec\u30bc\u30f3\u30c6\u30fc\u30b7\u30e7\u30f3\u30b9\u30ad\u30eb \u5927\u898f\u6a21\u306a\u30c7\u30fc\u30bf\u30d9\u30fc\u30b9\u3001\u30c7\u30fc\u30bf\u30a6\u30a7\u30a2\u30cf\u30a6\u30b9\u6280\u8853\u3001ETL\u3001\u30a2\u30ca\u30ea\u30c6\u30a3\u30af\u30b9\u3001\u30af\u30e9\u30a6\u30c9\u30c6\u30af\u30ce\u30ed\u30b8\u30fc\u306e\u5e45\u5e83\u3044\u7d4c\u9a13 SQL\u3068SQL\u30a2\u30ca\u30ea\u30c6\u30a3\u30af\u30b9\u306e\u30cf\u30f3\u30ba\u30aa\u30f3\u77e5\u8b58 \u9867\u5ba2\u306e\u5177\u4f53\u7684\u306a\u30d3\u30b8\u30cd\u30b9\u4e0a\u306e\u8ab2\u984c\u3068Snowflake\u306e\u30bd\u30ea\u30e5\u30fc\u30b7\u30e7\u30f3\u3092\u7d50\u3073\u3064\u3051\u308b\u63d0\u6848\u30b9\u30ad\u30eb \u30b3\u30f3\u30d4\u30e5\u30fc\u30bf\u30b5\u30a4\u30a8\u30f3\u30b9\u3001\u30a8\u30f3\u30b8\u30cb\u30a2\u30ea\u30f3\u30b0\u3001\u6570\u5b66\u3001\u307e\u305f\u306f\u95a2\u9023\u5206\u91ce\u306e\u5927\u5352\u3001\u307e\u305f\u306f\u540c\u7b49\u306e\u7d4c\u9a13\u3092\u304a\u6301\u3061\u306e\u65b9 \u65e5\u672c\u8a9e\u3068\u82f1\u8a9e\u306b\u582a\u80fd\u306a\u65b9 Japan Benefits (\u4e00\u90e8) Free lunch at office 401K\uff08\u4f01\u696d\u578b\u78ba\u5b9a\u62e0\u51fa\u5e74\u91d1\uff09 RSU Phone & Gym reimbursement 3 day Summer Vacation & 5 day Year-end Holidays Paid Parental Leave Snowflake is growing fast, and we\u2019re scaling our team to help enable and accelerate our growth. We are looking for people who share our values, challenge ordinary thinking, and push the pace of innovation while building a future for themselves and Snowflake. How do you want to make your impact? For jobs located in the United States, please visit the job posting on the Snowflake Careers Site for salary and benefits information: careers.snowflake.com",
+      "location": "Nagoya, Japan",
+      "keywords": {
+        "pivot": [
+          "AI",
+          "enterprise"
+        ],
+        "tech_debt": [
+          "ETL"
+        ],
+        "fiscal": []
+      },
+      "posted_date": "",
+      "source": "ashby"
+    },
+    {
+      "company_name": "Snowflake",
+      "role_title": "Solution Engineer",
+      "department": "Solution Engineering",
+      "description": "Snowflake is about empowering enterprises to achieve their full potential \u2014 and people too. With a culture that\u2019s all in on impact, innovation, and collaboration, Snowflake is the sweet spot for building big, moving fast, and taking technology \u2014 and careers \u2014 to the next level. Why Snowflake? Snowflake\u306f\u30c7\u30fc\u30bf\u9769\u547d\u306e\u6700\u524d\u7dda\u306b\u7acb\u3061\u3001\u4e16\u754c\u6700\u9ad8\u306e\u30c7\u30fc\u30bf\u3068\u30a2\u30d7\u30ea\u30b1\u30fc\u30b7\u30e7\u30f3\u306e\u30d7\u30e9\u30c3\u30c8\u30d5\u30a9\u30fc\u30e0\u306e\u69cb\u7bc9\u306b\u53d6\u308a\u7d44\u3093\u3067\u3044\u307e\u3059\u3002\u79c1\u305f\u3061\u306e\u30df\u30c3\u30b7\u30e7\u30f3\u306f\u30c7\u30fc\u30bf\u30b5\u30a4\u30ed\u5316\u3092\u89e3\u6d88\u3057\u3066\u3001\u300c\u4e16\u754c\u4e2d\u306e\u30c7\u30fc\u30bf\u3092\u30e2\u30d3\u30e9\u30a4\u30ba\u3059\u308b\u3053\u3068\u300d\u3092\u76ee\u6307\u3057\u3066\u304a\u308a\u307e\u3059\u3002\u6025\u6210\u9577\u3057\u3066\u3044\u304f\u30c7\u30fc\u30bf\u306e\u672a\u6765\u3092\u79c1\u305f\u3061\u3068\u5171\u306b\u7bc9\u3044\u3066\u3044\u304d\u307e\u3057\u3087\u3046\uff01 Solutions Engineering\u2019s Mission? \u5f53\u793e\u3067\u306f\u3001\u304a\u5ba2\u69d8\u306e\u8907\u96d1\u306a\u8ab2\u984c\u3092\u89e3\u6c7a\u3057\u3001\u5927\u898f\u6a21\u306a\u6848\u4ef6\u306b\u7d4c\u9a13\u306e\u3042\u308b\u30b7\u30cb\u30a2\u30bb\u30fc\u30eb\u30b9\u30a8\u30f3\u30b8\u30cb\u30a2\u3092\u52df\u96c6\u3057\u3066\u3044\u307e\u3059\u3002\u30bd\u30ea\u30e5\u30fc\u30b7\u30e7\u30f3\u30a8\u30f3\u30b8\u30cb\u30a2\u306f\u30bb\u30fc\u30eb\u30b9\u30c1\u30fc\u30e0\u3084\u30c1\u30e3\u30cd\u30eb\u30d1\u30fc\u30c8\u30ca\u30fc\u3068\u5354\u696d\u3057\u3066\u3001\u304a\u5ba2\u69d8\u306e\u30cb\u30fc\u30ba\u3092\u7406\u89e3\u3057\u3001\u30bb\u30fc\u30eb\u30b9\u30b5\u30a4\u30af\u30eb\u3092\u5143\u306b\u6848\u4ef6\u652f\u63f4\u3092\u8a08\u753b\u3057\u3066\u3001\u8aac\u5f97\u529b\u306e\u3042\u308b\u4fa1\u5024\u5fd7\u5411\u306e\u30c7\u30e2\u30f3\u30b9\u30c8\u30ec\u30fc\u30b7\u30e7\u30f3\u3092\u63d0\u4f9b\u3057\u3001\u304a\u5ba2\u69d8\u306ePoC\u3092\u30b5\u30dd\u30fc\u30c8\u3057\u3001\u6848\u4ef6\u306e\u6210\u7d04\u307e\u3067\u652f\u63f4\u3057\u307e\u3059\u3002Snowflake\u306e\u30bd\u30ea\u30e5\u30fc\u30b7\u30e7\u30f3\u30a8\u30f3\u30b8\u30cb\u30a2\u3068\u3057\u3066\u3001\u300c\u30c7\u30fc\u30bf\u9818\u57df\u3092\u518d\u5b9a\u7fa9\u3059\u308b\u300d\u3068\u3044\u3046\u5f53\u793e\u306e\u60c5\u71b1\u3092\u5171\u6709\u3057\u3001\u5909\u5316\u306e\u6fc0\u3057\u3044\u74b0\u5883\u3067\u3082\u7a4d\u6975\u7684\u306b\u81ea\u3089\u95a2\u4e0e\u3057\u3066\u5b9f\u884c\u3059\u308b\u67d4\u8edf\u6027\u3068\u610f\u6b32\u3092\u304c\u6c42\u3081\u3089\u308c\u3066\u3044\u308b\u307e\u3059\u3002\u30d3\u30b8\u30cd\u30b9\u3068\u6280\u8853\u306e\u4e21\u65b9\u306b\u304a\u3044\u3066\u3001\u30a8\u30b0\u30bc\u30af\u30c6\u30a3\u30d6\u3068\u4f1a\u8a71\u3001\u6280\u8853\u7684\u306a\u65b9\u3005\u3068\u8a71\u3092\u3057\u307e\u3059\u3002 The impact You Will Make: \u898b\u8fbc\u307f\u5ba2\u3084\u304a\u5ba2\u69d8\u306e\u30a8\u30b0\u30bc\u30af\u30c6\u30a3\u30d6\u3084IT\u6280\u8853\u8005\u306bSnowflake\u306e\u30c6\u30af\u30ce\u30ed\u30b8\u30fc\u3084\u30d3\u30b8\u30e7\u30f3\u306e\u30d7\u30ec\u30bc\u30f3\u30c6\u30fc\u30b7\u30e7\u30f3\u3092\u5b9f\u65bd \u898b\u8fbc\u307f\u5ba2\u3084\u304a\u5ba2\u69d8\u306b\u5bfe\u3057\u3066\u30c7\u30e2\u3084PoC\u306a\u3069\u306e\u65b9\u6cd5\u3067\u55b6\u696d\u30b5\u30a4\u30af\u30eb\u5168\u4f53\u3092\u901a\u3057\u3066Snowflake\u30c6\u30af\u30ce\u30ed\u30b8\u30fc\u306e\u4fa1\u5024\u3092\u5b9f\u8a3c \u9032\u5316\u3057\u7d9a\u3051\u308b\u696d\u754c\u306b\u8eab\u3092\u7f6e\u304d\u3001\u7af6\u5408\u4ed6\u793e\u3084\u95a2\u9023\u3059\u308b\u6280\u8853\u3084\u30d9\u30f3\u30c0\u30fc\u3092\u7406\u89e3\u3057\u3001Snowflake\u3092\u3069\u306e\u3088\u3046\u306b\u30dd\u30b8\u30b7\u30e7\u30cb\u30f3\u30b0\u3059\u308b\u304b\u306e\u7406\u89e3 \u88fd\u54c1\u7ba1\u7406\u3001\u30a8\u30f3\u30b8\u30cb\u30a2\u30ea\u30f3\u30b0\u3001\u30de\u30fc\u30b1\u30c6\u30a3\u30f3\u30b0\u3068\u5354\u529b\u3057\u3066\u3001Snowflake\u306e\u88fd\u54c1\u6539\u5584\u3084\u30de\u30fc\u30b1\u30c6\u30a3\u30f3\u30b0\u6d3b\u52d5\u3092\u5b9f\u65bd Who You Are\uff1a 5\uff5e6\u5e74\u4ee5\u4e0a\u306e\u696d\u754c\u7d4c\u9a13\u3092\u6301\u3061\u3001\u30ab\u30b9\u30bf\u30de\u30fc\u30d5\u30a7\u30a4\u30b7\u30f3\u30b0\u306e\u7d4c\u9a13\u30922\u5e74\u4ee5\u4e0a\u304a\u6301\u3061\u306e\u65b9 \u30db\u30ef\u30a4\u30c8\u30dc\u30fc\u30c9\u3067\u306e\u5373\u5e2d\u30d7\u30ec\u30bc\u30f3\u30c6\u30fc\u30b7\u30e7\u30f3\u3084\u30c7\u30e2\u306e\u4f7f\u7528\u306a\u3069\u3001\u6280\u8853\u8005\u3068\u30a8\u30b0\u30bc\u30af\u30c6\u30a3\u30d6\u306e\u4e21\u65b9\u3078\u306e\u30d7\u30ec\u30bc\u30f3\u30c6\u30fc\u30b7\u30e7\u30f3\u30b9\u30ad\u30eb \u5927\u898f\u6a21\u306a\u30c7\u30fc\u30bf\u30d9\u30fc\u30b9\u3001\u30c7\u30fc\u30bf\u30a6\u30a7\u30a2\u30cf\u30a6\u30b9\u6280\u8853\u3001ETL\u3001\u30a2\u30ca\u30ea\u30c6\u30a3\u30af\u30b9\u3001\u30af\u30e9\u30a6\u30c9\u30c6\u30af\u30ce\u30ed\u30b8\u30fc\u306e\u5e45\u5e83\u3044\u7d4c\u9a13 SQL\u3068SQL\u30a2\u30ca\u30ea\u30c6\u30a3\u30af\u30b9\u306e\u30cf\u30f3\u30ba\u30aa\u30f3\u77e5\u8b58 \u9867\u5ba2\u306e\u5177\u4f53\u7684\u306a\u30d3\u30b8\u30cd\u30b9\u4e0a\u306e\u8ab2\u984c\u3068Snowflake\u306e\u30bd\u30ea\u30e5\u30fc\u30b7\u30e7\u30f3\u3092\u7d50\u3073\u3064\u3051\u308b\u63d0\u6848\u30b9\u30ad\u30eb \u30b3\u30f3\u30d4\u30e5\u30fc\u30bf\u30b5\u30a4\u30a8\u30f3\u30b9\u3001\u30a8\u30f3\u30b8\u30cb\u30a2\u30ea\u30f3\u30b0\u3001\u6570\u5b66\u3001\u307e\u305f\u306f\u95a2\u9023\u5206\u91ce\u306e\u5927\u5352\u3001\u307e\u305f\u306f\u540c\u7b49\u306e\u7d4c\u9a13\u3092\u304a\u6301\u3061\u306e\u65b9 \u65e5\u672c\u8a9e\u3068\u82f1\u8a9e\u306b\u582a\u80fd\u306a\u65b9 Japan Benefits (\u4e00\u90e8) Free lunch at office 401K\uff08\u4f01\u696d\u578b\u78ba\u5b9a\u62e0\u51fa\u5e74\u91d1\uff09 RSU Phone & Gym reimbursement 3 day Summer Vacation & 5 day Year-end Holidays Paid Parental Leave Snowflake is growing fast, and we\u2019re scaling our team to help enable and accelerate our growth. We are looking for people who share our values, challenge ordinary thinking, and push the pace of innovation while building a future for themselves and Snowflake. How do you want to make your impact? For jobs located in the United States, please visit the job posting on the Snowflake Careers Site for salary and benefits information: careers.snowflake.com",
+      "location": "Nagoya, Japan",
+      "keywords": {
+        "pivot": [
+          "AI",
+          "enterprise"
+        ],
+        "tech_debt": [
+          "ETL"
+        ],
+        "fiscal": []
+      },
+      "posted_date": "",
+      "source": "ashby"
+    },
+    {
+      "company_name": "Snowflake",
+      "role_title": "Software Engineer - Database Engineering",
+      "department": "Engineering",
+      "description": "Snowflake is about empowering enterprises to achieve their full potential \u2014 and people too. With a culture that\u2019s all in on impact, innovation, and collaboration, Snowflake is the sweet spot for building big, moving fast, and taking technology \u2014 and careers \u2014 to the next level. We\u2019re hiring talented Software Engineers to join the Snowflake Database Engineering team! In this role you will work directly with our team to evolve our elastic, large scale, high-performance data processing system. We need smart engineers who can pick up and understand complex technical areas quickly \u2013 and who are enthusiastic about building new technologies! AS A SOFTWARE ENGINEER AT SNOWFLAKE, YOU WILL: Design, develop, and support a petabyte-scale cloud database that is highly parallel and fault-tolerant. Build high-quality and highly reliable software to meet the needs of some of the largest companies on the planet. Analyze and understand performance and scalability bottlenecks in the system and solve them. Pinpoint problems, instrument relevant components as needed, and ultimately implement solutions. Design and implement novel query optimization or distributed data processing algorithms which allow Snowflake to provide industry leading data warehousing capabilities. Design and implement the new service architecture required to enable the Snowflake Data Cloud Develop tools for improving our customers' insights into their workloads. OUR IDEAL SOFTWARE ENGINEER WILL HAVE: 2+ years industry experience working on commercial or open-source software. Fluency in Java or C++. Familiarity with development in a Linux environment. Excellent problem solving skills, and strong CS fundamentals including data structures, algorithms, and distributed systems. Systems programming skills including multi-threading, concurrency, etc. Experience with implementation testing, debugging and documentation. Bachelor\u2019s degree or foreign equivalent in Computer Science, Software Engineering or related field; Masters or PhD preferred. Ability to work on-site in our Menlo Park / Bellevue / Berlin office. BONUS POINTS FOR EXPERIENCE WITH THE FOLLOWING: SQL or other database technologies including internal design and implementation. Query optimization, query execution, compiler design and implementation. Experience with internals of distributed key value stores like FoundationDB and storage engines like RocksDB, InnoDB, BerkeleyDB etc. Experience with MySQL, PostgreSQL internals Data warehouse design, database systems, and large-scale data processing solutions like Hadoop and Spark. Large scale distributed systems, transactions and consistency models. Experience in database replication technology Big data storage technologies and their applications, e.g., HDFS, Cassandra, Columnar Databases, etc. Every Snowflake employee is expected to follow the company\u2019s confidentiality and security standards for handling sensitive data. Snowflake employees must abide by the company\u2019s data security plan as an esse",
+      "location": "US-CA-Menlo Park",
+      "keywords": {
+        "pivot": [
+          "enterprise",
+          "RAG"
+        ],
+        "tech_debt": [],
+        "fiscal": [
+          "optimization"
+        ]
+      },
+      "posted_date": "",
+      "source": "ashby"
+    },
+    {
+      "company_name": "Snowflake",
+      "role_title": "Senior Software Engineer- Open Source Analytics",
+      "department": "Engineering",
+      "description": "Snowflake is about empowering enterprises to achieve their full potential \u2014 and people too. With a culture that\u2019s all in on impact, innovation, and collaboration, Snowflake is the sweet spot for building big, moving fast, and taking technology \u2014 and careers \u2014 to the next level. Snowflake\u2019s vision is to enable every organization to be data-driven. We\u2019re at the forefront of innovation, helping customers realize the full potential of their data with our AI data cloud. We are now going far beyond the traditional data warehouse and helping customers unlock the power of the open data lakehouse architecture with significant investment in Open Source Analytics!\u00a0 Snowflake engineers are leading the way with innovations directly in OSS projects like Apache Iceberg, Apache Polaris (incubating), Apache Parquet and more! As a Senior Software Engineer on the Open Source Analytics team, you\u2019ll play a key role in building and evolving our open and interoperable data lake ecosystem. You\u2019ll work on some of the most complex and exciting challenges in the enterprise data lake analytics area, all while collaborating closely with some of the best minds in the open source community! You will have a direct impact towards Snowflake\u2019s mission of providing a truly open data lake architecture, free from vendor lock-in. AS A SENIOR SOFTWARE ENGINEER ON THE OPEN SOURCE ANALYTICS TEAM, YOU WILL: Pioneer new and innovative technical capabilities in the Open Source Analytics community. \u00a0 You will define and build next-generation capabilities on top of critical lakehouse building blocks like interoperable table formats, data catalogs, file formats, and query engines. Design and implement features and enhancements for Apache Iceberg and Apache Polaris focusing on scalability, performance and usability such as Iceberg DML/DDL transactions, schema evolution, partitioning, time travel, and more. Collaborate with the Open source community by contributing code, participating in discussions and reviewing pull requests to ensure high quality contributions. Architect and build systems that integrate open source technologies seamlessly with Snowflake - enabling our customers to build and deploy massive data lake architectures across platforms and across cloud providers. Collaborate with Snowflake\u2019s open-source team and the Apache Iceberg community to contribute new features and enhance the Iceberg table format and REST specification. Work on core data access control and governance features for Apache Polaris Contribute to our managed Polaris service, Snowflake Open Catalog, enabling customers to seamlessly manage and expand their data lake through Snowflake as well as other external query engines like Spark and Trino. Build tooling and services that automate data lake table maintenance, including compaction, clustering, and data retention for enhanced query performance and efficiency. OUR IDEAL SENIOR SOFTWARE ENGINEER WILL HAVE: 5+ years of experience designing and building scalable, dist",
+      "location": "US-WA-Bellevue",
+      "keywords": {
+        "pivot": [
+          "AI",
+          "enterprise"
+        ],
+        "tech_debt": [],
+        "fiscal": [
+          "efficiency"
+        ]
+      },
+      "posted_date": "",
+      "source": "ashby"
+    },
+    {
+      "company_name": "Snowflake",
+      "role_title": "Software Engineer - Backend",
+      "department": "Engineering",
+      "description": "Snowflake is about empowering enterprises to achieve their full potential \u2014 and people too. With a culture that\u2019s all in on impact, innovation, and collaboration, Snowflake is the sweet spot for building big, moving fast, and taking technology \u2014 and careers \u2014 to the next level. We\u2019re at the forefront of the data revolution, committed to building the world\u2019s greatest data and applications platform. Snowflake started with a clear vision: develop a cloud data platform that is effective, affordable, and accessible to all data users. Data Cloud allows sharing live data in governed and secure ways so our customers can solve their business problems. Data Cloud allows sharing live data in governed and secure ways so our customers can solve their business problems. Come join our world-class team as a Software Engineer to build the backend services for data cloud to help our customers to share data internally within their company or outside with external organizations. We are investing in initiatives across multiple engineering areas that include: Data Engineering & Open Lakehouse, Database Engineering, Engineering Systems, Product Experiences, Apps & Collaboration,Platform Engineering, and Public Sector, Security and Governance AS A SOFTWARE ENGINEER, YOU WILL: Design and build features, and/or distributed platforms at scale. Drive impactful initiatives for the globally distributed infrastructure Collaborate with product managers, architects, other engineering teams, and business groups, to drive end-to-end solutions. Contribute to improving our engineering processes, tooling, and standards. OUR IDEAL CANDIDATE WILL HAVE: 2-5 years\u2019 of industry experience designing, building, and supporting large-scale systems in production. Strong fundamental computer science skills. Knowledge of algorithms and data structures. Fluency in Java, Python, C++, or SQL Deep multi-faceted appreciation in building end-to-end customer facing products. BS/MS/PhD in Computer Science or related majors, or equivalent experience. BONUS POINTS IF YOU HAVE: Familiarity with database internals or data governance, and/or payment systems is a plus Every Snowflake employee is expected to follow the company\u2019s confidentiality and security standards for handling sensitive data. Snowflake employees must abide by the company\u2019s data security plan as an\u00a0essential part of their duties. It is every employee's duty to keep customer information secure and\u00a0confidential. Snowflake is growing fast, and we\u2019re scaling our team to help enable and accelerate our growth. We are looking for people who share our values, challenge ordinary thinking, and push the pace of innovation while building a future for themselves and Snowflake. How do you want to make your impact? For jobs located in the United States, please visit the job posting on the Snowflake Careers Site for salary and benefits information: careers.snowflake.com",
+      "location": "US-CA-Menlo Park",
+      "keywords": {
+        "pivot": [
+          "data platform",
+          "enterprise",
+          "platform engineering"
+        ],
+        "tech_debt": [],
+        "fiscal": []
+      },
+      "posted_date": "",
+      "source": "ashby"
+    },
+    {
+      "company_name": "Snowflake",
+      "role_title": "Senior Software Engineer- Sharing Foundations",
+      "department": "Engineering",
+      "description": "Snowflake is about empowering enterprises to achieve their full potential \u2014 and people too. With a culture that\u2019s all in on impact, innovation, and collaboration, Snowflake is the sweet spot for building big, moving fast, and taking technology \u2014 and careers \u2014 to the next level. The Sharing Foundation team builds software that connects customers via data and provides customers access to the Data Cloud.  The team builds the revolutionary Data Sharing technology and Snowflake Data Marketplace infrastructure. AS A SENIOR SOFTWARE ENGINEER - SHARING FOUNDATIONS YOU WILL: Lead highly impactful initiatives around Snowflake Data Sharing and Snowflake Data Marketplace. Innovate and build highly secured and reliable software to allow customers to be data-driven. Architect and build systems that integrate open source technologies seamlessly with Snowflake - enabling our customers to build and share massive data lake architectures across platforms and across cloud providers. Collaborate with Snowflake's open-source team and the Apache Iceberg community to contribute new features and enhance the Iceberg REST specification. Design and implement highly available distributed platforms within the global Snowflake. Revolutionize how organizations distribute, consume, and use data as a strategic business asset. Ensure operational readiness of the services and meet the commitments to our customers regarding reliability, availability and performance. OUR IDEAL SENIOR SOFTWARE ENGINEER - SHARING FOUNDATIONS, WILL HAVE: 7+ years industry experience designing, building and supporting large-scale distributed systems in production. Strong programming skills in Java, Scala, or C++ with an emphasis on performance and reliability. Deep understanding of distributed transaction processing, concurrency control, and high-performance query engines. Experience with open-source data lake formats (e.g., Apache Iceberg, Parquet, Delta) and the challenges associated with multi-engine interoperability. Experience building cloud-native services and working with public cloud providers like AWS, Azure, or GCP. A passion for open-source software and community engagement, particularly in the data ecosystem. Familiarity with data governance, security, and access control models in distributed data systems. BS/MS/PhD in Computer Science or related majors, or equivalent experience. ABOUT SHARING AND MARKETPLACE FOUNDATIONS: Learn more about Snowflake Marketplace : Learn more about Data Sharing: https://www.snowflake.com/workloads/data-sharing/ Every Snowflake employee is expected to follow the company\u2019s confidentiality and security standards for handling sensitive data. Snowflake employees must abide by the company\u2019s data security plan as an essential part of their duties. It is every employee's duty to keep customer information secure and confidential. Snowflake is growing fast, and we\u2019re scaling our team to help enable and accelerate our growth. We are looking for people who share our values,",
+      "location": "US-CA-Menlo Park",
+      "keywords": {
+        "pivot": [
+          "AI",
+          "enterprise"
+        ],
+        "tech_debt": [],
+        "fiscal": []
+      },
+      "posted_date": "",
+      "source": "ashby"
+    },
+    {
+      "company_name": "Snowflake",
+      "role_title": "Backend Software Engineer, AI Platform for User Experiences",
+      "department": "Engineering",
+      "description": "Snowflake is about empowering enterprises to achieve their full potential \u2014 and people too. With a culture that\u2019s all in on impact, innovation, and collaboration, Snowflake is the sweet spot for building big, moving fast, and taking technology \u2014 and careers \u2014 to the next level. Snowflake started with a clear vision: develop a cloud data platform that is effective, affordable, and accessible to all data users. Snowflake developed an innovative new product with a built-for-the-cloud architecture that combines the power of data warehousing, the flexibility of big data platforms, and the elasticity of the cloud at a fraction of the cost of traditional solutions. We are now a global, world-class organization with offices in more than a dozen countries and serving many more. The Apps & Experiences (AppEx) organization powers the unified user experience for Snowflake. Every major Snowflake customer interacts with our platform through these surfaces, making AppEx central to both customer satisfaction and revenue growth. Within Appex, our team sits at the intersection of AI, platform, and user experience . We are on a mission to create an AI\u2011first, scalable, maintainable, and extensible platform to build all Snowflake user experience features. The team owns: The entire serving layer that powers Snowsight, Snowflake Intelligence, and UX features Frontend infrastructure and shared services for product teams Storage and metadata systems backing UX features and AI workflows Testing and reliability systems , including CI/CD pipelines and release tooling The monitoring and logging stack that ensures observability and trust AS A BACKEND SOFTWARE ENGINEER ON THIS TEAM, YOU WILL: Build AI-first platform services that power Snowflake\u2019s user experiences, including APIs, orchestration services, and storage layers that are safe, scalable, and easy to extend. Design and implement agentic systems and tools that automate complex coding, migration, and testing workflows (e.g., SQL/ETL migration, refactoring, and validation for customers adopting Snowflake). Own the full backend lifecycle : design, implementation, testing, deployment, monitoring, and continuous improvement of production services. Scale automated coding agents and backend workflows to dramatically reduce human effort. Define and improve evaluation loops : build golden datasets, rubrics, and metrics to measure quality of AI- and agent-driven systems, then \u201chillclimb\u201d on those metrics. Evolve the serving & infra layer for Snowsight and related experiences (routing, configuration, permissions, performance tuning, resiliency). Improve platform reliability by investing in observability, alerting, SLOs, and automated remediation across our serving, storage, and AI systems. Collaborate cross-functionally with forward deployed engineers, product managers, designers, data scientists, and other PE and Cortex teams to turn real-world customer problems into robust, shipped product features. Contribute to technical visi",
+      "location": "US-WA-Bellevue",
+      "keywords": {
+        "pivot": [
+          "AI",
+          "data platform",
+          "enterprise",
+          "RAG",
+          "agentic"
+        ],
+        "tech_debt": [
+          "migration",
+          "refactor",
+          "ETL",
+          "pipeline"
+        ],
+        "fiscal": []
+      },
+      "posted_date": "",
+      "source": "ashby"
+    },
+    {
+      "company_name": "Snowflake",
+      "role_title": "Senior Performance Architect, Applied Field Engineering Office/ Field CTO",
+      "department": "Solution Engineering",
+      "description": "Snowflake is about empowering enterprises to achieve their full potential \u2014 and people too. With a culture that\u2019s all in on impact, innovation, and collaboration, Snowflake is the sweet spot for building big, moving fast, and taking technology \u2014 and careers \u2014 to the next level. Our Sales Engineering organisation is seeking a Performance Architect, focused on performance and cost optimisation to join our Field CTO Office who can provide leadership in working with both technical and business executives in the design and architecture of the Snowflake Cloud Data Platform as a critical component of their enterprise data architecture. In this role you will work with sales teams, product management, and technology partners to leverage best practices and reference architectures highlighting Snowflake\u2019s Cloud Data Platform as a core technology enabling platform for various workloads throughout an organisation. As a Performance Architect, you must share our passion and vision in helping our customers and partners drive faster time to insight through Snowflake\u2019s Cloud Data Platform, thrive in a dynamic environment, and have the flexibility and willingness to jump in and get things done. You are equally comfortable in both a business and technical context, interacting with executives and talking shop with technical audiences. IN THIS ROLE YOU WILL GET TO: Engage with our sales teams and our customers to understand performance challenges that might interfere with the successful onboarding of a workload onto the Snowflake Cloud Data Platform Assess performance concerns presented by our sales teams and/or our customers, and if appropriate, conduct detailed investigations to identify underlying causes and propose prioritised solutions/recommendations to resolve performance issues Apply your foundational understanding of data platforms and distributed systems to drive customers towards optimal outcomes for their workloads on our Cloud Data Platform Provide expertise while presenting Snowflake technology and vision to executives and technical contributors at strategic prospects, customers, and partners Collaborate closely with our Product team to effectively influence the Snowflake\u2019s product roadmaps based on field team and customer feedback Partner with Product Marketing teams to spread awareness and support pipeline building via customer roundtables, conferences, events, blogs, webinars, and white-papers ON DAY ONE, WE WILL EXPECT YOU TO HAVE: 5+ years of experience in delivering high performance architectures, models, and solutions on distributed data platforms Expert level knowledge of the SQL language (no exceptions) Deep technical hands-on expertise in query tuning and optimisation Comprehensive understanding of data pipelines and data engineering best practices Working knowledge of scripting languages (such as Python) and the ability to write clean and efficient code that interacts with modern data platforms Ability to assess gaps in technical understanding",
+      "location": "AU-Melbourne",
+      "keywords": {
+        "pivot": [
+          "AI",
+          "data platform",
+          "enterprise",
+          "RAG"
+        ],
+        "tech_debt": [
+          "pipeline"
+        ],
+        "fiscal": [
+          "lean"
+        ]
+      },
+      "posted_date": "",
+      "source": "ashby"
+    },
+    {
+      "company_name": "Snowflake",
+      "role_title": "Senior Performance Architect, Applied Field Engineering Office/ Field CTO",
+      "department": "Solution Engineering",
+      "description": "Snowflake is about empowering enterprises to achieve their full potential \u2014 and people too. With a culture that\u2019s all in on impact, innovation, and collaboration, Snowflake is the sweet spot for building big, moving fast, and taking technology \u2014 and careers \u2014 to the next level. Our Sales Engineering organisation is seeking a Performance Architect, focused on performance and cost optimisation to join our Field CTO Office who can provide leadership in working with both technical and business executives in the design and architecture of the Snowflake Cloud Data Platform as a critical component of their enterprise data architecture. In this role you will work with sales teams, product management, and technology partners to leverage best practices and reference architectures highlighting Snowflake\u2019s Cloud Data Platform as a core technology enabling platform for various workloads throughout an organisation. As a Performance Architect, you must share our passion and vision in helping our customers and partners drive faster time to insight through Snowflake\u2019s Cloud Data Platform, thrive in a dynamic environment, and have the flexibility and willingness to jump in and get things done. You are equally comfortable in both a business and technical context, interacting with executives and talking shop with technical audiences. IN THIS ROLE YOU WILL GET TO: Engage with our sales teams and our customers to understand performance challenges that might interfere with the successful onboarding of a workload onto the Snowflake Cloud Data Platform Assess performance concerns presented by our sales teams and/or our customers, and if appropriate, conduct detailed investigations to identify underlying causes and propose prioritised solutions/recommendations to resolve performance issues Apply your foundational understanding of data platforms and distributed systems to drive customers towards optimal outcomes for their workloads on our Cloud Data Platform Provide expertise while presenting Snowflake technology and vision to executives and technical contributors at strategic prospects, customers, and partners Collaborate closely with our Product team to effectively influence the Snowflake\u2019s product roadmaps based on field team and customer feedback Partner with Product Marketing teams to spread awareness and support pipeline building via customer roundtables, conferences, events, blogs, webinars, and white-papers ON DAY ONE, WE WILL EXPECT YOU TO HAVE: 5+ years of experience in delivering high performance architectures, models, and solutions on distributed data platforms Expert level knowledge of the SQL language (no exceptions) Deep technical hands-on expertise in query tuning and optimisation Comprehensive understanding of data pipelines and data engineering best practices Working knowledge of scripting languages (such as Python) and the ability to write clean and efficient code that interacts with modern data platforms Ability to assess gaps in technical understanding",
+      "location": "AU-Sydney",
+      "keywords": {
+        "pivot": [
+          "AI",
+          "data platform",
+          "enterprise",
+          "RAG"
+        ],
+        "tech_debt": [
+          "pipeline"
+        ],
+        "fiscal": [
+          "lean"
+        ]
+      },
+      "posted_date": "",
+      "source": "ashby"
+    },
+    {
+      "company_name": "Snowflake",
+      "role_title": "Software Engineer - Cortex Apps (LLM Products)",
+      "department": "Engineering",
+      "description": "Snowflake is about empowering enterprises to achieve their full potential \u2014 and people too. With a culture that\u2019s all in on impact, innovation, and collaboration, Snowflake is the sweet spot for building big, moving fast, and taking technology \u2014 and careers \u2014 to the next level. The Cortex Apps team is building the future of AI for enterprise data. See our flagship product in action: Talk To Your Data: Snowflake Intelligence Demo . Your work will directly impact how businesses understand and leverage their data. You'll own the full AI engineering lifecycle: design, prompt/tool engineering, evals, deployment, measurement, and optimization. You'll work with a small, high-powered modeling and infrastructure team. What you will do in this role: Own features end-to-end for Snowflake Cortex products. Build agentic workflows, NL-to-SQL on semantic layers, search. Build enterprise-grade context engineering: function calling, tool schemas, guardrails, semantic model-aware prompting for SQL, and verification/repair Design evals and hillclimb : create golden sets, create rubrics and metrics, analyze errors, run experiments to hill climb on the metrics. Partner with product and infra: translate customer problems into products and experiments. Collaborate with infrastructure teams to productionize improvements. Lead a team of engineers towards building great products. Requirements: Bachelor\u2019s degree in Computer Science, Engineering, Statistics or a related field. Master\u2019s or higher degree preferred but not a requirement. 5+ years of experience shipping AI features in production. Proficiency in programming languages such as Python. Strong communication skills and ability to collaborate effectively in a team environment. (Optional) Experience working with text2sql, data modeling, data analysis, retrieval systems, and semantic layers is a plus. About Snowflake Snowflake is the AI Data Cloud trusted by the world's most innovative companies. We're shipping production-ready AI applications at scale and want you to join us in building the future of how businesses interact with their data through our Cortex products: Snowflake intelligence , cortex agents , cortex analyst , cortex search . Every Snowflake employee is expected to follow the company\u2019s confidentiality and security standards for handling sensitive data. Snowflake employees must abide by the company\u2019s data security plan as an essential part of their duties. It is every employee's duty to keep customer information secure and confidential. Snowflake is growing fast, and we\u2019re scaling our team to help enable and accelerate our growth. We are looking for people who share our values, challenge ordinary thinking, and push the pace of innovation while building a future for themselves and Snowflake. How do you want to make your impact? For jobs located in the United States, please visit the job posting on the Snowflake Careers Site for salary and benefits information: careers.snowflake.com",
+      "location": "US-CA-Menlo Park",
+      "keywords": {
+        "pivot": [
+          "AI",
+          "LLM",
+          "enterprise",
+          "RAG",
+          "agentic"
+        ],
+        "tech_debt": [],
+        "fiscal": [
+          "optimization"
+        ]
+      },
+      "posted_date": "",
+      "source": "ashby"
+    },
+    {
+      "company_name": "Snowflake",
+      "role_title": "Senior Engineering Manager - Data Ingestion",
+      "department": "Engineering",
+      "description": "Snowflake is about empowering enterprises to achieve their full potential \u2014 and people too. With a culture that\u2019s all in on impact, innovation, and collaboration, Snowflake is the sweet spot for building big, moving fast, and taking technology \u2014 and careers \u2014 to the next level. The mission of the Snowflake Streaming team is to empower customers to ingest, transform, and serve their data using real-time and near real-time pipelines within Snowflake. Guided by Snowflake's \"no knobs\" philosophy, we develop infrastructure that manages orchestration, performance, self-healing, security, and privacy so that customers can focus on their business logic. Leveraging our team's extensive background in building streaming systems, we create infrastructure that is simple to operate and adaptable to diverse business requirements. With the successful launch of products such as Snowpipe Streaming , Dynamic Tables , and Iceberg Auto-refresh , our user base is rapidly expanding. We are growing our team to meet this increasing demand. We are seeking a talented Senior Engineering Manager for our Data Platform team in Bellevue, Washington as we scale the team for the next phase of growth. To meet our ambitious plans in each of these pillars, we\u2019re growing our teams. We are seeking talented Engineering Managers for our teams in Bellevue, WA as we scale our teams for the next phase of growth. AS A SENIOR MANAGER AT SNOWFLAKE, YOU WILL: Set the strategic vision for your team and be accountable for team plans and deliverables Drive team projects from idea formulation, through design and implementation collaborating with partner teams Be able to shift resources across areas and projects to achieve execution goals and to respond to lessons from customer and production issues Provide strong technical leadership to the team with a focus on quality, performance, and scale Foster a culture of creativity and innovation while also promoting practical decision-making Grow and build a strong, healthy, and diverse team by participating in all steps of the recruiting process from sourcing to closing Be responsible for the career development of your reports, providing continuous mentorship and coaching We are hiring a dynamic and accomplished Engineering Manager to join our Data Platform team.  In this role, you will lead and expand a talented team working on data streaming, data ingestion & data transformation.  You will play a critical role in the growth and success of Snowflake\u2019s business as we shape the future of open data management at scale! As an Engineering Manager in the Data Platform team, you must possess a strong technical foundation with distributed systems, along with prior experience leading and growing engineering teams.  The ideal candidate will demonstrate strong critical thinking, clear communication, and strong decision making skills.   If you have this mix of skills, and a passion for working in one of the world\u2019s largest data domains, we\u2019d love to hear from you! ",
+      "location": "US-WA-Bellevue",
+      "keywords": {
+        "pivot": [
+          "AI",
+          "data platform",
+          "enterprise",
+          "RAG"
+        ],
+        "tech_debt": [
+          "pipeline"
+        ],
+        "fiscal": []
+      },
+      "posted_date": "",
+      "source": "ashby"
+    },
+    {
+      "company_name": "Snowflake",
+      "role_title": "Senior Forward Deployed Engineer",
+      "department": "Engineering",
+      "description": "Snowflake is about empowering enterprises to achieve their full potential \u2014 and people too. With a culture that\u2019s all in on impact, innovation, and collaboration, Snowflake is the sweet spot for building big, moving fast, and taking technology \u2014 and careers \u2014 to the next level. As a Senior Forward Deployed Engineer (FDE), you will be embedded with customers to lead the modernization of their data and application ecosystem using the Snowflake AI Data Cloud. You will partner closely with clients to understand their business challenges and design, build, and implement cutting-edge data solutions on Snowflake. Your role is crucial in enabling customers to harness the full potential of their data, driving insights, and powering AI initiatives. You'll act as a trusted technical advisor, ensuring customers achieve significant business value and success with Snowflake. WHAT YOU WILL BE RESPONSIBLE FOR: Software Development : Design, build, and deploy robust software systems, tooling, and automation required to support customer solutions on Snowflake. Create comprehensive documentation for developed solutions, technical configurations, and best practices. Data Engineering & Platform Implementation : Design and implement scalable data pipelines and modern data architectures on Snowflake. Ensure data quality, integrity, and efficient processing within the customer's modern data environment. Performance Optimization & Best Practices : Analyze and optimize data models, queries, and data processing workflows to maximize performance, efficiency, and cost-effectiveness within the Snowflake environment. Champion Snowflake best practices. Modern Data Solutions : Evaluate, recommend, and implement modern data integration tools and techniques suitable for the Snowflake ecosystem, helping customers evolve their data capabilities. Client Collaboration and Enablement : Provide expert technical guidance, mentorship, and training to client teams on leveraging the Snowflake platform effectively, including data management, analytics, AI/ML capabilities, and reporting/BI integration. Troubleshooting and Support : Identify and resolve technical challenges, performance bottlenecks, and operational issues. REQUIREMENTS: Bachelor's degree in Computer Science, Information Systems, or a related field. Excellent problem-solving, analytical, and communication skills. Proficiency in programming and scripting languages such as Python, Go, Java or C++. Experience with developing AI/ML applications. Strong understanding of data modeling, data warehousing & data lake concepts, and cloud data platforms. Ability to work independently and collaboratively in a client-facing environment. To accelerate successful outcomes and foster trust, the role may involve travel up to 20% of the time to collaborate with teams and stakeholders. DESIRABLE: Strong proficiency in SQL and experience working with relational databases and data integration technologies. Experience with cloud platforms (AWS, Azur",
+      "location": "US-CA-Menlo Park",
+      "keywords": {
+        "pivot": [
+          "AI",
+          "data platform",
+          "enterprise",
+          "RAG"
+        ],
+        "tech_debt": [
+          "moderniz",
+          "pipeline"
+        ],
+        "fiscal": [
+          "efficiency",
+          "optimization"
+        ]
+      },
+      "posted_date": "",
+      "source": "ashby"
+    },
+    {
+      "company_name": "Snowflake",
+      "role_title": "Senior Data Scientist - Product",
+      "department": "Product Management",
+      "description": "Snowflake is about empowering enterprises to achieve their full potential \u2014 and people too. With a culture that\u2019s all in on impact, innovation, and collaboration, Snowflake is the sweet spot for building big, moving fast, and taking technology \u2014 and careers \u2014 to the next level. The Product Data Science team is looking for a Full-stack Senior Data Scientist to come aboard and be part of Snowflake\u2019s most critical initiatives. In this role, you will work closely with our Product and Engineering teams on everything from core operations, to innovative AI/ML tools, to our fastest-growing new and experimental features. You will work on long-running analytical initiatives yielding substantial product enhancements. This is a strategic, high-impact role that will help shape the future of Snowflake products and services. PLEASE NOTE: The position level is determined during the interview process and is influenced by various factors, including experience, educational attainment, skill level requirements, and overall interview performance. AS A SENIOR FULL STACK DATA SCIENTIST AT SNOWFLAKE YOU WILL: Be a proactive partner to Product Management and Engineering to shape feature roadmaps and help design metrics and analytical workflows to evaluate their success and effectiveness. Build efficient data models and high quality production pipelines and partner with Engineering for all necessary telemetry. Build scalable and extensible analytics/ML/causal inference frameworks to uncover feature usage patterns, subtle issues with the system, potential performance enhancements, and areas to improve customer experience. Be an early adopter/pro user of Snowflake features and provide feedback on design parameters. Evaluate the right surface (Snowflake Notebook/Worksheet/Snowsight Dashboards/Streamlit Apps) to disseminate your insights for maximal impact. Influence decisions and drive initiatives with the Product Management and Engineering teams to drive better outcomes for our customers. Answer questions from the executive team for reporting to the board and contribute to industry reports and similar publications. Think creatively and be scrappy to find optimal solutions to our complex, often unstructured problems. OUR IDEAL CANDIDATE WILL HAVE: MS/Ph.D. in quantitative discipline (Math, Statistics, Operations Research, Economics, Engineering, or CS). 8+ years of relevant data science or related experience. Expert-level experience working with SQL & Python including scikit-learn, numpy, and pandas. Expert in working with large-scale machine generated data (e.g., logs, application telemetry, or customer usage data). High fluency with MPP databases, such as Snowflake, Redshift, BigQuery, Vertica, etc. Expert data-driven storytelling skills to convey insights to business leaders and technical stakeholders and influence decisions. The ability to thrive in a dynamic environment, being flexible and willing to jump in and do whatever it takes to contribute to the success of your ",
+      "location": "US-CA-Menlo Park",
+      "keywords": {
+        "pivot": [
+          "AI",
+          "enterprise"
+        ],
+        "tech_debt": [
+          "pipeline"
+        ],
+        "fiscal": []
+      },
+      "posted_date": "",
+      "source": "ashby"
+    },
+    {
+      "company_name": "Snowflake",
+      "role_title": "Senior Software Application Engineer",
+      "department": "Engineering",
+      "description": "Snowflake is about empowering enterprises to achieve their full potential \u2014 and people too. With a culture that\u2019s all in on impact, innovation, and collaboration, Snowflake is the sweet spot for building big, moving fast, and taking technology \u2014 and careers \u2014 to the next level. Snowflake is a cutting-edge, global data platform that empowers thousands of organizations to effortlessly store, process, and harness the full potential of their data with unparalleled efficiency and scalability. Snowflake Migrations is the expert for migrating to the Snowflake platform, covering code conversion, data migration, data validation, data testing, reporting, and data ingestion, and creates tools like SnowConvert to accelerate the migration of legacy databases. We're looking for a talented Senior Software Application Engineer to help us continue to grow and build new migrations tools and applications by using cutting-edge technologies. AS A SENIOR SOFTWARE APPLICATION ENGINEER AT SNOWFLAKE, YOU WILL: Innovate the next generation of migration and modernization tools. Innovate and build highly secured and reliable software to accelerate customer workload migration. Collaborate with engineers, product managers, solution architects, and designers to deliver cross-functional initiatives. Ensure operational excellence, meeting reliability, availability, and performance goals. OUR IDEAL SENIOR SOFTWARE APPLICATION ENGINEER\u00a0 WILL HAVE: 7+ years of industry experience designing and building software solutions. Extremely strong fundamental computer science skills. Deep, multi-faceted appreciation in building end-to-end, customer-facing products. Interest in establishing development processes and best practices, especially regarding quality and velocity. Strong knowledge of C#, python, and databases. Strong written, verbal, and technical communication skills. BS/MS/PhD in Computer Science or related majors. Every Snowflake employee is expected to follow the company\u2019s confidentiality and security standards for handling sensitive data. Snowflake employees must abide by the company\u2019s data security plan as an essential part of their duties. It is every employee's duty to keep customer information secure and confidential. Snowflake is growing fast, and we\u2019re scaling our team to help enable and accelerate our growth. We are looking for people who share our values, challenge ordinary thinking, and push the pace of innovation while building a future for themselves and Snowflake. How do you want to make your impact? For jobs located in the United States, please visit the job posting on the Snowflake Careers Site for salary and benefits information: careers.snowflake.com",
+      "location": "CR-San Jose",
+      "keywords": {
+        "pivot": [
+          "AI",
+          "data platform",
+          "enterprise"
+        ],
+        "tech_debt": [
+          "legacy",
+          "migration",
+          "moderniz"
+        ],
+        "fiscal": [
+          "efficiency"
+        ]
+      },
+      "posted_date": "",
+      "source": "ashby"
+    },
+    {
+      "company_name": "Snowflake",
+      "role_title": "Solutions Architect - Migrations",
+      "department": "Professional Services",
+      "description": "Snowflake is about empowering enterprises to achieve their full potential \u2014 and people too. With a culture that\u2019s all in on impact, innovation, and collaboration, Snowflake is the sweet spot for building big, moving fast, and taking technology \u2014 and careers \u2014 to the next level. We are looking for a Solutions Architect to be part of our Service Delivery (SD) team to deploy cloud products and services for our customers. This person must be a hands-on, self-starter who loves solving innovative problems in a fast-paced, agile environment. The ideal candidate will have the insight to connect a specific business problem and Snowflake\u2019s solution and communicate that connection and vision to various technical and executive audiences. The person we\u2019re looking for shares our passion about reinventing the data platform and thrives in the dynamic environment. That means having the flexibility and willingness to jump in and get done what needs to be done to make Snowflake and our customers successful. It means keeping up to date on the ever-evolving technologies for data and analytics in order to be an authoritative resource for Snowflake, System Integrators and customers. And it means working collaboratively with a broad range of people both inside and outside the company. AS A SOLUTIONS ARCHITECT AT SNOWFLAKE, YOU WILL: Be a technical expert on all aspects of Snowflake Guide customers through the process of migrating to Snowflake and develop methodologies to improve the migration process Deploy Snowflake following best practices, including ensuring knowledge transfer so that customers are properly enabled and are able to extend the capabilities of Snowflake on their own Work hands-on with customers to demonstrate and communicate implementation best practices on Snowflake technology Maintain deep understanding of competitive and complementary technologies and vendors and how to position Snowflake in relation to them Work with System Integrator consultants at a deep technical level to successfully position and deploy Snowflake in customer environments Provide guidance on how to resolve customer-specific technical challenges Support other members of the SD develop their expertise Collaborate with Product Management, Engineering, and Marketing to continuously improve Snowflake\u2019s products and marketing. Fluent Japanese and English OUR IDEAL SOLUTIONS ARCHITECT WILL HAVE: Minimum 10 years of experience working with customers in a pre-sales or post-sales technical role Experience migrating from one data platform to another and holistically addressing the unique challenges of migrating to a new platform University degree in computer science, engineering, mathematics or related fields, or equivalent experience Outstanding skills presenting to both technical and executive audiences, whether impromptu on a whiteboard or using presentations and demos Understanding of complete data analytics stack and workflow, from ETL to data platform design to BI and analytics tools ",
+      "location": "Tokyo, Japan",
+      "keywords": {
+        "pivot": [
+          "AI",
+          "data platform",
+          "enterprise"
+        ],
+        "tech_debt": [
+          "migration",
+          "ETL"
+        ],
+        "fiscal": []
+      },
+      "posted_date": "",
+      "source": "ashby"
+    },
+    {
+      "company_name": "Snowflake",
+      "role_title": "Solutions Architect - Migrations",
+      "department": "Professional Services",
+      "description": "Snowflake is about empowering enterprises to achieve their full potential \u2014 and people too. With a culture that\u2019s all in on impact, innovation, and collaboration, Snowflake is the sweet spot for building big, moving fast, and taking technology \u2014 and careers \u2014 to the next level. We are looking for a Solutions Architect to be part of our Service Delivery (SD) team to deploy cloud products and services for our customers. This person must be a hands-on, self-starter who loves solving innovative problems in a fast-paced, agile environment. The ideal candidate will have the insight to connect a specific business problem and Snowflake\u2019s solution and communicate that connection and vision to various technical and executive audiences. The person we\u2019re looking for shares our passion about reinventing the data platform and thrives in the dynamic environment. That means having the flexibility and willingness to jump in and get done what needs to be done to make Snowflake and our customers successful. It means keeping up to date on the ever-evolving technologies for data and analytics in order to be an authoritative resource for Snowflake, System Integrators and customers. And it means working collaboratively with a broad range of people both inside and outside the company. AS A SOLUTIONS ARCHITECT AT SNOWFLAKE, YOU WILL: Be a technical expert on all aspects of Snowflake Guide customers through the process of migrating to Snowflake and develop methodologies to improve the migration process Deploy Snowflake following best practices, including ensuring knowledge transfer so that customers are properly enabled and are able to extend the capabilities of Snowflake on their own Work hands-on with customers to demonstrate and communicate implementation best practices on Snowflake technology Maintain deep understanding of competitive and complementary technologies and vendors and how to position Snowflake in relation to them Work with System Integrator consultants at a deep technical level to successfully position and deploy Snowflake in customer environments Provide guidance on how to resolve customer-specific technical challenges Support other members of the SD team develop their expertise Collaborate with Product Management, Engineering, and Marketing to continuously improve Snowflake\u2019s products and marketing. OUR IDEAL SOLUTIONS ARCHITECT WILL HAVE: Minimum 10 years of experience working with customers in a pre-sales or post-sales technical role Experience migrating from one data platform to another and holistically addressing the unique challenges of migrating to a new platform University degree in computer science, engineering, mathematics or related fields, or equivalent experience Outstanding skills presenting to both technical and executive audiences, whether impromptu on a whiteboard or using presentations and demos Understanding of complete data analytics stack and workflow, from ETL to data platform design to BI and analytics tools Strong skills in databa",
+      "location": "JP-Japan-Remote",
+      "keywords": {
+        "pivot": [
+          "AI",
+          "data platform",
+          "enterprise"
+        ],
+        "tech_debt": [
+          "migration",
+          "ETL"
+        ],
+        "fiscal": []
+      },
+      "posted_date": "",
+      "source": "ashby"
+    },
+    {
+      "company_name": "Snowflake",
+      "role_title": "Senior Software Engineer - Java Platform",
+      "department": "Engineering",
+      "description": "Snowflake is about empowering enterprises to achieve their full potential \u2014 and people too. With a culture that\u2019s all in on impact, innovation, and collaboration, Snowflake is the sweet spot for building big, moving fast, and taking technology \u2014 and careers \u2014 to the next level. Build the future of data. Join the Snowflake team. We are actively hiring talented software engineers from Europe and around the world for our European Engineering Center. Our office is located at Potsdamer Platz, in the heart of Berlin. It is conveniently accessible by train, subway, bus, or bicycle \u2013 with a large number of restaurants, cafes, and shops within walking distance. The official language for this office is English. This is a unique opportunity to join a team of experienced engineers, building and maintaining the future of the Java infrastructure that powers the data cloud. The focus of this team will be driving the strategic direction and evolution of how Snowflake uses Java, including the JVM and our core Java libraries. This role offers the chance to make a significant impact on our elastic, large-scale, and high-performance infrastructure. AS A SENIOR SOFTWARE ENGINEER ON THE JAVA PLATFORM TEAM, YOU WILL: Solve real business needs at large scale by applying your software engineering and analytical problem solving skills. Build the next-generation systems that make using Java safe, performant, and secure. Provide a consistent platform that Snowflake engineers can use to deliver high quality solutions to production. Pinpoint performance and availability problems, instrument relevant components as needed, and ultimately implement solutions. Ensure operational readiness of our Java infrastructure to meet availability and performance commitments through proactive monitoring, on-call, and more. Work on projects with team members across the globe and that have an impact on millions of users. We are looking for strong software engineers who are interested in solving low-level problems, understand the JVM and how it interacts with the operating system, and are interested in solving some of the most challenging performance, scalability, and availability problems that exist in the world today. OUR SENIOR SOFTWARE ENGINEER WILL HAVE: 7+ years industry experience designing, building, and supporting large scale systems in production. 5+ years experience building and maintaining complex Java systems. Strong computer science fundamentals including data structures, algorithms, and distributed systems. Deep experience with modern Java runtime and testing tools, methodologies, and techniques. Bonus points if you have worked on platforms like this in the past. Proven understanding of JVM internals and diagnosing Java/JVM behavior problems is strongly preferred. Systems programming skills preferred including multi-threading, concurrency, caching, etc. Knowledge of database and Linux internals is a big plus. BS in Computer Science; Masters or PhD Preferred. Snowflake is growing ",
+      "location": "DE-Berlin-Trion Building",
+      "keywords": {
+        "pivot": [
+          "AI",
+          "enterprise"
+        ],
+        "tech_debt": [],
+        "fiscal": []
+      },
+      "posted_date": "",
+      "source": "ashby"
+    },
+    {
+      "company_name": "Snowflake",
+      "role_title": "Senior Engineering Manager - Query Execution Platform",
+      "department": "Engineering",
+      "description": "Snowflake is about empowering enterprises to achieve their full potential \u2014 and people too. With a culture that\u2019s all in on impact, innovation, and collaboration, Snowflake is the sweet spot for building big, moving fast, and taking technology \u2014 and careers \u2014 to the next level. There is only one AI Data Cloud. Snowflake\u2019s founders started from scratch and designed a data platform built for the cloud that is effective, affordable, and accessible to all data users. But it didn\u2019t stop there. They engineered Snowflake to power the AI Data Cloud, where thousands of organizations unlock the value of their data with near-unlimited scale, concurrency, and performance. In fact, Snowflake processes over 6 billion queries every day, supporting countless businesses in making data-driven decisions. This is our vision: a world with endless insights to tackle the challenges and opportunities of today and reveal the possibilities of tomorrow. We\u2019re looking for an exceptional and experienced Senior Engineering Manager to manage and grow the Snowflake query processing team in Berlin, Germany. The team is critical to Snowflake's success, responsible for building new SQL features and customer-facing functionality, developing novel query optimization and query execution techniques for industry-leading performance, and building a database system that's highly parallel, efficient and fault-tolerant. AS AN SENIOR ENGINEERING MANAGER AT SNOWFLAKE, YOU WILL BE EXPECTED TO: Lead a team of talented engineers in the design, development and support of our highly-parallel and fault-tolerant database system Grow the team by recruiting, interviewing, and hiring new team members in a competitive talent market Be responsible for the career development of your reports, providing continuous mentorship, coaching and guidance Lead and participate in technical, design and product discussions relating to your team Translate product requirements into actionable engineering work for your team, reaching out to others for assistance as needed Collaborate with other leaders in the Engineering and Product organizations on quarterly planning, staffing and project schedules, including teams across different time zones Effectively\u00a0 shift resources across areas and projects to achieve execution goals and respond to customer feedback and production issues Use your strong technical foundation to reliably deliver complex projects while maintaining\u00a0 a high-quality bar Foster a culture of creativity and innovation while also promoting practical decision-making OUR IDEAL CANDIDATE WILL HAVE: 12+ years of hands-on software engineering experience 5+ years of engineering management experience A demonstrated track record of successful recruiting and leading technical teams in a competitive talent market Rock-solid engineering fundamentals, with query processing experience (compile time and/or execution time) and related database technologies Extremely strong problem solving and troubleshooting skills, with",
+      "location": "DE-Berlin-Trion Building",
+      "keywords": {
+        "pivot": [
+          "AI",
+          "data platform",
+          "enterprise"
+        ],
+        "tech_debt": [],
+        "fiscal": [
+          "optimization"
+        ]
+      },
+      "posted_date": "",
+      "source": "ashby"
+    },
+    {
+      "company_name": "Snowflake",
+      "role_title": "Partner Solution Engineer - SAP",
+      "department": "Sales",
+      "description": "Snowflake is about empowering enterprises to achieve their full potential \u2014 and people too. With a culture that\u2019s all in on impact, innovation, and collaboration, Snowflake is the sweet spot for building big, moving fast, and taking technology \u2014 and careers \u2014 to the next level. We\u2019re at the forefront of the data revolution, committed to building the world\u2019s greatest data and applications platform. Our \u2018get it done\u2019 culture allows everyone at Snowflake to have an equal opportunity to innovate on new ideas, create work with a lasting impact, and excel in a culture of collaboration. Snowflake is rapidly growing our Go To Market Initiatives with SAP. We are looking for self-driven, go-getters to not only engage with customers but also help grow our Partners to create value for customers on the Snowflake AI Data Cloud. Success in this position requires the candidate to be a technical advisor by aligning with key programs and educating/upskilling customers and partners on these key product features. The candidate will present skills to both technical and executive audiences, whether it's white boarding or using presentations and demos to build mind share within the region. We are seeking a candidate with a proven track record of successfully working with leading customers, and creating technical champions among them. This role requires travel up to 50% within APJ throughout the quarter to support partner engagement such as enablement, deal support and marketing events. This role may also require occasional international travel. As A Partner Solution Engineer, You Will: Align with our Snowflake SAP Partner Leader in APJ to drive Snowflake consumption across different customers. Collaborate with customers to align Snowflake solutions with their SAP modernisation journey.  Additionally, you will be working with the local team to create assets and demos, build hands-on POCs and pitch Snowflake solutions. Engage with partners to develop Snowflake solutions on customer engagements. You will be working with our partners to Help Solution Providers/Practice Leads with the technical strategies that enable them to sell their offerings on Snowflake. Keeping Customers & Partners up to date on key Snowflake product updates and future roadmaps to help build momentum for Snowflake and create mindshare. Run technical enablement programs to provide best practices, and solution design workshops to help Partners create effective solutions. Forward Strategic thinking - quickly grasp the essence of new concepts and business value messaging. Sharing customer success stories & case studies to showcase the impact of Snowflake. Develop a strong understanding of how Partners make revenue through the Industry priorities & complexities they face and influence where Snowflake products can have the most impact for their product services Conversations with other technologists, providing presentations at the C-level. Preferred skill sets and experiences: Have a total of 10+ years of r",
+      "location": "SG-Singapore",
+      "keywords": {
+        "pivot": [
+          "AI",
+          "enterprise"
+        ],
+        "tech_debt": [],
+        "fiscal": []
+      },
+      "posted_date": "",
+      "source": "ashby"
+    },
+    {
+      "company_name": "Snowflake",
+      "role_title": "Software Engineer- Container Platform",
+      "department": "Engineering",
+      "description": "Snowflake is about empowering enterprises to achieve their full potential \u2014 and people too. With a culture that\u2019s all in on impact, innovation, and collaboration, Snowflake is the sweet spot for building big, moving fast, and taking technology \u2014 and careers \u2014 to the next level. Snowflake customers run more than 3.9 billion queries and 515 million data workloads each day. To support this workload, our globally deployed infrastructure spans multiple cloud providers and manages hundreds of thousands of VMs. Join the Snowflake team to build the Data Cloud Platform at an exceptional scale. We are hiring talented Software Engineers for our Platform Infrastructure Engineering teams. If you are passionate about solving complex infrastructure challenges by using software engineering expertise, this opportunity may be for you. Our Platform Infrastructure Engineering Teams are focused on things like: Simplifying our large-scale infrastructure for the other development teams to use. Building services that improve the reliability of Snowflake by protecting us from the cloud providers issues. Enabling Snowflake services to operate globally across multiple cloud providers. Managing complicated infrastructure changes at the scale a few companies can match. Keeping the SLOs of our infrastructure and services at a very high bar. Defining the OS and containerization layer for all of Snowflake\u2019s services. All Platform Infrastructure Engineering Teams aim to optimize and evolve our infrastructure's reliability, availability, serviceability, performance, and cost efficiency. AS A SOFTWARE ENGINEER - PLATFORM INFRASTRUCTURE ENGINEERING AT SNOWFLAKE, YOU WILL: Will build a deep understanding of Snowflake\u2019s infrastructure and services. Demonstrate both infrastructure and software engineering expertise by contributing to the team charter to build and operate highly scalable, resilient, and performant infrastructure. Work on large and complex projects that build infrastructure, platforms, tools, and automation in the cloud. Evangelize and drive adoption of the Platform to meet business goals. Support junior team members, contribute with excellent code quality, documentation, and software development best practices. OUR IDEAL SOFTWARE ENGINEER - PLATFORM INFRASTRUCTURE ENGINEERING AT SNOWFLAKE, WILL HAVE: BS/CS, MS/CS, or equivalent. At least 2+ years experience in a platform or cloud team building spent on supporting mission-critical services and infrastructure in a SaaS environment. Strong software engineering fundamentals, coding skills, and knowledge of software development best practices. At least 1+ years in cloud computing (AWS, Azure, or GCP). Fluent in one or more languages (Golang, Java, Python, C). Proficiency in at least one of the following areas: container platforms, automation, networking, operating systems, site reliability, config management, and infrastructure as code solutions such as Pulumi and Terraform. Tremendous attention to detail and ability to bui",
+      "location": "PL-Warsaw",
+      "keywords": {
+        "pivot": [
+          "AI",
+          "SaaS",
+          "enterprise"
+        ],
+        "tech_debt": [],
+        "fiscal": [
+          "efficiency"
+        ]
+      },
+      "posted_date": "",
+      "source": "ashby"
+    },
+    {
+      "company_name": "Snowflake",
+      "role_title": "Senior Technical Writer",
+      "department": "Product Management",
+      "description": "Snowflake is about empowering enterprises to achieve their full potential \u2014 and people too. With a culture that\u2019s all in on impact, innovation, and collaboration, Snowflake is the sweet spot for building big, moving fast, and taking technology \u2014 and careers \u2014 to the next level. Snowflake is growing fast and we\u2019re scaling our team to help enable and accelerate our growth. We\u2019re passionate about our people, our customers, our values and our culture! We\u2019re also looking for people with a growth mindset and the pragmatic insight to solve for today while building for the future. And as a Snowflake employee, you will be accountable for supporting and enabling diversity and belonging. Snowflake started with a clear vision: make modern data warehousing effective, affordable, and accessible to all data users. Because traditional on-premises and cloud solutions struggle with this, Snowflake developed an innovative product with a new built-for-the-cloud architecture that combines the power of data warehousing, the flexibility of big data platforms, and the elasticity of the cloud at a fraction of the cost of traditional solutions. Over the last few years, Snowflake has added additional products and features to its portfolio (from data pipelines, cross-region / cloud features to data exchanges) to become the leading Data Cloud. Snowflake technical writers work with a world-class team to create product documentation for Snowflake's industry-leading Data Cloud. Working in a fast-paced and challenging environment, you experience the immediate and direct impact of your contributions as Snowflake delivers weekly releases to our rapidly growing base of global customers. This position is a hybrid role and is required to be in either our Bellevue, WA or Menlo Park, CA office location. RESPONSIBILITIES: Create online guides, reference docs, and tutorials for technical audiences (SQL engineers, application developers, etc). Engage directly with product managers, software engineers, and UI designers to ensure all features, enhancements, and changes are fully documented. Work with release engineers and dev ops to deliver weekly product updates and documentation. Work with support engineers and customer success managers to help drive customer engagement and adoption, which may include: Contributing to Knowledge Base articles and Community questions. Authoring and editing technical blog posts. Developing training materials, implementation guides, migration guides, best practices, and FAQs. REQUIRED SKILLS/ EXPERIENCE: 10+ years creating technical product documentation from scratch, as well as from specs. Strong SQL and RDBMS skills (Oracle, Teradata, Redshift, SQL Server, etc); comfortable working with sample code. Exposure to using and documenting any of the following security and governance technologies: Identity and Access Management (SSO, OAuth, MFA, RBAC, SCIM, etc) Networking and Private Connectivity (AWS PrivateLink, Azure Private Link, Google Cloud Private Service ",
+      "location": "US-WA-Bellevue",
+      "keywords": {
+        "pivot": [
+          "AI",
+          "data platform",
+          "enterprise",
+          "RAG"
+        ],
+        "tech_debt": [
+          "migration",
+          "pipeline"
+        ],
+        "fiscal": []
+      },
+      "posted_date": "",
+      "source": "ashby"
+    },
+    {
+      "company_name": "Snowflake",
+      "role_title": "Sr. District Manager, Financial Services",
+      "department": "Sales",
+      "description": "Snowflake is about empowering enterprises to achieve their full potential \u2014 and people too. With a culture that\u2019s all in on impact, innovation, and collaboration, Snowflake is the sweet spot for building big, moving fast, and taking technology \u2014 and careers \u2014 to the next level. Snowflake is experiencing rapid growth and we are expanding our team to support and accelerate this growth. We are deeply committed to our employees, customers, values, and culture. We are looking for individuals who have a growth mindset and the practical insight to address current challenges while also laying the foundation for future success. As a member of the Snowflake team, you will be responsible for promoting and fostering diversity and inclusivity. We are in search of a Majors Expansion Sales Manager, on our Financial Services team, who embodies Snowflake\u2019s values and has a proven track record of creating an inclusive and collaborative work environment that brings people and ideas together. This individual should possess strong communication skills, be open to giving and receiving constructive feedback, be adept at recognizing and celebrating the achievements of others, and have a genuine passion for our technology, as well as a commitment to continuous learning and teaching. YOU MAY BE A GOOD FIT FOR THE TEAM IF YOU HAVE: An understanding of Snowflake's product in order to be able to provide guidance to navigate complex technical evaluations Drive to enable, coach, develop and motivate a robust Majors sales team Developed territories by planning strategically and effectively 10+ years guiding Account Executives through complex legal and commercial negotiations A customer first mindset to ensure success Consistently executed what is forecasted to senior management Understand how to sell business value, using a repeatable process Coach reps on how to create urgency and deal control IN THIS ROLE YOU WILL GET TO: Recruit and build successful sales professionals into high-performing revenue drivers for Snowflake Build cross-functional relationships with internal and external support teams & technical partners Influence go-to-market strategy for top tier financial services companies. Develop a team culture around Snowflake Core Values Sell an industry changing and market defining product ON DAY ONE WE WILL EXPECT YOU TO HAVE: BA/BS required 15+ years selling Cloud Solutions, Infrastructure Software, Databases, Analytic Tools, or Applications Software 10+ years managing a team of sales teams Have sold to the Financial Services industry Sold to CEOs, CTOs, Heads of Product, Engineering, or Data Science Ability to coach your team how to target and pursue an opportunity with our ideal customer profile within a complex sales cycle Experience outperforming targets as an individual contributor in an outbound role Ability to coach AEs how to navigate commercial and legal negotiations when working with procurement, legal, and business teams. Ability to work with sales engineeri",
+      "location": "US-CA-Remote",
+      "keywords": {
+        "pivot": [
+          "enterprise"
+        ],
+        "tech_debt": [],
+        "fiscal": []
+      },
+      "posted_date": "",
+      "source": "ashby"
+    },
+    {
+      "company_name": "Snowflake",
+      "role_title": "Designated Support Engineer",
+      "department": "Global Support",
+      "description": "Snowflake is about empowering enterprises to achieve their full potential \u2014 and people too. With a culture that\u2019s all in on impact, innovation, and collaboration, Snowflake is the sweet spot for building big, moving fast, and taking technology \u2014 and careers \u2014 to the next level. Snowflake Support \u306f\u3001\u304a\u5ba2\u69d8\u306b\u5b89\u5fc3\u3068\u4fe1\u983c\u3092\u63d0\u4f9b\u3057\u3001\u30d3\u30b8\u30cd\u30b9\u306e\u7d99\u7d9a\u6027\u3092\u652f\u3048\u308b\u4e16\u754c\u6c34\u6e96\u306e\u30b5\u30dd\u30fc\u30c8\u3092\u76ee\u6307\u3057\u3066\u3044\u307e\u3059\u3002 \u672c\u30dd\u30b8\u30b7\u30e7\u30f3\u3067\u3042\u308b Staff Designated Support Engineer (DSE) \u306f\u3001Priority Support \u5951\u7d04\u306e\u304a\u5ba2\u69d8\u306b\u5bfe\u3059\u308b\u4fe1\u983c\u3067\u304d\u308b\u6280\u8853\u30d1\u30fc\u30c8\u30ca\u30fc\u3067\u3059\u3002 \u6df1\u3044\u6280\u8853\u77e5\u8b58\u3068\u30d7\u30ed\u30a2\u30af\u30c6\u30a3\u30d6\u306a\u30a2\u30ab\u30a6\u30f3\u30c8\u30fb\u30a8\u30f3\u30b2\u30fc\u30b8\u30e1\u30f3\u30c8\u3092\u7d44\u307f\u5408\u308f\u305b\u3001\u8ab2\u984c\u306e\u8fc5\u901f\u306a\u89e3\u6c7a\u3068\u304a\u5ba2\u69d8\u304b\u3089\u306e\u4fe1\u983c\u69cb\u7bc9\u306e\u4e21\u7acb\u3092\u62c5\u3044\u307e\u3059\u3002 DSE \u306f\u8907\u6570\u306e Priority Support \u9867\u5ba2\u3092\u62c5\u5f53\u3057\u3001\u305d\u308c\u305e\u308c\u306e\u30b7\u30b9\u30c6\u30e0\u69cb\u6210\u3001\u30e6\u30fc\u30b9\u30b1\u30fc\u30b9\u3001\u30d3\u30b8\u30cd\u30b9\u4e0a\u306e\u512a\u5148\u4e8b\u9805\u3092\u6df1\u304f\u7406\u89e3\u3059\u308b\u3053\u3068\uff08\"Know Your Customer\"\uff09\u3092\u76ee\u7684\u3068\u3057\u307e\u3059\u3002\u76f4\u63a5\u30b1\u30fc\u30b9\u3092\u591a\u6570\u5bfe\u5fdc\u3059\u308b\u3068\u3044\u3046\u3088\u308a\u3082\u3001\u30b1\u30fc\u30b9\u9032\u884c\u3084\u512a\u5148\u9806\u4f4d\u4ed8\u3051\u306b\u6df1\u304f\u95a2\u4e0e\u3057\u3001\u95a2\u4fc2\u3059\u308b\u5168\u3066\u306e Snowflake \u30c1\u30fc\u30e0\u304c\u9867\u5ba2\u7279\u6709\u306e\u72b6\u6cc1\u3092\u7406\u89e3\u3057\u305f\u4e0a\u3067\u3001\u660e\u78ba\u306a\u65b9\u5411\u6027\u306e\u3082\u3068\u306b\u5bfe\u5fdc\u3092\u9032\u3081\u3089\u308c\u308b\u3088\u3046\u652f\u63f4\u3057\u307e\u3059\u3002\u307e\u305f\u3001\u50be\u5411\u306e\u53ef\u8996\u5316\u3084\u95a2\u9023\u8ab2\u984c\u306e\u96c6\u7d04\u3001\u6539\u5584\u63d0\u6848\u3092\u901a\u3058\u3066\u3001\u304a\u5ba2\u69d8\u304c Snowflake \u74b0\u5883\u3092\u6700\u5927\u9650\u306b\u6d3b\u7528\u3057\u3001\u9ad8\u3044\u30d1\u30d5\u30a9\u30fc\u30de\u30f3\u30b9\u3068\u5b89\u5b9a\u6027\u3092\u7dad\u6301\u3067\u304d\u308b\u3088\u3046\u5c0e\u304d\u307e\u3059\u3002Snowflake\u30c1\u30fc\u30e0\u3068\u304a\u5ba2\u69d8\u306e\u9593\u3067\u6a4b\u6e21\u3057\u5f79\u3068\u306a\u308a\u3001\u8ab2\u984c\u304c\u660e\u78ba\u306a\u65b9\u5411\u6027\u3068\u5341\u5206\u306a\u80cc\u666f\u7406\u89e3\u306e\u3082\u3068\u3067\u5186\u6ed1\u306b\u9032\u3080\u3088\u3046\u306b\u30b5\u30dd\u30fc\u30c8\u3057\u307e\u3059\u3002 \u4e3b\u306a\u696d\u52d9\u5185\u5bb9 \u62c5\u5f53\u9867\u5ba2\u306b\u5bfe\u3059\u308b\u30b5\u30fc\u30d3\u30b9\u63d0\u4f9b\u9762\u3067\u306e\u4e3b\u8981\u306a\u30b3\u30f3\u30bf\u30af\u30c8\u30dd\u30a4\u30f3\u30c8\u3068\u3057\u3066\u5bfe\u5fdc\u3059\u308b \u30b5\u30dd\u30fc\u30c8\u304a\u3088\u3073\u30a2\u30ab\u30a6\u30f3\u30c8\u30c1\u30fc\u30e0\u3068\u9023\u643a\u3057\u3001\u62c5\u5f53\u9867\u5ba2\u306e\u30b1\u30fc\u30b9\u3001\u30a4\u30f3\u30b7\u30c7\u30f3\u30c8\u3001\u30a8\u30b9\u30ab\u30ec\u30fc\u30b7\u30e7\u30f3\u3092\u5186\u6ed1\u306b\u9032\u3081\u3001\u304a\u5ba2\u69d8\u306e\u72b6\u6cc1\u3084\u30cb\u30fc\u30ba\u3092\u5341\u5206\u306b\u7406\u89e3\u3057\u305f\u4e0a\u3067\u5bfe\u5fdc\u3059\u308b \u9867\u5ba2\u304a\u3088\u3073\u30a2\u30ab\u30a6\u30f3\u30c8\u30c1\u30fc\u30e0\u3068\u9023\u643a\u3057\u3001\u4ee5\u4e0b\u306e\u9818\u57df\u3067\u8ab2\u984c\u5206\u6790\u3068\u6539\u5584\u7b56\u306e\u63d0\u6848\u3092\u884c\u3046 \u672c\u756a\u74b0\u5883\u306e\u30bf\u30b9\u30af\u3067\u306e\u30af\u30a8\u30ea\u30d1\u30d5\u30a9\u30fc\u30de\u30f3\u30b9\u6700\u9069\u5316\u3001\u518d\u767a\u9632\u6b62\u3001\u52b9\u7387\u6539\u5584\u306e\u305f\u3081\u306e\u63d0\u8a00 \u30a6\u30a7\u30a2\u30cf\u30a6\u30b9\u69cb\u6210\u3068\u5229\u7528\u72b6\u6cc1\u306e\u5206\u6790\u3001\u30b3\u30b9\u30c8\u6700\u9069\u5316\u304a\u3088\u3073\u6027\u80fd\u6539\u5584\u306e\u63d0\u6848 \u30e6\u30fc\u30b6\u30fc\u304a\u3088\u3073\u30a2\u30ab\u30a6\u30f3\u30c8\u8a2d\u5b9a\u306e\u30d9\u30b9\u30c8\u30d7\u30e9\u30af\u30c6\u30a3\u30b9\uff08\u30bb\u30ad\u30e5\u30ea\u30c6\u30a3\u3001\u30ac\u30d0\u30ca\u30f3\u30b9\u3001\u5065\u5168\u6027\uff09\u306b\u57fa\u3065\u304f\u6539\u5584\u63d0\u6848 \u8907\u96d1\u306a\u672c\u756a\u74b0\u5883\u3067\u306e\u8ab2\u984c\u3084\u50be\u5411\u3092\u5206\u6790\u3057\u3001\u518d\u767a\u9632\u6b62\u306b\u3064\u306a\u304c\u308b\u539f\u56e0\u5206\u6790\uff08RCA\uff09\u3068\u7684\u78ba\u306a\u30b1\u30fc\u30b9\u5bfe\u5fdc\u3092\u63d0\u4f9b \u5b9a\u671f\u7684\u306b\u62c5\u5f53\u9867\u5ba2\u3068\u30ec\u30d3\u30e5\u30fc\u3092\u5b9f\u65bd\u3057\u3001\u30b7\u30b9\u30c6\u30e0\u306e\u30d1\u30d5\u30a9\u30fc\u30de\u30f3\u30b9\u3084\u5065\u5168\u6027\u306b\u95a2\u3059\u308b\u5206\u6790\u7d50\u679c\u3068\u6539\u5584\u7b56\u3092\u63d0\u4f9b \u9867\u5ba2\u306e\u8981\u671b\u3092\u793e\u5185\u306b\u9069\u5207\u306b\u4f1d\u3048\u3001\u5bfe\u5fdc\u306e\u512a\u5148\u9806\u4f4d\u3092\u9069\u5207\u306b\u8abf\u6574 \u30b5\u30dd\u30fc\u30c8\u3001\u30a8\u30f3\u30b8\u30cb\u30a2\u30ea\u30f3\u30b0\u3001\u30af\u30e9\u30a6\u30c9\u30aa\u30da\u30ec\u30fc\u30b7\u30e7\u30f3\u306e\u5404\u30c1\u30fc\u30e0\u3068\u9023\u643a\u3057\u3001\u8907\u96d1\u306a\u6280\u8853\u8ab2\u984c\u306e\u89e3\u6c7a\u3092\u30ea\u30fc\u30c9\u3059\u308b \u62c5\u5f53\u9867\u5ba2\u306e\u30b7\u30b9\u30c6\u30e0\u69cb\u6210\u3084\u5229\u7528\u65b9\u6cd5\u3001\u6210\u529f\u306e\u9375\u3068\u306a\u308b\u30dd\u30a4\u30f3\u30c8\u3092\u6df1\u304f\u7406\u89e3\u3057\u3001\u5e38\u306b\u6700\u65b0\u306e\u72b6\u6cc1\u3092\u628a\u63e1\u3059\u308b SLA\u30fb\u30a8\u30b9\u30ab\u30ec\u30fc\u30b7\u30e7\u30f3\u30d7\u30ed\u30bb\u30b9\u3092\u9075\u5b88\u3057\u3001\u9867\u5ba2\u30d3\u30b8\u30cd\u30b9\u306e\u7d99\u7d9a\u6027\u3092\u78ba\u4fdd \u30d1\u30bf\u30fc\u30f3\u3092\u5206\u6790\u3057\u3001\u30b0\u30ed\u30fc\u30d0\u30eb\u898f\u6a21\u306e\u54c1\u8cea\u6539\u5584\u30fbCustomer Experience\u5411\u4e0a\u306e\u53d6\u308a\u7d44\u307f\u3092\u63a8\u9032 \u793e\u5185\u5916\u5411\u3051\u306e\u30c8\u30ec\u30fc\u30cb\u30f3\u30b0\u30fb\u30ca\u30ec\u30c3\u30b8\u30b7\u30a7\u30a2\u3092\u5b9f\u65bd\u3057\u3001Snowflake \u304a\u3088\u3073\u30c7\u30fc\u30bf\u30a6\u30a7\u30a2\u30cf\u30a6\u30b8\u30f3\u30b0\u306e\u7406\u89e3\u306e\u4fc3\u9032 \u6c42\u3081\u308b\u4eba\u7269\u50cf\u30fb\u7d4c\u9a13: \u30c6\u30af\u30cb\u30ab\u30eb\u30b5\u30dd\u30fc\u30c8\u3001\u30ab\u30b9\u30bf\u30de\u30fc\u30b5\u30af\u30bb\u30b9\u3001\u307e\u305f\u306f\u985e\u4f3c\u306e\u9867\u5ba2\u5bfe\u5fdc\u6280\u8853\u8077\u3067\u306e8\u5e74\u4ee5\u4e0a\u306e\u7d4c\u9a13 \u30a8\u30f3\u30bf\u30fc\u30d7\u30e9\u30a4\u30ba\u9867\u5ba2\u5bfe\u5fdc\u306e\u5b9f\u7e3e\u3068\u3001\u4fe1\u983c\u3055\u308c\u308b\u6280\u8853\u30a2\u30c9\u30d0\u30a4\u30b6\u30fc\u3068\u3057\u3066\u306e\u7d4c\u9a13 \u6280\u8853\u30fb\u975e\u6280\u8853\u30fb\u7d4c\u55b6\u5c64\u305d\u308c\u305e\u308c\u306b\u9069\u3057\u305f\u65e5\u672c\u8a9e\u3067\u306e\u9ad8\u3044\u30b3\u30df\u30e5\u30cb\u30b1\u30fc\u30b7\u30e7\u30f3\u529b\u3068\u6587\u66f8\u4f5c\u6210\u529b \u82f1\u8a9e\u3067\u306e\u57fa\u672c\u7684\u306a\u53e3\u982d\u3067\u306e\u30b3\u30df\u30e5\u30cb\u30b1\u30fc\u30b7\u30e7\u30f3\u80fd\u529b \u4e2d\u7d1a\u30ec\u30d9\u30eb\u4ee5\u4e0a\u306e\u82f1\u8a9e\u306e\u30ea\u30fc\u30c7\u30a3\u30f3\u30b0\u30fb\u30e9\u30a4\u30c6\u30a3\u30f3\u30b0\u30b9\u30ad\u30eb \u30c7\u30fc\u30bf\u30a6\u30a7\u30a2\u30cf\u30a6\u30b9\u3001\u30c7\u30fc\u30bf\u30d9\u30fc\u30b9\u79fb\u884c\u3001ETL \u306b\u95a2\u3059\u308b\u7d4c\u9a13 RDBMS \u306e\u57fa\u672c\u7684\u306a\u77e5\u8b58\uff08SQL\u3001\u30c7\u30fc\u30bf\u578b\u3001\u96c6\u7d04\u3001\u5b9f\u884c\u8a08\u753b\u3001\u30ef\u30fc\u30af\u30ed\u30fc\u30c9\u7ba1\u7406\u3001DB\u6027\u80fd\u7ba1\u7406\uff09 \u4e3b\u8981\u30af\u30e9\u30a6\u30c9\uff08AWS, Azure, GCP\uff09\u306e\u3044\u305a\u308c\u304b\u306b\u95a2\u3059\u308b\u77e5\u8b58\uff08\u30a4\u30f3\u30d5\u30e9\u3001\u30cd\u30c3\u30c8\u30ef\u30fc\u30af\u3001\u6027\u80fd\u6307\u6a19\uff09 \u30c9\u30e9\u30a4\u30d0\u30fc\u3001\u30b3\u30cd\u30af\u30bf\u3001\u30af\u30e9\u30a4\u30a2\u30f3\u30c8\u30bd\u30d5\u30c8\u306a\u3069\u3092\u7528\u3044\u305fDB\u63a5\u7d9a\u30fb\u30af\u30e9\u30a6\u30c9\u30c7\u30fc\u30bf\u79fb\u884c\u306e\u30c8\u30e9\u30d6\u30eb\u30b7\u30e5\u30fc\u30c6\u30a3\u30f3\u30b0\u7d4c\u9a13 \u30b0\u30ed\u30fc\u30d0\u30eb\u30c1\u30fc\u30e0\u3068\u9023\u643a\u3057\u3001\u30a8\u30f3\u30bf\u30fc\u30d7\u30e9\u30a4\u30ba\u9867\u5ba2\u306e\u55b6\u696d\u30b5\u30a4\u30af\u30eb\u304a\u3088\u3073\u30b5\u30dd\u30fc\u30c8\u30d7\u30ed\u30bb\u30b9\u3092\u7406\u89e3\u3057\u3066\u884c\u52d5\u3067\u304d\u308b \u6b53\u8fce\u30b9\u30ad\u30eb: CI/CD\uff08Terraform, Azure DevOps, Jenkins\u306a\u3069\uff09\u306e\u7d4c\u9a13 .NET, JavaScript, R, Go \u306a\u3069\u306e\u30b9\u30af\u30ea\u30d7\u30c8\uff0f\u30b3\u30fc\u30c7\u30a3\u30f3\u30b0\u306e\u7d4c\u9a13 Pandas, SciPy, TensorFlow \u306a\u3069\u306e\u30e9\u30a4\u30d6\u30e9\u30ea\uff0f\u30d5\u30ec\u30fc\u30e0\u30ef\u30fc\u30af\u306e\u7d4c\u9a13 AWS \u307e\u305f\u306f Azure \u4e0a\u3067\u7a3c\u50cd\u3059\u308b\u30a2\u30d7\u30ea\u30b1\u30fc\u30b7\u30e7\u30f3\u306e\u30b5\u30dd\u30fc\u30c8\u306e\u7d4c\u9a13 \u30c7\u30fc\u30bf\u7d71\u5408\u30fb\u5206\u6790\u30c4\u30fc\u30eb\u306e\u7d4c\u9a13\uff08\u4f8b\uff1aAWS Glue, Azure Data Factory, Informatica, Matillion, Tableau, Fivetran \u306a\u3069\uff09 \u534a\u69cb\u9020\u5316\u30c7\u30fc\u30bf\uff08JSON, Avro, Parquet\uff09\u304a\u3088\u3073\u30b9\u30af\u30ea\u30d7\u30c8\uff0f\u30d7\u30ed\u30b0\u30e9\u30df\u30f3\u30b0\u8a00\u8a9e\u306e\u3044\u305a\u308c\u304b\u306e\u77e5\u8b58 \u8907\u6570OS\uff08Windows, Mac, Linux\u7cfb\uff09\u3067\u306e\u30c8\u30e9\u30d6\u30eb\u30b7\u30e5\u30fc\u30c6\u30a3\u30f3\u30b0\u306e\u7d4c\u9a13 TCP/IP, HTTP/S, SFTP, DNS \u306a\u3069\u30a4\u30f3\u30bf\u30fc\u30cd\u30c3\u30c8\u30d7\u30ed\u30c8\u30b3\u30eb\u306e\u77e5\u8b58\u3068\u8a3a\u65ad\u30c4\u30fc\u30eb\u306e\u5229\u7528\u30b9\u30ad\u30eb \u4eee\u60f3\u5316\u30fb\u30b3\u30f3\u30c6\u30ca\u6280\u8853\uff08VMware, Docker, VirtualBox, Kubernetes\u306a\u3069\uff09\u306e\u7d4c\u9a13 \u30af\u30e9\u30a6\u30c9\u30cd\u30c3\u30c8\u30ef\u30fc\u30af\u304a\u3088\u3073\u30bb\u30ad\u30e5\u30ea\u30c6\u30a3\u306e\u57fa\u672c\u7684\u7406\u89e3 \u5206\u6563\u578b\u30c7\u30fc\u30bf\u30d9\u30fc\u30b9\uff08\u30d3\u30c3\u30b0\u30c7\u30fc\u30bf\u3001MPP \u306a\u3069\uff09\u3067\u306e\u5b9f\u52d9\u7d4c\u9a13 SQL \u306e\u9ad8\u5ea6\u306a\u30b9\u30ad\u30eb\uff08\u30c7\u30d0\u30c3\u30b0\u3001\u6700\u9069\u5316\u3001\u30a6\u30a3\u30f3\u30c9\u30a6\u95a2\u6570\u3001\u30d1\u30d5\u30a9\u30fc\u30de\u30f3\u30b9\u30c1\u30e5\u30fc\u30cb\u30f3\u30b0\uff09 \u30c7\u30fc\u30bf\u30a6\u30a7\u30a2\u30cf\u30a6\u30b8\u30f3\u30b0\u304a\u3088\u3073\u30af\u30e9\u30a6\u30c9\u57fa\u790e\u306b\u95a2\u3059\u308b\u30e1\u30f3\u30bf\u30fc\uff0f\u30c8\u30ec\u30fc\u30ca\u30fc\u7d4c\u9a13 DSE\u306e\u3084\u308a\u304c\u3044\u306f\u30fb\u30fb\u30fb Snowflake \u306f\u6025\u6210\u9577\u3092\u7d9a\u3051\u3066\u304a\u308a\u3001\u304a\u5ba2\u69d8\u306f\u79c1\u305f\u3061\u306b\u300c\u4fe1\u983c\u6027\u300d\u300c\u7d99\u7d9a\u6027\u300d\u300c\u30d1\u30fc\u30c8\u30ca\u30fc\u30b7\u30c3\u30d7\u300d\u3092\u671f\u5f85\u3057\u3066\u3044\u307e\u3059\u3002DSE \u306f\u6df1\u3044\u6280\u8853\u7684\u8ab2\u984c\u89e3\u6c7a\u3068\u9ad8\u3044\u4fe1\u983c\u95a2\u4fc2\u306e\u69cb\u7bc9\u3092\u4e21\u7acb\u3055\u305b\u308b\u4e2d\u5fc3\u7684\u306a\u5f79\u5272\u3067\u3059\u3002\u5358\u306a\u308b\u30b1\u30fc\u30b9\u89e3\u6c7a\u306b\u3068\u3069\u307e\u3089\u305a\u3001\u304a\u5ba2\u69d8\u4f53\u9a13\u305d\u306e\u3082\u306e\u3092\u5f62\u3065\u304f\u308b\u91cd\u8981\u306a\u30dd\u30b8\u30b7\u30e7\u30f3\u3068\u306a\u308a\u307e\u3059\u3002 Snowflake is growing fast, and we\u2019re scaling our team to help enable and accelerate our growth. We are looking for people who share our values, challenge ordinary thinking, and push the pace of innovation while building a future for themselves and Snowflake. How do you want to make your impact? Fo",
+      "location": "Tokyo, Japan",
+      "keywords": {
+        "pivot": [
+          "enterprise"
+        ],
+        "tech_debt": [
+          "ETL"
+        ],
+        "fiscal": []
+      },
+      "posted_date": "",
+      "source": "ashby"
+    },
+    {
+      "company_name": "Snowflake",
+      "role_title": "Solution Engineer",
+      "department": "Solution Engineering",
+      "description": "Snowflake is about empowering enterprises to achieve their full potential \u2014 and people too. With a culture that\u2019s all in on impact, innovation, and collaboration, Snowflake is the sweet spot for building big, moving fast, and taking technology \u2014 and careers \u2014 to the next level. We are  looking for a Solution Engineer who is accustomed to solving customer\u2019s most complex problems and closing large deals. In this role you will work directly with the sales team and channel partners to understand the needs of our customers, strategize on how to navigate winning sales cycles, provide compelling value-based demonstrations, support enterprise Proof of Concepts, and ultimately close business. As a Snowflake Solution Engineer you must share our passion about reinventing the database space, thrive in a dynamic environment and have the flexibility and willingness to jump in and get things done. You are equally comfortable in both a business and technical context, interacting with executives and talking shop with technical audiences. IN THIS ROLE YOU WILL GET TO: Present Snowflake technology and vision to executives and technical contributors at prospects and customers Work hands-on with prospects and customers to demonstrate and communicate the value of Snowflake technology throughout the sales cycle, from demo to proof of concept to design and implementation Immerse yourself in the ever-evolving industry, maintaining a  deep understanding of competitive and complementary technologies and vendors and how to position Snowflake in relation to them. Collaborate with Product Management, Engineering, and Marketing to continuously improve Snowflake\u2019s products and marketing ON DAY ONE WE WILL EXPECT YOU TO HAVE: Outstanding presenting skills to both technical and executive audiences, whether impromptu on a whiteboard or using presentations and demos. Broad range of experience within large-scale Database and/or Data Warehouse technology, ETL, analytics and cloud technologies Hands-on expertise with SQL and SQL analytics Hands-on experience with Python Understanding of AI/ML principles and best practices Ability to connect a customer\u2019s specific business problems and Snowflake\u2019s solutions University degree in computer science, engineering, mathematics or related fields, or equivalent experience preferred ABOUT OUR TEAM: Our Solution Engineers are customer obsessed and we believe in the value we can add and stay honest about it. We love to learn, are open to giving and receiving feedback and are passionate about making our clients successful. Our team works to ensure data is accessible, usable and valuable to everyone. Snowflake is growing fast, and we\u2019re scaling our team to help enable and accelerate our growth. We are looking for people who share our values, challenge ordinary thinking, and push the pace of innovation while building a future for themselves and Snowflake. How do you want to make your impact? For jobs located in the United States, please visit the job ",
+      "location": "CA-Ontario-Toronto",
+      "keywords": {
+        "pivot": [
+          "AI",
+          "enterprise"
+        ],
+        "tech_debt": [
+          "ETL"
+        ],
+        "fiscal": []
+      },
+      "posted_date": "",
+      "source": "ashby"
+    }
+  ],
+  "hiring_signals": {
+    "pivot_keywords": [
+      "SaaS",
+      "data platform",
+      "AI",
+      "platform engineering",
+      "RAG",
+      "LLM",
+      "enterprise",
+      "agentic"
+    ],
+    "tech_debt_keywords": [
+      "pipeline",
+      "refactor",
+      "ETL",
+      "migration",
+      "legacy",
+      "moderniz"
+    ],
+    "fiscal_keywords": [
+      "lean",
+      "efficiency",
+      "optimization"
+    ],
+    "total_jobs": 30,
+    "departments": {
+      "Engineering": 13,
+      "Solution Engineering": 10,
+      "Product Management": 2,
+      "Professional Services": 2,
+      "Sales": 2,
+      "Global Support": 1
+    },
+    "engineering_ratio": 0.43
+  },
+  "tech_stack": {
+    "company_name": "Snowflake",
+    "domain": "snowflake.com",
+    "frameworks": [
+      "Google Analytics",
+      "Modern Data Stack"
+    ],
+    "languages": [],
+    "raw_headers": {
+      "server": "cloudflare",
+      "x-frame-options": "deny",
+      "content-type": "text/html;charset=utf-8"
+    },
+    "debt_signals": {
+      "detected_legacy_tech": [],
+      "legacy_score": 0.0,
+      "assessment": "Low \u2014 modern stack detected"
+    }
+  },
+  "github": {
+    "company_name": "Snowflake",
+    "org_name": "snowflakedb",
+    "total_repos": 20,
+    "total_open_issues": 1278,
+    "avg_commit_freq": 0.0,
+    "languages": [
+      "Python",
+      "Go",
+      "Java",
+      "C",
+      "C#",
+      "JavaScript",
+      "C++",
+      "Rust",
+      "Jupyter Notebook",
+      "Scala"
+    ],
+    "legacy_signals": [],
+    "github_debt": {
+      "score": 3,
+      "label": "Low"
+    },
+    "top_repos": [
+      {
+        "name": "snowpark-python",
+        "open_issues": 160,
+        "stars": 326,
+        "days_since_update": 0,
+        "language": "Python"
+      },
+      {
+        "name": "terraform-provider-snowflake",
+        "open_issues": 287,
+        "stars": 665,
+        "days_since_update": 0,
+        "language": "Go"
+      },
+      {
+        "name": "homebrew-snowconvert-ai",
+        "open_issues": 0,
+        "stars": 1,
+        "days_since_update": 0,
+        "language": "Python"
+      },
+      {
+        "name": "universal-driver",
+        "open_issues": 25,
+        "stars": 8,
+        "days_since_update": 0,
+        "language": "C"
+      },
+      {
+        "name": "snowflake-connector-python",
+        "open_issues": 202,
+        "stars": 708,
+        "days_since_update": 0,
+        "language": "Python"
+      },
+      {
+        "name": "snowflake-jdbc",
+        "open_issues": 69,
+        "stars": 197,
+        "days_since_update": 1,
+        "language": "Java"
+      },
+      {
+        "name": "snowflake-cursor-plugin",
+        "open_issues": 0,
+        "stars": 3,
+        "days_since_update": 1,
+        "language": null
+      },
+      {
+        "name": "snowflake-kafka-connector",
+        "open_issues": 43,
+        "stars": 162,
+        "days_since_update": 1,
+        "language": "Java"
+      },
+      {
+        "name": "snowflake-connector-nodejs",
+        "open_issues": 28,
+        "stars": 139,
+        "days_since_update": 1,
+        "language": "JavaScript"
+      },
+      {
+        "name": "snowflake-cli",
+        "open_issues": 130,
+        "stars": 234,
+        "days_since_update": 1,
+        "language": "Python"
+      }
+    ]
+  },
+  "financials": [],
+  "layoffs": [
+    {
+      "company_name": "Snowflake",
+      "date": "Thu, 02 Mar 2023 08:00:00 GMT",
+      "headcount": null,
+      "percentage": null,
+      "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQT0hJYzg0WUE5ekJWQ0tzZlRyejhsME5CYzhGT0ppYXpTb3NhV1FyQk5yOTVhRmU2clJ2a09oUjdpQUFKUXc0Z3RJTEdzaEFiakF3dXFhY2tFTkFpVGlyeGxMU3htanVHLW5FTEZGYWNmdzA1T21CMUJyLVppOVFDSDFrZVZEaUhkQm9qZE5zWkJkcHk4bjN0Z19ESWE?oc=5",
+      "headline": "Tired of Tech Layoffs? Snowflake Goes the Opposite Direction - Channel Futures"
+    }
+  ],
+  "funding": [
+    {
+      "company_name": "Snowflake",
+      "round_type": "Venture",
+      "amount_usd": null,
+      "date": "Thu, 18 Dec 2025 08:00:00 GMT",
+      "investors": [],
+      "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPc1VERjFlN0VxTVg0YkJIaGZMeTh4ZVlueXllNHMtdWVNdHNIdjV5cExSVnN6RlM4bHNoRVBkZW1oWVpJRWdXRFdlWnBKS1ZteU11dDMybmdQblREMEFVQVNZOEtya0FURDlFU184eVdEYllFako0Y0UtVXpEbnpKQ0dQM3E0ZVA2MmJROXlMSjc3dw?oc=5",
+      "headline": "AtScale raises funding round led by Snowflake Ventures - SiliconANGLE"
+    },
+    {
+      "company_name": "Snowflake",
+      "round_type": "Unknown",
+      "amount_usd": 134000000000.0,
+      "date": "Tue, 16 Dec 2025 08:00:00 GMT",
+      "investors": [],
+      "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQTmM5NjFkUl9RLWxFSHJ4QkpQRzFsOGwzLVRibjNnTHBFWTlFTUhIcjFwUUg2VnlFcEg0eUk4Z2tIU291SUY3VnVXWk01Tmh6N1Y3Qng0SUJiSnh4dlBjZXBPcFcwc0VmUi1VeDVrMnBKN29iSy1xdjktcVRQMGxlRVhZQkE0MnhWaElEbzNZSGlDel9DVXMyYVNfYXM?oc=5",
+      "headline": "Snowflake Rival Databricks Raising New Funds At $134 Billion Valuation For AI Startup - Investor's Business Daily"
+    },
+    {
+      "company_name": "Snowflake",
+      "round_type": "Unknown",
+      "amount_usd": null,
+      "date": "Thu, 11 Dec 2025 08:00:00 GMT",
+      "investors": [],
+      "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQdS1ITmdTck1NVUdJeXl6eW10Q0gwazNaWTBfU21QRExfY19lb2FjdllFZmxRVmtyYlk4LUxPSFhKNndBc3c1dXJoTGdIV1gxSE8zN19JZXJWaGdJdWN6Q2ZTYXVINzdwSEVDQ29GdUNnajMzSnExUW5IeEVjeGlJX2VrRi1DeWZtVmhNaUtxOEZFZ1BDX0s5WldDRzcwZGFDcnc?oc=5",
+      "headline": "Exclusive: RelationalAI gets investment from Snowflake, AT&T - Axios"
+    },
+    {
+      "company_name": "Snowflake",
+      "round_type": "Unknown",
+      "amount_usd": 110000000.0,
+      "date": "Tue, 22 Jul 2025 07:00:00 GMT",
+      "investors": [],
+      "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSUJNUFFEckFHRERkSlFQdE9iSDdLalgtbkFxSFlyQlNEWmlvSVhjVHozbWl1bmMxa3pXSFFYVG5Zb0x6MEZSUFBBUXFmbXJCSE1DVkRKT0NaQkNWV1VFNngxbjhObFBxQzFzdjduQmdTQjJnU3JrbTNjSUtKWXR1blREclk2VEhUZ2RLZ19SaUZ6eURKWGtpQ1BpNE9WbGwzbk4tRXpLVUxOejVhX0FqSXhB?oc=5",
+      "headline": "Snowflake, Nvidia Back New Unicorn Reka AI in $110 Million Deal - Bloomberg.com"
+    },
+    {
+      "company_name": "Snowflake",
+      "round_type": "Unknown",
+      "amount_usd": 134000000000.0,
+      "date": "Tue, 16 Dec 2025 08:00:00 GMT",
+      "investors": [],
+      "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNTmZrNEQta0xwRENlWU5IUmlGSTdudzBxTFJfc3lVYzRDZjJtazYza2hCM0t3N0xOd25jbDZYbG1pM0M4ZlRRX0pPR09rcWFwTzBiSno4SF9fY0ltM2t1cmY2bkR4VVhlakxNNVg1OFB5SWFQT1p3cVNhQnhxd1Zxd1l0cHhUTFFzSzByZlpqd2pUOTBsYlBYZjRVc2N3c0hoWnFZdUcwWm1TVUkwR2c?oc=5",
+      "headline": "Snowflake, Oracle Rival Databricks Hits $134B Valuation on Fresh Raise - TipRanks"
+    },
+    {
+      "company_name": "Snowflake",
+      "round_type": "Unknown",
+      "amount_usd": 100000000000.0,
+      "date": "Tue, 19 Aug 2025 07:00:00 GMT",
+      "investors": [],
+      "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNbW05cHA4TWJqMlFscHFJRUhiZWREM1Q4Mk5zU0lJOVNQMDl3Sy1tYUxPQk5FU05GWWtmVVFUTVVEQV9SaFRKUjBXeFdDMEVXTGdlSVJ0NEdFYnpaNnU4ZDkxbEtIRU54MHBudmZndTBNZ0d0RXk1STdYd004ZVl5ZDlzNEpBb2NDNC1jeU9NRWlEMGNGemQyNkpiam9kckZ1UTJpTzZB?oc=5",
+      "headline": "Snowflake Rival Databricks Raising More Funds At $100 Billion Valuation - Investor's Business Daily"
+    },
+    {
+      "company_name": "Snowflake",
+      "round_type": "Unknown",
+      "amount_usd": 6000000000.0,
+      "date": "Fri, 09 May 2025 07:00:00 GMT",
+      "investors": [],
+      "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQb2wtMWIyWHpHazh6V2h4TGtlN2dfWDc4Zm9rMHNTQlptUHVBN0o3VFRudXdsdHlYQ1RLNXpsODVZOVZ3M1pIVkZ2M0NNTm1JOXdSLXI0TklFemgyT1ZKUzloU1R6NWNaWkhEV2hQUUkwTkhMS3JaeXpWVzZVcm9qUkpYUUZvYjg2MGhvb2dXa21pRDZnTWZkYUF5ZUVOOFEx?oc=5",
+      "headline": "Snowflake Challenger ClickHouse Targets $6 Billion Valuation - The Information"
+    },
+    {
+      "company_name": "Snowflake",
+      "round_type": "IPO",
+      "amount_usd": 3800000000.0,
+      "date": "Thu, 17 Sep 2020 07:00:00 GMT",
+      "investors": [],
+      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNOFdyX3FsbFpQYkxjdUQ0Q2pNRHVNRDYxTFVlT2hSZlViajlOZEI0QXVCUDg5UUFhbUtaWGhzdUxteEdWZlhpcFdoZ3F2aXpqb1hUbTRhbl9rSHZ4bjgxdnJwTE92dHo1ZklRZHRNa01fN2Q2M1g2STdKTG9QbUlxSTVPRnZfTUtLdS1XSGo5TF96MVpGTjdyYnIwZGFxU3pabkFqZFBnZk1kVUxHWDllUV9VdmhSZDlNY3p6eW52UXYxdjI30gHKAUFVX3lxTE4xXy1TWXVzS1hJT3JqTW55ZFRPLUtoZnROY3BkaUlianU5M0ptV2U2Z3Y4NUw5MEdpRlNYQXBQZ2FHMlJNakVvQTBINF9BZEc5d0NhVkpydWo1RUpJWW9Oa2pmWVY4UDg0b0I1WHBESUIzangxQ2l1VDJNb00wTVJyOXVjQmdzLXF6bVE2Uy1Gcm1BRmRWcGVLd3RTZFlpTE85M3pKVm5ZVTRxSll4T1hVWFlXTVBlRl95VXZSd04wQzc1elJKaldMWEE?oc=5",
+      "headline": "Snowflake's first-day pop means IPO left $3.8 billion on the table, the most in 12 years - CNBC"
+    },
+    {
+      "company_name": "Snowflake",
+      "round_type": "Unknown",
+      "amount_usd": 130000000000.0,
+      "date": "Mon, 17 Nov 2025 08:00:00 GMT",
+      "investors": [],
+      "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNR3M1YkFPRXdqSXZ0TDdUeGZWaDRUYmFMbnJQMjB6bjlMN2twQnA2eGRwSUFNSnJZOXJCajd1b0d0REdrd182UV84ZDFfXzQ4RnJLa0wzaHdoSDNHUzRadkRfd0RhaEJJSkIwbzhkd0g3Wjc1T1RpSnRRRDZjUzRTcm94M0JvVGxNY0Q3LUVHLVQ5eHgtRF9hODlWTDl4QTUza3hHbzdVbzZEQTQ?oc=5",
+      "headline": "Snowflake, Oracle Rival Databricks Eyes $130B Valuation in Latest Funding Round - TipRanks"
+    },
+    {
+      "company_name": "Snowflake",
+      "round_type": "Unknown",
+      "amount_usd": 100000000000.0,
+      "date": "Thu, 21 Aug 2025 07:00:00 GMT",
+      "investors": [],
+      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQc1dsREtRWm1VeXJ3Tkw0NmdZV2VRTFJQckhIRUFuSHZac0dwQjgzUFZKSDhUbWlJejJ4QkxuUzA2dV94SUt4SFB2TUpVM2VxMktON1kwTVd4d0xPT3hlRHdMQXY2cl93eDJJNUZYMGVpeTVNcVE3ckhWQkZFZ3hCYW9RQ09DbnBiQTBibHpISkhCVUpYUldFZ3hwMGcyakZRRjc0?oc=5",
+      "headline": "Snowflake CEO Downplays Databricks\u2019 $100 Billion Valuation - The Information"
+    }
+  ],
+  "press_releases": [
+    {
+      "company_name": "Snowflake",
+      "title": "Operationalizing AI Agents at Scale in Financial Services",
+      "content": "Learn how FSI is moving beyond siloed AI models. Operationalize governed, autonomous AI agents for risk, compliance and claims with Snowflake Intelligence.",
+      "published_date": "Fri, 20 Feb 2026 09:00:02 -0800",
+      "source_url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/Operationalizing-ai-agents-financial-services",
+      "pivot_signals": [
+        "agent"
+      ]
+    },
+    {
+      "company_name": "Snowflake",
+      "title": "Startup Spotlight: DDI",
+      "content": "Founder Andrew Carruthers shares how prebuilt tool kits and best practices speed secure, compliant app development directly inside customers\u2019 Snowflake environment.",
+      "published_date": "Thu, 19 Feb 2026 12:30:08 -0800",
+      "source_url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/startup-spotlight-ddi",
+      "pivot_signals": []
+    },
+    {
+      "company_name": "Snowflake",
+      "title": "Apache Polaris Graduates to Top-Level Project",
+      "content": "Apache Polaris graduates to an Apache Software Foundation Top-Level Project, advancing open lakehouse interoperability and strengthening Snowflake\u2019s open source commitment",
+      "published_date": "Thu, 19 Feb 2026 09:44:00 -0800",
+      "source_url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/apache-polaris-top-level-project",
+      "pivot_signals": []
+    },
+    {
+      "company_name": "Snowflake",
+      "title": "Startup Spotlight: Streamkap Powers Real-Time Data for the AI Era",
+      "content": "Streamkap simplifies real-time streaming into Snowflake so teams can build low-latency apps and insights without heavy ops - reliable pipelines, lower overhead.",
+      "published_date": "Wed, 18 Feb 2026 10:54:00 -0800",
+      "source_url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/startup-spotlight-streamkap",
+      "pivot_signals": []
+    },
+    {
+      "company_name": "Snowflake",
+      "title": "Announcing Anthropic Claude Sonnet 4.6 on Snowflake Cortex AI",
+      "content": "Claude Sonnet 4.6 is now on Snowflake Cortex AI. Get Anthropic's most capable model with advanced reasoning and agentic capabilities on Snowflake\u2019s secure, governed platform.",
+      "published_date": "Tue, 17 Feb 2026 09:42:27 -0800",
+      "source_url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/claude-sonnet-4-6-snowflake-cortex-ai",
+      "pivot_signals": [
+        "agentic",
+        "agent"
+      ]
+    },
+    {
+      "company_name": "Snowflake",
+      "title": "From Pilot to 6,000 Users: How to Scale Enterprise AI Agents",
+      "content": "A practical guide to scaling enterprise AI agents, from MVP to 6,000 users, with lessons on rollout, trust and measurable impact",
+      "published_date": "Mon, 16 Feb 2026 07:48:51 -0800",
+      "source_url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/scale-enterprise-agents",
+      "pivot_signals": [
+        "agent"
+      ]
+    },
+    {
+      "company_name": "Snowflake",
+      "title": "AI In Shopping: Implications and a Roadmap for Consumer Goods Leaders",
+      "content": "AI-enabled shopping is reshaping how consumers buy products. Learn the key implications for CPG companies-and the roadmap leaders need to create value in the new era",
+      "published_date": "Thu, 12 Feb 2026 09:30:00 -0800",
+      "source_url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/ai-shopping-consumer-goods-roadmap",
+      "pivot_signals": []
+    },
+    {
+      "company_name": "Snowflake",
+      "title": "2026 Manufacturing Predictions: The Modern Data Estate & AI",
+      "content": "Explore 2026 manufacturing predictions on the modern data estate-how AI is breaking down data siloes to improve supply chains, operations, and decision-making.",
+      "published_date": "Thu, 12 Feb 2026 09:00:00 -0800",
+      "source_url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/manufacturing-predictions-data-estate-2026",
+      "pivot_signals": []
+    },
+    {
+      "company_name": "Snowflake",
+      "title": "How Snowflake Intelligence Transforms Media & Entertainment Insights",
+      "content": "How media and entertainment companies use Snowflake Intelligence to unify data and institutional knowledge, and deliver trusted, enterprise-ready insights.",
+      "published_date": "Thu, 12 Feb 2026 08:00:00 -0800",
+      "source_url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/media-entertainment-unified-intelligence",
+      "pivot_signals": [
+        "transform"
+      ]
+    },
+    {
+      "company_name": "Snowflake",
+      "title": "How Data and AI Are Reshaping Every Career",
+      "content": "AI isn\u2019t just changing jobs - it\u2019s reshaping skills, workflows and careers. Learn what\u2019s changing, what is being automated, and how to stay relevant.",
+      "published_date": "Wed, 11 Feb 2026 09:28:29 -0800",
+      "source_url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/how-data-ai-reshaping-careers",
+      "pivot_signals": []
+    },
+    {
+      "company_name": "Snowflake",
+      "title": "AI in Healthcare: 3 Predictions for 2026",
+      "content": "Discover the 3 strategic shifts that will define the future of AI in healthcare: governed agentic AI, data interoperability and data as a strategic asset for measurable ROI in 2026.",
+      "published_date": "Wed, 11 Feb 2026 09:00:00 -0800",
+      "source_url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/ai-in-healthcare",
+      "pivot_signals": [
+        "strategic shift",
+        "agentic",
+        "agent"
+      ]
+    },
+    {
+      "company_name": "Snowflake",
+      "title": "What\u2019s New in SnowConvert AI: February 2026",
+      "content": "SnowConvert AI accelerates data migrations with new features like Generally Available AI-Powered Code Conversion, two-sided verification, direct Iceberg table conversion, and SSIS to dbt support. Move to Snowflake with less risk.",
+      "published_date": "Mon, 09 Feb 2026 16:45:41 -0800",
+      "source_url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/snowconvert-ai-new-features-feb-2026",
+      "pivot_signals": []
+    },
+    {
+      "company_name": "Snowflake",
+      "title": "Snowflake Ventures Invests in Pliable to Bring AI-Ready Analytics to Millions of SMBs",
+      "content": "Snowflake Ventures announces investment in Pilable, expanding access to AI-ready, governed analytics for millions of small and midsize business built on Snowflake",
+      "published_date": "Mon, 09 Feb 2026 10:38:38 -0800",
+      "source_url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/pliable-ai-analytics-smbs",
+      "pivot_signals": [
+        "announce"
+      ]
+    },
+    {
+      "company_name": "Snowflake",
+      "title": "Startup 2026: Venture Leaders Weigh in on Agentic AI",
+      "content": "Eight leading investors share how agentic AI is reshaping startups in 2026, from experimentation to real ROI, measurable outcomes, and enterprise adoption.",
+      "published_date": "Mon, 09 Feb 2026 09:00:00 -0800",
+      "source_url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/startup-2026-venture-leaders-insights",
+      "pivot_signals": [
+        "agentic",
+        "agent"
+      ]
+    },
+    {
+      "company_name": "Snowflake",
+      "title": "Announcing Claude Opus 4.6 on Snowflake Cortex AI",
+      "content": "Claude Opus 4.6 is now available on Snowflake Cortex AI, bringing advanced reasoning and agentic capabilities with Snowflake\u2019s secure governed AI platform",
+      "published_date": "Thu, 05 Feb 2026 11:30:42 -0800",
+      "source_url": "https://www.snowflake.com/content/snowflake-site/global/en/blog/claude-opus-4-6-snowflake-cortex-ai",
+      "pivot_signals": [
+        "agentic",
+        "agent"
+      ]
+    }
+  ],
+  "fiscal_pressure": {
+    "fiscal_pressure_score": 1,
+    "fiscal_pressure_label": "Minimal",
+    "signals": [
+      "1 layoff event(s): ['Tired of Tech Layoffs? Snowflake Goes the Opposite Direction']",
+      "Recent funding: Snowflake Rival Databricks Raising New Funds At $134 Billion"
+    ]
+  },
+  "technical_debt": {
+    "score": 5,
+    "label": "Medium",
+    "signals": [
+      "Modernisation hiring: ['pipeline', 'refactor', 'ETL', 'migration', 'legacy']"
+    ]
+  },
+  "recent_pivot": {
+    "score": 8,
+    "label": "Critical",
+    "signals": [
+      "Press signals: ['agent', 'strategic shift', 'announce', 'transform', 'agentic']",
+      "Hiring pivot: ['SaaS', 'data platform', 'AI', 'platform engineering', 'RAG']"
+    ]
+  },
+  "opportunity_score": 4.7,
+  "llm_ready_summary": {
+    "company_name": "Snowflake",
+    "fiscal_pressure_score": 1,
+    "fiscal_signals": [
+      "1 layoff event(s): ['Tired of Tech Layoffs? Snowflake Goes the Opposite Direction']",
+      "Recent funding: Snowflake Rival Databricks Raising New Funds At $134 Billion"
+    ],
+    "technical_debt_score": 5,
+    "debt_signals": [
+      "Modernisation hiring: ['pipeline', 'refactor', 'ETL', 'migration', 'legacy']"
+    ],
+    "recent_pivot": [
+      "Press signals: ['agent', 'strategic shift', 'announce', 'transform', 'agentic']",
+      "Hiring pivot: ['SaaS', 'data platform', 'AI', 'platform engineering', 'RAG']"
+    ],
+    "pivot_score": 8,
+    "funding_status": "AtScale raises funding round led by Snowflake Ventures - SiliconANGLE",
+    "trigger_signals": [
+      "Tired of Tech Layoffs? Snowflake Goes the Opposite Direction - Channel Futures",
+      "Operationalizing AI Agents at Scale in Financial Services",
+      "Announcing Anthropic Claude Sonnet 4.6 on Snowflake Cortex AI",
+      "From Pilot to 6,000 Users: How to Scale Enterprise AI Agents",
+      "How Snowflake Intelligence Transforms Media & Entertainment Insights"
+    ],
+    "revenue_trend": "public",
+    "trigger_recency_days": 30,
+    "total_jobs_posted": 30,
+    "top_hiring_dept": [
+      "Engineering",
+      "Solution Engineering",
+      "Product Management"
+    ],
+    "pivot_hiring_keywords": [
+      "SaaS",
+      "data platform",
+      "AI",
+      "platform engineering",
+      "RAG"
+    ],
+    "github_debt_score": 3,
+    "opportunity_score": 4.7
+  }
+}

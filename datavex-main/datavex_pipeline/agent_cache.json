@@ -1,0 +1,11 @@
+{
+  "TestCo": {
+    "timestamp": "2026-02-22T04:30:37.005686+00:00",
+    "sources": {
+      "agent6.lead_service": "rules"
+    },
+    "agent6": {
+      "lead_service": "Technical Advisory"
+    }
+  }
+}

@@ -1,0 +1,996 @@
+{
+  "Fractal Analytics": {
+    "signals": {
+      "careers": [
+        {
+          "text": "Fractal Analytics is actively hiring for Software Engineer (Backend, Fullstack React), Data Engineer (Azure), GCP Engineer, Kafka Engineer, Automation Test Engineer, Gen AI Data Scientist. Hiring across Mumbai, Pune, Chennai, Bengaluru, Gurgaon, and New York.",
+          "source": "careers",
+          "recency_days": 15
+        },
+        {
+          "text": "Fractal launched Gen AI Data Scientist Hiring Challenge 2025 for professionals with 2+ years experience \u2014 MCQ + ML question round, direct interviews for top performers.",
+          "source": "careers",
+          "recency_days": 30
+        },
+        {
+          "text": "Imagineer (Hiring Women in Tech) program targeting 2025 graduates. Compensation for B.Tech/MCA: INR 22 LPA over 3 years, starting at INR 6 LPA + INR 1 Lakh joining bonus.",
+          "source": "careers",
+          "recency_days": 45
+        }
+      ],
+      "news": [
+        {
+          "text": "Fractal Analytics raised $170 million in July 2025 through secondary share sale, valued at $2.44 billion. 22 investors participated, Apax Partners partially divested. Total funding: $855 million.",
+          "source": "news",
+          "recency_days": 10
+        },
+        {
+          "text": "Fractal filed for IPO in August 2025 aiming to raise Rs 4,900 crore ($560M) at $3.5B+ valuation. IPO debuted Feb 2026 at $1.6B listing valuation.",
+          "source": "news",
+          "recency_days": 30
+        },
+        {
+          "text": "Revenue grew 25.9% to Rs 2,765 crore in FY25. Net profit Rs 220 crore, turnaround from loss in previous year. EBITDAM targeting 20%+ from 13% in FY25.",
+          "source": "news",
+          "recency_days": 20
+        },
+        {
+          "text": "Fractal invested $20M in Asper.ai (AI platform for consumer goods/manufacturing) in March 2025.",
+          "source": "news",
+          "recency_days": 60
+        }
+      ],
+      "tech_stack": [
+        {
+          "text": "Fractal recognized as 'Leader' in Forrester Wave Customer Analytics Services Q2 2025. Partners with Microsoft (Azure OpenAI, Copilot, Cloud for Retail), OpenAI (Solutions Partner), NVIDIA, AWS (Premier Tier), and Databricks.",
+          "source": "tech_stack",
+          "recency_days": 15
+        },
+        {
+          "text": "Won Retail & Consumer Goods 2025 Microsoft Partner of the Year Award. Heavy adoption of Azure OpenAI Service, Microsoft Copilot. Powers data-driven decisions for Fortune 500 companies.",
+          "source": "tech_stack",
+          "recency_days": 30
+        }
+      ],
+      "blog": [
+        {
+          "text": "Fractal operates through two segments: Fractal.ai (AI services/products) and Fractal Alpha (independent AI ventures). Client base includes Microsoft, Apple, Nvidia, Alphabet, Amazon, Meta, Tesla.",
+          "source": "blog",
+          "recency_days": 20
+        }
+      ]
+    },
+    "decision_makers": [
+      {
+        "name": "Srikanth Velamakanni",
+        "role": "Group Chief Executive & Co-Founder",
+        "source": "linkedin: fractal.ai/leadership",
+        "raw_title": "Group Chief Executive and Executive Vice-Chairman, co-founded Fractal in 2000. CEO from 2000-2019."
+      },
+      {
+        "name": "Pranay Agrawal",
+        "role": "CEO",
+        "source": "linkedin: linkedin.com/in/pranayfractal",
+        "raw_title": "Non-Executive Director and Chief Executive Officer for Fractal USA, appointed CEO in 2016."
+      },
+      {
+        "name": "Shashidhar Ramakrishnaiah",
+        "role": "CTO",
+        "source": "linkedin: linkedin.com/in/shashidhar-ramakrishnaiah",
+        "raw_title": "Chief Technology Officer at Fractal Analytics."
+      },
+      {
+        "name": "Ajoy Singh",
+        "role": "Chief AI Officer",
+        "source": "fractal.ai/leadership",
+        "raw_title": "Chief AI Officer at Fractal Analytics."
+      }
+    ]
+  },
+  "Databricks": {
+    "signals": {
+      "careers": [
+        {
+          "text": "Databricks workforce reached 9,000 employees in 2025. Actively hiring Software Engineer, Data Engineer, Platform Engineer, Solution Architect roles. Also hiring Software Engineer - New Grad 2025.",
+          "source": "careers",
+          "recency_days": 10
+        },
+        {
+          "text": "Tech stack: Python, SQL, Scala, Java, C++, R, JavaScript, TypeScript. Requires Apache Spark, Delta Lake, Unity Catalog, Kubernetes, Docker, Terraform, Jenkins, MLflow.",
+          "source": "careers",
+          "recency_days": 15
+        },
+        {
+          "text": "Solution Architect roles specialize in data engineering, data science, cloud platforms, and security. Interview process includes technical coding, architectural, and executive interviews.",
+          "source": "careers",
+          "recency_days": 30
+        }
+      ],
+      "news": [
+        {
+          "text": "Databricks closed $1 billion Series K (Sep 2025) at $100B+ valuation, led by Andreessen Horowitz, Insight Partners, MGX, Thrive Capital. For AI strategy, Agent Bricks, Lakebase, AI acquisitions.",
+          "source": "news",
+          "recency_days": 5
+        },
+        {
+          "text": "Databricks raising Series L of $4 billion+ (Dec 2025) at $134 billion valuation. Revenue run-rate exceeding $4.8B in Q3 2025, 55%+ YoY growth. Positive free cash flow.",
+          "source": "news",
+          "recency_days": 10
+        },
+        {
+          "text": "Strategic partnerships in 2025: Anthropic ($100M 5-year deal, March), Google Cloud/Gemini (4-year deal, June), NTT DATA ($200M target), Kyndryl global alliance (June). Accenture/Avanade 7th consecutive Global Partner of the Year.",
+          "source": "news",
+          "recency_days": 15
+        },
+        {
+          "text": "Launched Agent Bricks (AI agent development platform), Lakebase (transactional database), and Databricks One (no-code AI BI platform) at 2025 Data + AI Summit.",
+          "source": "news",
+          "recency_days": 20
+        }
+      ],
+      "tech_stack": [
+        {
+          "text": "Core: Lakehouse architecture unifying data lakes + warehouses. Built on Apache Spark. Delta Lake for ACID transactions. Unity Catalog as data governance 'operating system'. MLflow for ML lifecycle.",
+          "source": "tech_stack",
+          "recency_days": 5
+        },
+        {
+          "text": "2025 stack: Python, SQL, PySpark essential. ETL: Medallion Architecture, Apache Airflow, Fivetran, dbt. Cloud: AWS, Azure, GCP. New: Agent Bricks, Lakebase, Databricks Apps, embedded GenAI.",
+          "source": "tech_stack",
+          "recency_days": 10
+        }
+      ],
+      "blog": [
+        {
+          "text": "2025 vision: 'Data Intelligence Platform' \u2014 embedding Generative AI into workflows, Unity Catalog central governance. Data Warehousing and AI products each exceed $1B revenue run-rate.",
+          "source": "blog",
+          "recency_days": 15
+        }
+      ]
+    },
+    "decision_makers": [
+      {
+        "name": "Ali Ghodsi",
+        "role": "CEO & Co-Founder",
+        "source": "linkedin: linkedin.com/in/alighodsi",
+        "raw_title": "CEO and co-founder of Databricks. Previously VP of Engineering and Product Management. Became CEO in 2016."
+      },
+      {
+        "name": "Matei Zaharia",
+        "role": "CTO & Co-Founder",
+        "source": "linkedin: linkedin.com/in/mateizaharia",
+        "raw_title": "CTO and co-founder. Founded Apache Spark in 2009 at UC Berkeley PhD. Leads tech/research roadmap, core platform: Spark, Delta Lake, MLflow."
+      },
+      {
+        "name": "Ion Stoica",
+        "role": "Executive Chairman & Co-Founder",
+        "source": "linkedin: databricks.com/company/leadership",
+        "raw_title": "Executive Chairman, co-founder. Strategic oversight on M&A and R&D priorities."
+      },
+      {
+        "name": "Patrick Wendell",
+        "role": "SVP Engineering & Co-Founder",
+        "source": "databricks.com/company/leadership",
+        "raw_title": "Co-founder and SVP Engineering at Databricks."
+      }
+    ]
+  },
+  "MindsDB": {
+    "signals": {
+      "careers": [
+        {
+          "text": "MindsDB actively hiring \u2014 seeking passionate ML engineers. Benefits: unlimited PTO, remote work setup budget, company offsites, personal development budget. Expanding team with Series C funding.",
+          "source": "careers",
+          "recency_days": 20
+        },
+        {
+          "text": "Key roles include ML Engineer, Data Engineer, Backend Engineer, DevOps. Focus on building AI-in-database technology. Team is fully remote.",
+          "source": "careers",
+          "recency_days": 30
+        }
+      ],
+      "news": [
+        {
+          "text": "MindsDB closed $47M Series C (Oct 2025) at $150M valuation, led by Benchmark and Mayfield. Funds for scaling ops, expanding team, enhancing products, new features, market presence.",
+          "source": "news",
+          "recency_days": 5
+        },
+        {
+          "text": "MindsDB declared full support for Model Context Protocol (MCP) across open-source and enterprise platforms (April 2025) \u2014 becoming a unified AI data hub standardizing AI model access to enterprise data.",
+          "source": "news",
+          "recency_days": 45
+        },
+        {
+          "text": "Strategic partnerships: aiComply + NavigateCyber for Federal ATO (Nov 2025), Google collaboration for MCP Toolbox (Nov 2025), Oracle + Salesforce integrations (Oct 2025).",
+          "source": "news",
+          "recency_days": 15
+        },
+        {
+          "text": "Intelligent Protection Management Corp signed AI Reseller Agreement with MindsDB (Sep 2025). Y Combinator backed. Open-source AI-in-database platform.",
+          "source": "news",
+          "recency_days": 30
+        }
+      ],
+      "tech_stack": [
+        {
+          "text": "Core tech: AI-in-database platform \u2014 brings ML directly into databases. Supports MCP protocol for standardized AI model access. Open-source with enterprise tier. Integrations with Oracle, Salesforce, Google.",
+          "source": "tech_stack",
+          "recency_days": 10
+        },
+        {
+          "text": "Founded 2017, Y Combinator backed. Platform enables real-time predictions from existing databases without external ML pipelines. Python + SQL interface for ML.",
+          "source": "tech_stack",
+          "recency_days": 30
+        }
+      ],
+      "blog": [
+        {
+          "text": "MindsDB vision: democratize ML by making it accessible through SQL. No need for separate ML infrastructure \u2014 predictions happen inside your existing database.",
+          "source": "blog",
+          "recency_days": 30
+        }
+      ]
+    },
+    "decision_makers": [
+      {
+        "name": "Jorge Torres",
+        "role": "CEO & Co-Founder",
+        "source": "linkedin: linkedin.com/in/jorge-torres",
+        "raw_title": "Co-Founder and Chief Executive Officer at MindsDB. Founded 2017."
+      },
+      {
+        "name": "Adam Carrigan",
+        "role": "COO & Co-Founder",
+        "source": "linkedin: linkedin.com/in/adam-carrigan",
+        "raw_title": "Co-Founder and Chief Operating Officer at MindsDB."
+      },
+      {
+        "name": "Brad Gyger",
+        "role": "Chief Revenue Officer",
+        "source": "mindsdb.com/about",
+        "raw_title": "Chief Revenue Officer at MindsDB."
+      },
+      {
+        "name": "Sidney Rabsatt",
+        "role": "Chief Product Officer",
+        "source": "mindsdb.com/about",
+        "raw_title": "Chief Product Officer at MindsDB."
+      }
+    ]
+  },
+  "Cropin Technology": {
+    "meta": {
+      "industry": "Agri-tech / Precision Farming",
+      "size": "MID",
+      "estimated_employees": 450,
+      "region": "Bengaluru, India",
+      "founded": 2010,
+      "competitor": false
+    },
+    "signals": {
+      "funding": [
+        {
+          "text": "Cropin raised $30M Series B in 2021 led by Asia Impact (formerly BlueOrchard), with participation from Google and Cargill. Funds allocated to expanding AI platform SmartFarm and entering new geographies.",
+          "source": "TechCrunch / Cropin press release (2021)",
+          "recency_days": 730,
+          "verified": true,
+          "verification_source": "https://techcrunch.com/2021/01/27/cropin-raises-30-million-to-help-agri-businesses-use-ai/"
+        },
+        {
+          "text": "Cropin previously raised $8M Series A in 2019 from Chiratae Ventures, Beenext, and Qualcomm Ventures. Total funding approximately $38M.",
+          "source": "Crunchbase / Economic Times (2019)",
+          "recency_days": 1200,
+          "verified": true,
+          "verification_source": "Crunchbase profile \u2014 Cropin Technology"
+        }
+      ],
+      "careers": [
+        {
+          "text": "Cropin actively hiring for Data Engineer, AI/ML Platform Engineer, and IoT Systems Architect roles on LinkedIn (Q1 2026). Open positions in Bengaluru for building scalable agri-data pipelines.",
+          "source": "LinkedIn Jobs \u2014 Cropin Technology (verified Q1 2026)",
+          "recency_days": 30,
+          "verified": true,
+          "verification_source": "LinkedIn Jobs search: site:linkedin.com/jobs Cropin Technology"
+        },
+        {
+          "text": "Cropin hiring Head of Data Science to lead precision farming analytics and predictive crop yield modeling. Bachelor's or Master's in CS/Statistics required, 10+ years experience.",
+          "source": "Cropin careers page (cropin.com/careers)",
+          "recency_days": 45,
+          "verified": true,
+          "verification_source": "cropin.com/careers"
+        }
+      ],
+      "product": [
+        {
+          "text": "Cropin's SmartFarm platform manages 17 million acres of farmland globally. SmartRisk module uses satellite imagery + ML to predict crop stress, disease, and yield deviation.",
+          "source": "Cropin.com product page (verified)",
+          "recency_days": 90,
+          "verified": true,
+          "verification_source": "cropin.com/platform"
+        },
+        {
+          "text": "Cropin launched Knowledge Graph in 2024 \u2014 world's first agriculture-specific AI knowledge graph covering 500+ crops, 10,000+ crop varieties, trained on 7 years of on-field data.",
+          "source": "Cropin press release / VentureBeat (2024)",
+          "recency_days": 180,
+          "verified": true,
+          "verification_source": "venturebeat.com \u2014 Cropin Knowledge Graph"
+        }
+      ],
+      "infra": [
+        {
+          "text": "Cropin's IoT sensor network generates 40+ data streams per farm plot (soil moisture, temperature, humidity, NDVI via satellite). Data pipeline processes terabytes monthly \u2014 strain on ingestion and processing infra.",
+          "source": "Cropin technical whitepaper (2023, available on website)",
+          "recency_days": 270,
+          "verified": true,
+          "verification_source": "cropin.com/resources/whitepapers"
+        },
+        {
+          "text": "Cropin migrating workloads from AWS batch to streaming (Kafka-based) to handle real-time crop advisory at scale. Engineering blog mentions latency challenges in edge-to-cloud pipeline.",
+          "source": "Cropin engineering blog",
+          "recency_days": 120,
+          "verified": false,
+          "verification_source": "UNVERIFIED \u2014 mentioned in LinkedIn posts by Cropin engineers but blog post not publicly confirmed"
+        }
+      ],
+      "gtm": [
+        {
+          "text": "Cropin partnered with State Bank of India (SBI) to deploy credit-scoring model for 500,000+ smallholder farmers using crop yield prediction data.",
+          "source": "Economic Times (2023)",
+          "recency_days": 365,
+          "verified": true,
+          "verification_source": "economictimes.indiatimes.com \u2014 Cropin SBI partnership"
+        },
+        {
+          "text": "Cropin signed enterprise contract with Olam International (Singapore agri-commodities, $35B revenue) to deploy SmartFarm across 400,000 acres of cocoa and coffee plantations in West Africa.",
+          "source": "Cropin press release (2022)",
+          "recency_days": 800,
+          "verified": true,
+          "verification_source": "cropin.com/news/olam-partnership"
+        }
+      ]
+    },
+    "decision_makers": [
+      {
+        "name": "Krishna Kumar",
+        "role": "CEO & Co-Founder",
+        "source": "cropin.com/about / LinkedIn",
+        "raw_title": "Co-founder and CEO of Cropin Technology. Former Wipro. IIM Bangalore alumnus.",
+        "verified": true
+      },
+      {
+        "name": "Kunal Prasad",
+        "role": "COO & Co-Founder",
+        "source": "cropin.com/about / LinkedIn",
+        "raw_title": "Co-founder and COO. Handles go-to-market and enterprise partnerships.",
+        "verified": true
+      }
+    ]
+  },
+  "Bentley Systems": {
+    "meta": {
+      "industry": "Civil / Mechanical Engineering Software",
+      "size": "LARGE",
+      "estimated_employees": 5000,
+      "region": "Exton, PA, USA",
+      "founded": 1984,
+      "competitor": false
+    },
+    "signals": {
+      "funding": [
+        {
+          "text": "Bentley Systems (NASDAQ: BSY) went public via IPO in September 2020 at $17/share, raising $224M. Market cap currently ~$16B. Revenue for FY2024 was approximately $1.3B, up 10% YoY.",
+          "source": "Bentley Systems Investor Relations / SEC filings (2024 Annual Report)",
+          "recency_days": 90,
+          "verified": true,
+          "verification_source": "investor.bentley.com / SEC EDGAR filing"
+        },
+        {
+          "text": "Bentley acquired Cesium (3D geospatial platform) in 2025 to strengthen its digital twin infrastructure layer for civil engineering simulations.",
+          "source": "Bentley press release (2025)",
+          "recency_days": 120,
+          "verified": false,
+          "verification_source": "UNVERIFIED \u2014 reported by multiple engineering trade publications but acquisition details unconfirmed as of filing date"
+        }
+      ],
+      "careers": [
+        {
+          "text": "Bentley hiring AI/ML Research Engineers and Data Platform Engineers (50+ active LinkedIn roles, Q1 2026). Roles focus on AI for structural analysis, predictive maintenance, and civil simulation.",
+          "source": "LinkedIn Jobs \u2014 Bentley Systems (Q1 2026)",
+          "recency_days": 20,
+          "verified": true,
+          "verification_source": "LinkedIn Jobs: company/bentley-systems"
+        },
+        {
+          "text": "Bentley posted 12 Data Engineer and Analytics Engineer roles in Q4 2025, requiring experience with Azure Data Factory, Apache Spark, and Databricks for engineering data lakehouse.",
+          "source": "LinkedIn / Bentley careers (careers.bentley.com)",
+          "recency_days": 60,
+          "verified": true,
+          "verification_source": "careers.bentley.com"
+        }
+      ],
+      "product": [
+        {
+          "text": "Bentley launched iTwin platform for infrastructure digital twins \u2014 engineers can model entire city infrastructure (bridges, roads, utilities) in 4D simulations. 2024 version includes AI anomaly detection for structural health monitoring.",
+          "source": "Bentley Year in Infrastructure 2024 (annual conference keynote)",
+          "recency_days": 120,
+          "verified": true,
+          "verification_source": "bentley.com/en/year-in-infrastructure"
+        }
+      ],
+      "infra": [
+        {
+          "text": "Bentley's engineering simulation workloads require HPC-grade compute for finite element analysis (FEA). Data volumes from global infrastructure projects exceed 200TB per quarter \u2014 strain on data pipeline and model serving infra.",
+          "source": "Bentley technical whitepaper \u2014 Infrastructure Data Management (2024)",
+          "recency_days": 200,
+          "verified": true,
+          "verification_source": "bentley.com/resources/infrastructure-data-management-whitepaper"
+        },
+        {
+          "text": "Bentley's data engineering team posted internal job description mentioning 'scaling from batch to streaming for real-time infrastructure monitoring feeds' \u2014 clear infra expansion signal.",
+          "source": "Bentley job posting on LinkedIn (Q4 2025)",
+          "recency_days": 60,
+          "verified": true,
+          "verification_source": "LinkedIn job post by Bentley Systems"
+        }
+      ],
+      "gtm": [
+        {
+          "text": "Bentley signed multi-year enterprise agreement with UK National Highways to digitize 14,000+ km of road network using iTwin and AI-based asset management.",
+          "source": "Bentley press release (2024)",
+          "recency_days": 180,
+          "verified": true,
+          "verification_source": "bentley.com/news/uk-national-highways-digital-twin"
+        }
+      ]
+    },
+    "decision_makers": [
+      {
+        "name": "Greg Bentley",
+        "role": "CEO",
+        "source": "bentley.com/leadership / LinkedIn",
+        "raw_title": "CEO of Bentley Systems, co-founder. Harvard MBA. Public company CEO since 1991.",
+        "verified": true
+      },
+      {
+        "name": "David Sharpless",
+        "role": "Chief Technology Officer",
+        "source": "bentley.com/leadership",
+        "raw_title": "CTO responsible for AI platform, iTwin, and engineering data infrastructure.",
+        "verified": true
+      }
+    ]
+  },
+  "Dr. Reddy's Laboratories": {
+    "meta": {
+      "industry": "Pharmaceutical / Life Sciences",
+      "size": "LARGE",
+      "estimated_employees": 24000,
+      "region": "Hyderabad, India (NYSE: RDY)",
+      "founded": 1984,
+      "competitor": false
+    },
+    "signals": {
+      "funding": [
+        {
+          "text": "Dr. Reddy's reported FY2025 consolidated revenue of Rs 32,647 crore (~$3.9B), growth of 16% YoY. Net profit Rs 5,601 crore. Company investing heavily in digital transformation and AI drug discovery.",
+          "source": "Dr. Reddy's Laboratories FY2025 Annual Report / BSE filing",
+          "recency_days": 60,
+          "verified": true,
+          "verification_source": "drreddys.com/investors/annual-reports"
+        }
+      ],
+      "careers": [
+        {
+          "text": "Dr. Reddy's posted 40+ Data Science and AI/ML roles in Q4 2025\u2013Q1 2026 on LinkedIn. Roles include: Director of AI/ML Platform, Senior NLP Engineer (regulatory document parsing), Data Engineer (manufacturing analytics).",
+          "source": "LinkedIn Jobs \u2014 Dr. Reddy's Laboratories (Q1 2026)",
+          "recency_days": 25,
+          "verified": true,
+          "verification_source": "linkedin.com/company/dr-reddy-s-laboratories/jobs"
+        },
+        {
+          "text": "Dr. Reddy's Digital Analytics team (Hyderabad CoE) actively hiring for Azure ML, Databricks, and Python-based data platform roles. Team scaled from 20 to 80 engineers in 18 months.",
+          "source": "LinkedIn / Economic Times (April 2025)",
+          "recency_days": 90,
+          "verified": true,
+          "verification_source": "economictimes.indiatimes.com \u2014 Dr. Reddy's digital analytics COE"
+        }
+      ],
+      "product": [
+        {
+          "text": "Dr. Reddy's launched 'Sparsh' AI assistant for medical representatives \u2014 uses NLP and CRM data to personalize physician outreach recommendations. Deployed to 5,000+ sales reps across India.",
+          "source": "Dr. Reddy's press release / FiercePharma (2024)",
+          "recency_days": 150,
+          "verified": true,
+          "verification_source": "fiercepharma.com \u2014 Dr. Reddy's AI Sparsh"
+        },
+        {
+          "text": "Dr. Reddy's partnered with Bayer to co-develop AI models for crop science and agriculture pharma crossover \u2014 supply chain and drug analytics pipeline.",
+          "source": "Dr. Reddy's press release (2024)",
+          "recency_days": 200,
+          "verified": false,
+          "verification_source": "UNVERIFIED \u2014 mentioned in investor call transcript summary, exact details not publicly confirmed"
+        }
+      ],
+      "infra": [
+        {
+          "text": "Dr. Reddy's IT restructuring in 2024\u20132025 migrated core ERP from SAP on-premise to Azure cloud. Data lakes being built for clinical trial data, pharmacovigilance, and manufacturing quality control.",
+          "source": "Economic Times / Dr. Reddy's IT leadership LinkedIn posts (2024)",
+          "recency_days": 120,
+          "verified": true,
+          "verification_source": "economictimes.indiatimes.com"
+        },
+        {
+          "text": "CTO of Dr. Reddy's mentioned in a YourStory interview (2025) that their data engineering team is 'scaling ML infra to handle real-time manufacturing quality signals and batch genomics pipelines simultaneously.'",
+          "source": "YourStory interview with Dr. Reddy's CTO (2025)",
+          "recency_days": 90,
+          "verified": false,
+          "verification_source": "UNVERIFIED \u2014 interview summary available on YourStory paywalled; quote paraphrased from LinkedIn summary post"
+        }
+      ],
+      "gtm": [
+        {
+          "text": "Dr. Reddy's expanded US generics market share in 2024: filed 82 ANDAs (abbreviated new drug applications), received 55 approvals. US business now 43% of total revenue.",
+          "source": "Dr. Reddy's Q3 FY2025 Investor Call transcript (BSE filing)",
+          "recency_days": 60,
+          "verified": true,
+          "verification_source": "bseindia.com \u2014 Dr. Reddys Q3FY25 results investor presentation"
+        }
+      ]
+    },
+    "decision_makers": [
+      {
+        "name": "Erez Israeli",
+        "role": "CEO",
+        "source": "drreddys.com/leadership / LinkedIn",
+        "raw_title": "CEO of Dr. Reddy's Laboratories since 2019. Leads global business strategy and digital transformation.",
+        "verified": true
+      },
+      {
+        "name": "Kartik Mehta",
+        "role": "Chief Digital Officer",
+        "source": "drreddys.com/leadership",
+        "raw_title": "Chief Digital Officer overseeing AI/ML platform, data engineering, and digital health initiatives.",
+        "verified": false,
+        "verification_source": "UNVERIFIED \u2014 role title unconfirmed on public profiles; based on LinkedIn search"
+      }
+    ]
+  },
+  "Clari": {
+    "meta": {
+      "industry": "AI Revenue Intelligence / Sales Analytics",
+      "size": "MID",
+      "estimated_employees": 750,
+      "region": "Sunnyvale, CA, USA",
+      "founded": 2012,
+      "competitor": true,
+      "competitor_note": "\u26a0\ufe0f Potential Competitor \u2014 Not a Target Client. Clari builds AI-powered revenue operations and sales signal intelligence \u2014 directly overlapping with Datavex's core offering."
+    },
+    "signals": {
+      "funding": [
+        {
+          "text": "Clari raised $225M Series F in January 2022 at a $1.6B valuation (unicorn), led by Silver Lake. Total funding: $495M. Funds for product expansion, enterprise sales hiring, and international go-to-market.",
+          "source": "TechCrunch / Clari press release (January 2022)",
+          "recency_days": 760,
+          "verified": true,
+          "verification_source": "techcrunch.com/2022/01/25/clari-raises-225m-series-f-reaches-1-6b-valuation/"
+        },
+        {
+          "text": "Clari acquired Groove (B2B sales engagement platform) in 2023 to expand from forecasting into full-funnel revenue execution. Deal size undisclosed but estimated $500M+ by industry analysts.",
+          "source": "Forbes / Business Wire (2023)",
+          "recency_days": 400,
+          "verified": true,
+          "verification_source": "businesswire.com \u2014 Clari acquires Groove"
+        }
+      ],
+      "careers": [
+        {
+          "text": "Clari hiring for AI Research Engineer, Revenue Intelligence Product Manager, and Enterprise Sales Engineer roles on LinkedIn (Q1 2026). Strong focus on large language model integration into deal scoring.",
+          "source": "LinkedIn Jobs \u2014 Clari (Q1 2026)",
+          "recency_days": 20,
+          "verified": true,
+          "verification_source": "linkedin.com/company/clari-inc/jobs"
+        }
+      ],
+      "product": [
+        {
+          "text": "Clari's Revenue Platform uses AI to analyze sales signals (emails, calls, CRM data, deal velocity) to forecast revenue and surface at-risk accounts. G2 Leader in Revenue Intelligence and Sales Analytics 2025.",
+          "source": "G2 Category Leader Report \u2014 Revenue Intelligence (2025)",
+          "recency_days": 60,
+          "verified": true,
+          "verification_source": "g2.com/categories/revenue-intelligence \u2014 Clari listed as Leader"
+        },
+        {
+          "text": "Clari launched 'Copilot for Revenue' in 2024 \u2014 AI-powered assistant that uses GPT-4-class LLMs to auto-update CRM, draft follow-up emails, and generate deal health summaries. Competes directly with seller-side AI tools.",
+          "source": "Clari product announcement blog (2024)",
+          "recency_days": 180,
+          "verified": true,
+          "verification_source": "clari.com/blog \u2014 Copilot for Revenue launch"
+        }
+      ],
+      "gtm": [
+        {
+          "text": "Clari customers include Okta, Zoom, Adobe, and Workday. Reports 95%+ gross revenue retention. Enterprise ACV (annual contract value) averages $100K+.",
+          "source": "Clari website / G2 reviews / SEC filing references",
+          "recency_days": 90,
+          "verified": true,
+          "verification_source": "clari.com/customers"
+        }
+      ]
+    },
+    "decision_makers": [
+      {
+        "name": "Andy Byrne",
+        "role": "CEO & Co-Founder",
+        "source": "clari.com/about / LinkedIn",
+        "raw_title": "Co-founder and CEO of Clari. Former VP at VMware. Stanford-educated.",
+        "verified": true
+      },
+      {
+        "name": "Venkat Rangan",
+        "role": "CTO & Co-Founder",
+        "source": "clari.com/about / LinkedIn",
+        "raw_title": "Co-founder and CTO. PhD from Georgia Tech. Leads AI/ML platform and product engineering.",
+        "verified": true
+      }
+    ]
+  },
+  "Spotify": {
+    "meta": {
+      "industry": "Music Streaming / Entertainment Tech",
+      "size": "LARGE",
+      "region": "Stockholm, Sweden (NASDAQ: SPOT)",
+      "employees": 9800,
+      "competitor": false,
+      "competitor_note": "",
+      "internal_tech_strength": 0.92,
+      "conversion_bias": 0.55,
+      "domain_display": "Audio Streaming & Podcast Platform"
+    },
+    "signals": {
+      "funding": [
+        {
+          "text": "Port raises $100M at $800M valuation to take on Spotify\u2019s Backstage - TechCrunch",
+          "source": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQR3RpY285Qm51T1E1T1FDVl9xTlBTaExlaTYwMHJYTkh0NDR4RzBPMVNUR21EZV9XQkg4cGJWaEMtb3c4U25VN0QtZ2VqMktGcDlpTzRtdnhmMldLSWZNejhYWVk1MzFWV09Ya2tEWmd6T2ZQWnQ3Qk5MbVBtMmNXdFY3bnpUSE0yS3hPM2FDS050aUwyZ055b09XeHJ4bVVV?oc=5",
+          "recency_days": 90,
+          "verified": true,
+          "verification_source": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQR3RpY285Qm51T1E1T1FDVl9xTlBTaExlaTYwMHJYTkh0NDR4RzBPMVNUR21EZV9XQkg4cGJWaEMtb3c4U25VN0QtZ2VqMktGcDlpTzRtdnhmMldLSWZNejhYWVk1MzFWV09Ya2tEWmd6T2ZQWnQ3Qk5MbVBtMmNXdFY3bnpUSE0yS3hPM2FDS050aUwyZ055b09XeHJ4bVVV?oc=5"
+        },
+        {
+          "text": "Open-source startup powering Spotify and JP Morgan\u2019s AI raises \u20ac13m seed - Sifted",
+          "source": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1UMlRIVkNBYUF4aTVzbHVaZGU4OFNCYm5sT3JvY2kzVk1scThhOVAyMDBuLXFuVmVqc0tSNU92TlVaYmJxSjd5M0dLekhrTnp4bDZoeVdXSHd5NXh2M3FHVHhuZWNCUQ?oc=5",
+          "recency_days": 90,
+          "verified": true,
+          "verification_source": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1UMlRIVkNBYUF4aTVzbHVaZGU4OFNCYm5sT3JvY2kzVk1scThhOVAyMDBuLXFuVmVqc0tSNU92TlVaYmJxSjd5M0dLekhrTnp4bDZoeVdXSHd5NXh2M3FHVHhuZWNCUQ?oc=5"
+        },
+        {
+          "text": "Spotify's Daniel Ek leads $694 million investment in defense startup Helsing - CNBC",
+          "source": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVGJXQmdydmNhU3V3VkYxaWpWT0JiRUxneFJUQy1WQUVoVWMxbWUzcUdEV05pRUVsUHVzMkNFN0VBN2FxUlNCcnRLdTlwNW5CTmJMcVktSDctYnlkTGlZbTRUcTBUQmVWSTdnVV9EODJRazgxcmwyZTFOTVNRa0czSEk0UEpMNEVwLUZVVXh2QUhINXh1QXBlbHc3QVl1alc20gGmAUFVX3lxTE4wdExxS0syNUxSa3YxQ1pycXFfWV85MDhCNk1rUm1la2k5dzJXQkVzM0FXTnlKLXJWWmVxOWMtNDhBemF3dFJ5eDdSaUJLZjhmQjF4T3lOVmo5dkNqUVVfUXFQNmpaRVM1alFhTVU1UVhCYkNFZm1ldExEYkE5dW9uRVVYaFJyUVhpNUMtcmlLWEZwV1JLT19BWEFzWEN6REdrUWlQLWc?oc=5",
+          "recency_days": 90,
+          "verified": true,
+          "verification_source": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVGJXQmdydmNhU3V3VkYxaWpWT0JiRUxneFJUQy1WQUVoVWMxbWUzcUdEV05pRUVsUHVzMkNFN0VBN2FxUlNCcnRLdTlwNW5CTmJMcVktSDctYnlkTGlZbTRUcTBUQmVWSTdnVV9EODJRazgxcmwyZTFOTVNRa0czSEk0UEpMNEVwLUZVVXh2QUhINXh1QXBlbHc3QVl1alc20gGmAUFVX3lxTE4wdExxS0syNUxSa3YxQ1pycXFfWV85MDhCNk1rUm1la2k5dzJXQkVzM0FXTnlKLXJWWmVxOWMtNDhBemF3dFJ5eDdSaUJLZjhmQjF4T3lOVmo5dkNqUVVfUXFQNmpaRVM1alFhTVU1UVhCYkNFZm1ldExEYkE5dW9uRVVYaFJyUVhpNUMtcmlLWEZwV1JLT19BWEFzWEN6REdrUWlQLWc?oc=5"
+        },
+        {
+          "text": "Musicinfra Announces $5 Million Raise, Welcomes Spotify Vet - Digital Music News",
+          "source": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQOGxkRVVFdGZhVmVNNEhLWWJHZE1VYV9lZmFENzlzMDgzdkRzbWlVRVNsN0lMVkNuZldZV3JZWXAzcUJOVGdHQ1RLaU9aLVB5c0QzcUFaQkxWTUNHUjNBcG96TVR5NF9LT1pQRkhBdnliRFBxbnNBTnZWanFLLW9oNVF0OE9LTzNsQjRYZg?oc=5",
+          "recency_days": 90,
+          "verified": true,
+          "verification_source": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQOGxkRVVFdGZhVmVNNEhLWWJHZE1VYV9lZmFENzlzMDgzdkRzbWlVRVNsN0lMVkNuZldZV3JZWXAzcUJOVGdHQ1RLaU9aLVB5c0QzcUFaQkxWTUNHUjNBcG96TVR5NF9LT1pQRkhBdnliRFBxbnNBTnZWanFLLW9oNVF0OE9LTzNsQjRYZg?oc=5"
+        },
+        {
+          "text": "Spotify Record US$11b Artist Payout Fuels Content And Valuation Story - Sahm",
+          "source": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQcVNFWG1TTTJtSzVPY1U1UlNWWXpfOUloM0wxUlV1amdhNV9zeUZIR2huYUtpOUl6Qmg2Z1dYSTdjOUp2UEhkU1FGN0dTQms2bVk1SXBmZTFFdEFmZ3g1S1FLckFPYjVMLUJ4QzVvLTNaeXY4UlNzUUs1dUxQcm9nRTRqZVFXYjZ0c1d6Um5IZjN6NGxjb28yX2s2bkVTNHpUNnZ1MVdkTHFIQVNYR1dIZ3d0X1lwVF80SzJUOQ?oc=5",
+          "recency_days": 90,
+          "verified": true,
+          "verification_source": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQcVNFWG1TTTJtSzVPY1U1UlNWWXpfOUloM0wxUlV1amdhNV9zeUZIR2huYUtpOUl6Qmg2Z1dYSTdjOUp2UEhkU1FGN0dTQms2bVk1SXBmZTFFdEFmZ3g1S1FLckFPYjVMLUJ4QzVvLTNaeXY4UlNzUUs1dUxQcm9nRTRqZVFXYjZ0c1d6Um5IZjN6NGxjb28yX2s2bkVTNHpUNnZ1MVdkTHFIQVNYR1dIZ3d0X1lwVF80SzJUOQ?oc=5"
+        }
+      ],
+      "careers": [
+        {
+          "text": "Spotify has 25 open roles \u2014 top depts: Platform (11), Experience (4), Students (3). AI/ML keywords in JDs: LLM, machine learning, AI.",
+          "source": "Lever ATS",
+          "recency_days": 14,
+          "verified": true,
+          "verification_source": ""
+        }
+      ],
+      "product": [
+        {
+          "text": "About Spotify. Spotify \u2014 About Spotify News News & Announcements Artists & Creators Culture & Trends Behind the Bus",
+          "source": "https://newsroom.spotify.com/company-info/",
+          "recency_days": 90,
+          "verified": true,
+          "verification_source": "https://newsroom.spotify.com/company-info/"
+        },
+        {
+          "text": "Safety at Spotify. Spotify \u2014 Safety at Spotify News News & Announcements Artists & Creators Culture & Trends Behind the",
+          "source": "https://newsroom.spotify.com/safety-at-spotify/",
+          "recency_days": 520,
+          "verified": true,
+          "verification_source": "https://newsroom.spotify.com/safety-at-spotify/"
+        },
+        {
+          "text": "Watch Robyn\u2019s Long-Awaited Return to the Stage in Spotify\u2019s Exclusive Concert Film. Watch Robyn\u2019s Long-Awaited Return to the Stage in Spotify\u2019s Exclusive Concert Film \u2014 Spotify News Ne",
+          "source": "https://newsroom.spotify.com/2026-02-19/robyn-live-los-angeles-concert-film/",
+          "recency_days": 90,
+          "verified": true,
+          "verification_source": "https://newsroom.spotify.com/2026-02-19/robyn-live-los-angeles-concert-film/"
+        },
+        {
+          "text": "Women in Podcasting Craft New Connections at Spotify\u2019s Galentine\u2019s Day Celebration in LA. Women in Podcasting Craft New Connections at Spotify\u2019s Galentine\u2019s Day Celebration in LA \u2014 Spotify N",
+          "source": "https://newsroom.spotify.com/2026-02-12/women-podcasters-galentines-celebration/",
+          "recency_days": 90,
+          "verified": true,
+          "verification_source": "https://newsroom.spotify.com/2026-02-12/women-podcasters-galentines-celebration/"
+        }
+      ],
+      "infra": [
+        {
+          "text": "Spotify runs on: Google Analytics, Heap.",
+          "source": "Tech stack fingerprint \u2014 spotify.com",
+          "recency_days": 7,
+          "verified": true,
+          "verification_source": "https://spotify.com"
+        },
+        {
+          "text": "The Ringer, Spotify Podcast Division Hit by Layoffs - Front Office Sports",
+          "source": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBSczRIallVODY3SkxZQ1M4U212NnVCc2o0UjNsemZBOE9NUWp1dW5EY1pOV2IwV3JMaF9NLXRCS3l3N3pwblkwaHdaR2s1SEQwS0pRdWU5TWdHQW13WWZrWS1JbHhaTktBRTFYcDJVdUdwc0w2X1g2RTB3?oc=5",
+          "recency_days": 90,
+          "verified": true,
+          "verification_source": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBSczRIallVODY3SkxZQ1M4U212NnVCc2o0UjNsemZBOE9NUWp1dW5EY1pOV2IwV3JMaF9NLXRCS3l3N3pwblkwaHdaR2s1SEQwS0pRdWU5TWdHQW13WWZrWS1JbHhaTktBRTFYcDJVdUdwc0w2X1g2RTB3?oc=5"
+        },
+        {
+          "text": "I Was Laid Off From Spotify After Moving to Sweden for My Dream Job - Business Insider",
+          "source": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOcDd3cDVzcjAybjdpTWhfQmdDWEFCWktEb3pnQk5LbXA5cjFydU9aU0RhNG4wS3BoRjR2X3BiNmY5ZGxRR3ZiaDNxcnZRRVQ3RUdMcXo3SDNTX2JidldNUDVSZlk2aEplZTZUcF9vaVdKMVlfVXpzaFJGZWpyS3VoNWNBaXJ3MGtjaTZZYjJmelVaRzdDeDNz?oc=5",
+          "recency_days": 90,
+          "verified": true,
+          "verification_source": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOcDd3cDVzcjAybjdpTWhfQmdDWEFCWktEb3pnQk5LbXA5cjFydU9aU0RhNG4wS3BoRjR2X3BiNmY5ZGxRR3ZiaDNxcnZRRVQ3RUdMcXo3SDNTX2JidldNUDVSZlk2aEplZTZUcF9vaVdKMVlfVXpzaFJGZWpyS3VoNWNBaXJ3MGtjaTZZYjJmelVaRzdDeDNz?oc=5"
+        },
+        {
+          "text": "Spotify Layoffs Across Podcast Studio and the Ringer Team Announced - The HR Digest",
+          "source": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOSzZjQVFleGVSUVZEMHp5RDlvVGRaR0cwTmFXN0J4Yk1GUHF6enR0U1Z4WEM0bXl4N1ZOc0E1MG5kbkdZYWxKV1ZrWDI0WFd2SVY1c1RuRGdBSGo5XzAycDQ1ZFZjakcyc0F5ZXB6OEN2R3RKamd3OTQ5MTBCZmxOZXNZSUc1MnhYSkV4alRpVmIzTk03cWVhNHBfa04?oc=5",
+          "recency_days": 90,
+          "verified": true,
+          "verification_source": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOSzZjQVFleGVSUVZEMHp5RDlvVGRaR0cwTmFXN0J4Yk1GUHF6enR0U1Z4WEM0bXl4N1ZOc0E1MG5kbkdZYWxKV1ZrWDI0WFd2SVY1c1RuRGdBSGo5XzAycDQ1ZFZjakcyc0F5ZXB6OEN2R3RKamd3OTQ5MTBCZmxOZXNZSUc1MnhYSkV4alRpVmIzTk03cWVhNHBfa04?oc=5"
+        }
+      ]
+    },
+    "decision_makers": [
+      {
+        "name": "",
+        "role": "CTO / VP Engineering",
+        "source": "inferred from careers"
+      }
+    ]
+  },
+  "MLM Constructions and Products": {
+    "meta": {
+      "industry": "Civil Engineering / Construction",
+      "size": "SMALL",
+      "region": "India",
+      "employees": 120,
+      "competitor": false,
+      "competitor_note": "",
+      "internal_tech_strength": 0.25,
+      "conversion_bias": 0.7,
+      "domain_display": "Construction & Building Materials",
+      "domain": "mluisconstruction.com"
+    },
+    "signals": {
+      "product": [
+        {
+          "text": "M Luis Construction earns Montgomery Serves Award",
+          "source": "https://www.mluisconstruction.com/m-luis-construction-earns-montgomery-serves-award/",
+          "recency_days": 1739,
+          "verified": true,
+          "verification_source": "https://www.mluisconstruction.com/m-luis-construction-earns-montgomery-serves-award/"
+        },
+        {
+          "text": "M Luis Construction Partners with BGE Workforce Collaborative",
+          "source": "https://www.mluisconstruction.com/m-luis-construction-partners-with-bge-workforce-collaborative/",
+          "recency_days": 1817,
+          "verified": true,
+          "verification_source": "https://www.mluisconstruction.com/m-luis-construction-partners-with-bge-workforce-collaborative/"
+        },
+        {
+          "text": "M Luis Construction Co., Inc., Receives 2021 MdQI Award of Excellence",
+          "source": "https://www.mluisconstruction.com/m-luis-receives-2021-mdqi-award/",
+          "recency_days": 1835,
+          "verified": true,
+          "verification_source": "https://www.mluisconstruction.com/m-luis-receives-2021-mdqi-award/"
+        },
+        {
+          "text": "WCC Receives Construction Gift",
+          "source": "https://www.mluisconstruction.com/wcc-receives-construction-gift/",
+          "recency_days": 1864,
+          "verified": true,
+          "verification_source": "https://www.mluisconstruction.com/wcc-receives-construction-gift/"
+        },
+        {
+          "text": "M Luis Construction provides inclusive, safety-first civil construction services with projects across multiple sectors.",
+          "source": "mluisconstruction.com \u2014 verified website",
+          "recency_days": 7,
+          "verified": true,
+          "verification_source": "https://mluisconstruction.com"
+        },
+        {
+          "text": "Construction firms are adopting digital project management and BIM (Building Information Modeling) tools at accelerating pace.",
+          "source": "Construction industry digitalization trend \u2014 KPMG 2024",
+          "recency_days": 90,
+          "verified": false,
+          "verification_source": ""
+        }
+      ],
+      "infra": [
+        {
+          "text": "Legacy tech: jQuery, WordPress, PHP. Medium-High \u2014 several legacy systems",
+          "source": "Tech stack fingerprint \u2014 mluisconstruction.com",
+          "recency_days": 7,
+          "verified": true,
+          "verification_source": "https://mluisconstruction.com"
+        },
+        {
+          "text": "Construction SMEs managing multiple projects face scheduling, procurement, and reporting bottlenecks without integrated data systems.",
+          "source": "Sector inference \u2014 construction SME",
+          "recency_days": 90,
+          "verified": false,
+          "verification_source": ""
+        }
+      ]
+    },
+    "decision_makers": [
+      {
+        "name": "",
+        "role": "Managing Director / Owner",
+        "source": "Inferred (SME structure)"
+      }
+    ]
+  },
+  "Deenet Services": {
+    "meta": {
+      "industry": "IT Services / Digital Solutions",
+      "size": "SMALL",
+      "region": "India",
+      "employees": 80,
+      "competitor": false,
+      "competitor_note": "",
+      "internal_tech_strength": 0.4,
+      "conversion_bias": 0.75,
+      "domain_display": "IT Services & Digital Transformation",
+      "domain": "deenetservices.net"
+    },
+    "signals": {
+      "product": [
+        {
+          "text": "Mangaluru: \u2018DeeNet Services Pvt Ltd\u2019 introduces unlimited internet for Rs 199 - Daijiworld",
+          "source": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE04UHlITUxuVFdMZXR1MnhUSEZ4TXRha0pqdkplU1BhclBhX2VYTE1IR3c4ZncxanhfRFFsLVF5Q3hMR1gtVEhxSm9aRklRajJ6blhYSWdkZGZOXzRoclEzWnpjdGpSZFhG?oc=5",
+          "recency_days": 90,
+          "verified": true,
+          "verification_source": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE04UHlITUxuVFdMZXR1MnhUSEZ4TXRha0pqdkplU1BhclBhX2VYTE1IR3c4ZncxanhfRFFsLVF5Q3hMR1gtVEhxSm9aRklRajJ6blhYSWdkZGZOXzRoclEzWnpjdGpSZFhG?oc=5"
+        },
+        {
+          "text": "Deenet Services provides IT solutions and digital transformation services with a growing enterprise client base.",
+          "source": "deenetservices.net \u2014 website",
+          "recency_days": 14,
+          "verified": true,
+          "verification_source": "https://deenetservices.net"
+        },
+        {
+          "text": "Indian IT services SMEs are scaling cloud-native and AI delivery capacity \u2014 high inbound demand from enterprise clients.",
+          "source": "NASSCOM SME report 2024",
+          "recency_days": 90,
+          "verified": false,
+          "verification_source": "https://nasscom.in"
+        }
+      ],
+      "infra": [
+        {
+          "text": "Deenet Services website runs: Nginx. Tech stack fingerprinted.",
+          "source": "Tech stack fingerprint \u2014 deenetservices.net",
+          "recency_days": 7,
+          "verified": true,
+          "verification_source": "https://deenetservices.net"
+        },
+        {
+          "text": "Legacy tech detected: jQuery. Low-Medium \u2014 one legacy component",
+          "source": "Tech stack fingerprint \u2014 deenetservices.net",
+          "recency_days": 7,
+          "verified": true,
+          "verification_source": "https://deenetservices.net"
+        },
+        {
+          "text": "IT services firms at 80-100 people face delivery bottlenecks: client demand growing faster than headcount.",
+          "source": "Sector inference \u2014 IT SME growth pattern",
+          "recency_days": 90,
+          "verified": false,
+          "verification_source": ""
+        }
+      ],
+      "careers": [
+        {
+          "text": "No public ATS (Greenhouse/Lever/Ashby) detected. Likely recruits via Naukri/LinkedIn.",
+          "source": "ATS scan \u2014 deenetservices.net",
+          "recency_days": 14,
+          "verified": true,
+          "verification_source": "https://deenetservices.net"
+        }
+      ]
+    },
+    "decision_makers": [
+      {
+        "name": "",
+        "role": "CEO / Founder",
+        "source": "Inferred (small IT firm structure)"
+      }
+    ]
+  },
+  "Fathima Stores": {
+    "meta": {
+      "industry": "Retail / Grocery Supermarket",
+      "size": "SMALL",
+      "region": "Kerala, India",
+      "employees": 200,
+      "competitor": false,
+      "competitor_note": "",
+      "internal_tech_strength": 0.2,
+      "conversion_bias": 0.65,
+      "domain_display": "Retail Supermarket Chain"
+    },
+    "signals": {
+      "product": [
+        {
+          "text": "Fathima Stores is a supermarket chain operating in Kerala, India with an active e-commerce site at fathimastores.com.",
+          "source": "fathimastores.com \u2014 publicly accessible website",
+          "recency_days": 14,
+          "verified": true,
+          "verification_source": "https://fathimastores.com"
+        },
+        {
+          "text": "Retail businesses in Kerala are investing in POS digitization, inventory management, and delivery logistics platforms.",
+          "source": "Kerala retail sector trend \u2014 Confederation of Indian Industry 2024",
+          "recency_days": 90,
+          "verified": false,
+          "verification_source": ""
+        }
+      ],
+      "infra": [
+        {
+          "text": "Fathima Stores runs on: Google Analytics.",
+          "source": "Tech stack fingerprint \u2014 fathimastores.com",
+          "recency_days": 7,
+          "verified": true,
+          "verification_source": "https://fathimastores.com"
+        },
+        {
+          "text": "Website runs on Google Analytics \u2014 digital presence confirmed. No modern data stack or ERP signals detected.",
+          "source": "Tech stack fingerprint \u2014 fathimastores.com",
+          "recency_days": 7,
+          "verified": true,
+          "verification_source": "https://fathimastores.com"
+        },
+        {
+          "text": "Inventory and supply chain data management is a common pain point for supermarket chains of this size.",
+          "source": "Retail sector inference \u2014 unverified for this specific company",
+          "recency_days": 90,
+          "verified": false,
+          "verification_source": ""
+        }
+      ],
+      "careers": [
+        {
+          "text": "No structured ATS or digital hiring platform detected. Local grocery retail typically hires via walk-ins and local job boards.",
+          "source": "Tech stack scan \u2014 no ATS found",
+          "recency_days": 14,
+          "verified": true,
+          "verification_source": "https://fathimastores.com"
+        }
+      ]
+    },
+    "decision_makers": [
+      {
+        "name": "",
+        "role": "Director / Store Operations Head",
+        "source": "Inferred (retail chain structure)"
+      }
+    ]
+  }
+}

@@ -1,0 +1,205 @@
+[
+  {
+    "id": "ai_infra_buildout",
+    "name": "AI Infra Buildout",
+    "description": "Custom AI infrastructure build for SCALE_UP companies with BUILD_HEAVY strategy. Best for companies showing high strain scores (>0.6), hiring data/ML engineers, and lacking internal AI platform. Typical engagement: 3-6 months, dedicated team.",
+    "triggers": [
+      "BUILD_HEAVY",
+      "high strain",
+      "scale_up",
+      "hiring engineers",
+      "ml infrastructure",
+      "pipeline bottleneck",
+      "data platform"
+    ],
+    "upsell": [
+      "ml_pipeline_audit",
+      "technical_advisory"
+    ],
+    "deal_size": "LARGE",
+    "best_fit_states": [
+      "SCALE_UP"
+    ],
+    "best_fit_strategies": [
+      "BUILD_HEAVY"
+    ]
+  },
+  {
+    "id": "ml_pipeline_audit",
+    "name": "ML Pipeline Audit",
+    "description": "Deep-dive audit of existing ML/data pipelines for companies with INFRA signals and medium conversion likelihood. Identifies bottlenecks, costs, and migration paths. Ideal entry point for companies evaluating Datavex before committing to a full build.",
+    "triggers": [
+      "infra signals",
+      "legacy stack",
+      "pipeline issues",
+      "latency",
+      "CO_BUILD",
+      "medium conversion",
+      "tech debt",
+      "wordpress",
+      "legacy"
+    ],
+    "upsell": [
+      "ai_infra_buildout",
+      "technical_advisory"
+    ],
+    "deal_size": "MEDIUM",
+    "best_fit_states": [
+      "SCALE_UP",
+      "MATURE"
+    ],
+    "best_fit_strategies": [
+      "CO_BUILD",
+      "AUDIT"
+    ]
+  },
+  {
+    "id": "data_strategy_workshop",
+    "name": "Data Strategy Workshop",
+    "description": "Half-day workshop for decision makers to define their data/AI roadmap. Best for companies early in their data journey \u2014 small/mid size, low internal tech strength. Great entry point for construction, retail, and IT services companies. Converts to ongoing advisory or pipeline audit.",
+    "triggers": [
+      "small company",
+      "low tech strength",
+      "early stage",
+      "MONITOR",
+      "retail",
+      "construction",
+      "IT services",
+      "no data team",
+      "data strategy",
+      "digital transformation"
+    ],
+    "upsell": [
+      "technical_advisory",
+      "ml_pipeline_audit"
+    ],
+    "deal_size": "SMALL",
+    "best_fit_states": [
+      "EARLY_GROWTH"
+    ],
+    "best_fit_strategies": [
+      "MONITOR",
+      "CO_BUILD"
+    ]
+  },
+  {
+    "id": "technical_advisory",
+    "name": "Technical Advisory Retainer",
+    "description": "Monthly retainer for companies that need ongoing AI/data guidance without a full build. Best for MONITOR strategy companies to keep relationship warm. Also suits IT services firms who want to upskill their team. High recurrence, compounds into larger engagements over time.",
+    "triggers": [
+      "MONITOR",
+      "ongoing",
+      "retainer",
+      "advisory",
+      "IT services",
+      "relationship",
+      "upskill",
+      "recurring",
+      "low conversion"
+    ],
+    "upsell": [
+      "ml_pipeline_audit",
+      "ai_infra_buildout"
+    ],
+    "deal_size": "SMALL",
+    "best_fit_states": [
+      "ANY"
+    ],
+    "best_fit_strategies": [
+      "MONITOR",
+      "CO_BUILD"
+    ]
+  },
+  {
+    "id": "data_platform_integration",
+    "name": "Data Platform Integration",
+    "description": "Integrate disparate data sources into a unified modern data platform (Snowflake, dbt, Spark, or similar). Best for LARGE companies with existing infra but fragmented data sources. Pharma, engineering software, and agri-tech are ideal fits.",
+    "triggers": [
+      "data integration",
+      "fragmented data",
+      "multiple sources",
+      "LARGE company",
+      "pharma",
+      "agri-tech",
+      "engineering software",
+      "platform",
+      "snowflake",
+      "dbt",
+      "spark",
+      "unified"
+    ],
+    "upsell": [
+      "ml_pipeline_audit",
+      "ai_infra_buildout"
+    ],
+    "deal_size": "LARGE",
+    "best_fit_states": [
+      "MATURE",
+      "SCALE_UP"
+    ],
+    "best_fit_strategies": [
+      "PLATFORM",
+      "BUILD_HEAVY",
+      "CO_BUILD"
+    ]
+  },
+  {
+    "id": "ai_readiness_assessment",
+    "name": "AI Readiness Assessment",
+    "description": "Structured 2-week assessment of a company's data maturity, infrastructure, and team readiness for AI adoption. Deliverable: scored report + prioritised roadmap. Best for companies that have expressed AI interest but haven't started. Low barrier to entry, high conversion to larger engagements.",
+    "triggers": [
+      "assessment",
+      "readiness",
+      "not started",
+      "exploring AI",
+      "data maturity",
+      "roadmap",
+      "early",
+      "small",
+      "medium"
+    ],
+    "upsell": [
+      "data_strategy_workshop",
+      "ml_pipeline_audit"
+    ],
+    "deal_size": "SMALL",
+    "best_fit_states": [
+      "EARLY_GROWTH",
+      "SCALE_UP"
+    ],
+    "best_fit_strategies": [
+      "MONITOR",
+      "CO_BUILD"
+    ]
+  },
+  {
+    "id": "real_time_streaming_build",
+    "name": "Real-Time Streaming Pipeline Build",
+    "description": "End-to-end Kafka/Flink/Spark Streaming pipeline for companies needing live data processing \u2014 e-commerce, fintech, streaming platforms. Best for companies with PRODUCT signals (new features needing real-time data). Spotify and similar companies with live listener analytics are ideal.",
+    "triggers": [
+      "real-time",
+      "streaming",
+      "kafka",
+      "live data",
+      "low latency",
+      "music",
+      "e-commerce",
+      "fintech",
+      "product launch",
+      "PRODUCT signal"
+    ],
+    "upsell": [
+      "ai_infra_buildout",
+      "ml_pipeline_audit"
+    ],
+    "deal_size": "LARGE",
+    "best_fit_states": [
+      "SCALE_UP",
+      "MATURE"
+    ],
+    "best_fit_strategies": [
+      "BUILD_HEAVY",
+      "CO_BUILD"
+    ]
+  }
+]
